@@ -1,6 +1,6 @@
 ## Updated on 2022.02.12
 
-## object detection
+## Object Detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
@@ -11,7 +11,7 @@
 |**2022-02-10**|**Understanding Rare Spurious Correlations in Neural Networks**|Yao-Yuan Yang et.al.|[2202.05189v1](http://arxiv.org/abs/2202.05189v1)|
 |**2022-02-10**|**A candidate short-period sub-Earth orbiting Proxima Centauri**|J. P. Faria et.al.|[2202.05188v1](http://arxiv.org/abs/2202.05188v1)|
 
-## meta learning
+## Meta Learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
@@ -22,7 +22,7 @@
 |**2022-02-10**|**Characterizing, Detecting, and Predicting Online Ban Evasion**|Manoj Niverthi et.al.|[2202.05257v1](http://arxiv.org/abs/2202.05257v1)|
 |**2022-02-10**|**Conditional Diffusion Probabilistic Model for Speech Enhancement**|Yen-Ju Lu et.al.|[2202.05256v1](http://arxiv.org/abs/2202.05256v1)|
 
-## reinforcement learning
+## Reinforcement learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
@@ -33,7 +33,7 @@
 |**2022-02-10**|**Characterizing, Detecting, and Predicting Online Ban Evasion**|Manoj Niverthi et.al.|[2202.05257v1](http://arxiv.org/abs/2202.05257v1)|
 |**2022-02-10**|**Conditional Diffusion Probabilistic Model for Speech Enhancement**|Yen-Ju Lu et.al.|[2202.05256v1](http://arxiv.org/abs/2202.05256v1)|
 
-## few-shot learning
+## Few-shot Learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
@@ -44,7 +44,7 @@
 |**2022-02-10**|**Characterizing, Detecting, and Predicting Online Ban Evasion**|Manoj Niverthi et.al.|[2202.05257v1](http://arxiv.org/abs/2202.05257v1)|
 |**2022-02-10**|**Conditional Diffusion Probabilistic Model for Speech Enhancement**|Yen-Ju Lu et.al.|[2202.05256v1](http://arxiv.org/abs/2202.05256v1)|
 
-## transformer
+## Transformer
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
@@ -55,7 +55,7 @@
 |**2022-02-10**|**Entanglement catalysis for quantum states and noisy channels**|Chandan Datta et.al.|[2202.05228v1](http://arxiv.org/abs/2202.05228v1)|
 |**2022-02-10**|**Exact solution of the macroscopic fluctuation theory for the symmetric exclusion process**|Kirone Mallick et.al.|[2202.05213v1](http://arxiv.org/abs/2202.05213v1)|
 
-## attention mechanism
+## Attention Mechanism
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
