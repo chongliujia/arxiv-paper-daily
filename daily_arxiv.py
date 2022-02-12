@@ -133,6 +133,8 @@ if __name__ == "__main__":
     keywords["meta learning"] = "meta learning"
     keywords["reinforcement learning"] = "reinforcement learning"
     keywords["few-shot learning"] = "few-shot learning"
+    keywords["transformer"] = "transformer"
+    keywords["attention mechanism"] = "attention mechanism"
 
     for topic, keyword in keywords.items():
         print("Keyword: " + topic)
