@@ -38,7 +38,7 @@ def get_daily_papers(topic, query="object detection", max_results=3):
 
         paper_abstract = result.summary.replace("\n", " ")
         paper_authors  = get_authors(result.authors)
-        paper_first_author = get_authors(result.authors, first_authir = True)
+        paper_first_author = get_authors(result.authors, first_author = True)
 
         primary_category   = result.primary_category
 
