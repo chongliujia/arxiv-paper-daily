@@ -131,8 +131,8 @@ if __name__ == "__main__":
     keywords = dict()
     keywords["Object Detection"] = "Object Detection"
     keywords["Meta Learning"] = "Meta Learning"
-    keywords["Reinforcement learning"] = "Reinforcement Learning"
-    keywords["Few-shot Learning"] = "Few-shot learning"
+    keywords["Reinforcement Larning"] = "Reinforcement Learning"
+    keywords["Few-shot Learning"] = "Few-shot Learning"
     keywords["Transformer"] = "Transformer"
     keywords["Attention Mechanism"] = "Attention Mechanism"
 
