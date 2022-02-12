@@ -132,7 +132,7 @@ if __name__ == "__main__":
     keywords["Computer Vision"] = "Computer Vision"
     keywords["Meta Learning"] = "Meta Learning"
     keywords["Few-Shot Learning"] = "Few-Shot Learning" + "OR" +"\"FSL\""
-    keywords["Transformer"] = "Transformer"
+    keywords["Transformers"] = "Transformers"
     keywords["Attention Mechanisms"] = "Attention Mechanisms" + "OR" + "\"Attention\""
 
     for topic, keyword in keywords.items():
