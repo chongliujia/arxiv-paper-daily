@@ -130,6 +130,9 @@ if __name__ == "__main__":
 
     keywords = dict()
     keywords["object detection"] = "object detection"
+    keywords["meta learning"] = "meta learning"
+    keywords["reinforcement learning"] = "reinforcement learning"
+    keywords["few-shot learning"] = "few-shot learning"
 
     for topic, keyword in keywords.items():
         print("Keyword: " + topic)
