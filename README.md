@@ -22,7 +22,7 @@
 |**2022-02-10**|**Characterizing, Detecting, and Predicting Online Ban Evasion**|Manoj Niverthi et.al.|[2202.05257v1](http://arxiv.org/abs/2202.05257v1)|
 |**2022-02-10**|**Conditional Diffusion Probabilistic Model for Speech Enhancement**|Yen-Ju Lu et.al.|[2202.05256v1](http://arxiv.org/abs/2202.05256v1)|
 
-## Reinforcement learning
+## Reinforcement Larning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
