@@ -55,7 +55,7 @@ def get_daily_papers(topic, query="object detection", max_results=3):
         else:
             paper_key = paper_id[0:ver_pos]
 
-        content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_first_author} et.al.||{paper_id}]({paper_url})|\n"
+        content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|\n"
 
     data = {topic:content}
 
@@ -133,7 +133,7 @@ if __name__ == "__main__":
 
     for topic, keyword in keywords.items():
         print("Keyword: " + topic)
-        data = get_daily_papers(topic, query = keyword, max_results = 10)
+        data = get_daily_papers(topic, query = keyword, max_results = 6)
         data_collector.append(data)
         print("\n")
 
