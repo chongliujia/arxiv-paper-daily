@@ -31,9 +31,9 @@ def get_daily_papers(topic, query="object detection", max_results=3):
             sort_by     = arxiv.SortCriterion.SubmittedDate
             )
 
-    for result in search_engine:
-        paper_title = result.title
+    for result in search_engine.results():
         paper_id    = result.get_short_id()
+        paper_title = result.title
         paper_url   = result.entry_id
 
         paper_abstract = result.summary.replace("\n", " ")
