@@ -129,12 +129,11 @@ if __name__ == "__main__":
     data_collector = []
 
     keywords = dict()
-    keywords["Object Detection"] = "Object Detection"
+    keywords["Computer Vision"] = "Computer Vision"
     keywords["Meta Learning"] = "Meta Learning"
-    keywords["Reinforcement Larning"] = "Reinforcement Learning"
-    keywords["Few-shot Learning"] = "Few-shot Learning"
+    keywords["Few-Shot Learning"] = "Few-Shot Learning" + "OR" +"\"FSL\""
     keywords["Transformer"] = "Transformer"
-    keywords["Attention Mechanism"] = "Attention Mechanism"
+    keywords["Attention Mechanisms"] = "Attention Mechanisms" + "OR" + "\"Attention\""
 
     for topic, keyword in keywords.items():
         print("Keyword: " + topic)
