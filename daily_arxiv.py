@@ -165,6 +165,7 @@ def json_to_md(filename):
             for _,v in day_content.items():
                 if v is not None:
                     f.write(v)
+            f.write(f"\n")
 
 
     print("finished")
