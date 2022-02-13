@@ -118,7 +118,7 @@ def update_json_file(filename, data_all):
     with open(filename, "w") as f:
         json.dump(json_data, f)
 
-def json_to_md(filename):
+def json_to_md(filename, md_filename, to_web=False, use_title=True):
 
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
