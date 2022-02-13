@@ -183,7 +183,7 @@ if __name__ == "__main__":
 
     for topic, keyword in keywords.items():
         print("Keyword: " + topic)
-        data = get_daily_papers(topic, query = keyword, max_results = 6)
+        data, data_web = get_daily_papers(topic, query = keyword, max_results = 6)
         data_collector.append(data)
         data_collector_web.append(data_web)
         print("\n")
