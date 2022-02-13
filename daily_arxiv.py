@@ -189,12 +189,9 @@ if __name__ == "__main__":
 
 
     json_file = "arxiv-daily.json"
-    if ~os.path.exists(json_file):
-        with open(json_file, 'w') as a:
-            print("create " + json_file)
-
+    md_file   = "README.md"
 
     update_json_file(json_file, data_collector)
 
-    json_to_md(json_file)
+    json_to_md(json_file, md_file)
 
