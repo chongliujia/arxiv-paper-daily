@@ -171,8 +171,9 @@ def json_to_md(filename):
 
 
 if __name__ == "__main__":
-    data_collector = []
-
+    data_collector     = []
+    data_collector_web = []
+ 
     keywords = dict()
     keywords["Computer Vision"] = "Computer Vision"
     keywords["Meta Learning"] = "Meta Learning"
