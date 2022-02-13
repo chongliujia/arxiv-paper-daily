@@ -53,6 +53,9 @@ def get_daily_papers(topic, query="object detection", max_results=3):
 
         publish_time       = result.published.date()
 
+        update_time  = result.updated.date()
+        comments     = result.comment
+
 
         print("Time = ", publish_time,
               " title = ", paper_title,
