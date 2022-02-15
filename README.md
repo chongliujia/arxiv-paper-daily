@@ -1,9 +1,15 @@
-## Updated on 2022.02.14
+## Updated on 2022.02.15
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Stochastic models of Jaya and semi-steady-state Jaya algorithms**|Uday K. Chakraborty et.al.|[2202.06944v1](http://arxiv.org/abs/2202.06944v1)|null|
+|**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
+|**2022-02-14**|**Equivariant Kazhdan-Lusztig theory of paving matroids**|Trevor Karn et.al.|[2202.06938v1](http://arxiv.org/abs/2202.06938v1)|null|
+|**2022-02-14**|**Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text**|Sebastian Gehrmann et.al.|[2202.06935v1](http://arxiv.org/abs/2202.06935v1)|null|
+|**2022-02-14**|**Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection**|Fatih Cagatay Akyon et.al.|[2202.06934v1](http://arxiv.org/abs/2202.06934v1)|**[link](https://github.com/obss/sahi)**|
+|**2022-02-14**|**Efficient quantitative assessment of robot swarms: coverage and targeting Lévy strategies**|Siobhan Duncan et.al.|[2202.06931v1](http://arxiv.org/abs/2202.06931v1)|null|
 |**2022-02-11**|**SafePicking: Learning Safe Object Extraction via Object-Level Mapping**|Kentaro Wada et.al.|[2202.05832v1](http://arxiv.org/abs/2202.05832v1)|null|
 |**2022-02-11**|**Automated Architecture Search for Brain-inspired Hyperdimensional Computing**|Junhuan Yang et.al.|[2202.05827v1](http://arxiv.org/abs/2202.05827v1)|null|
 |**2022-02-11**|**CLIPasso: Semantically-Aware Object Sketching**|Yael Vinker et.al.|[2202.05822v1](http://arxiv.org/abs/2202.05822v1)|null|
@@ -21,6 +27,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Symbiotic joint operation of quantum and classical coherent communications**|Raphaël Aymeric et.al.|[2202.06942v1](http://arxiv.org/abs/2202.06942v1)|null|
+|**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
+|**2022-02-14**|**Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text**|Sebastian Gehrmann et.al.|[2202.06935v1](http://arxiv.org/abs/2202.06935v1)|null|
+|**2022-02-14**|**Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection**|Fatih Cagatay Akyon et.al.|[2202.06934v1](http://arxiv.org/abs/2202.06934v1)|**[link](https://github.com/obss/sahi)**|
+|**2022-02-14**|**Tensor Moments of Gaussian Mixture Models: Theory and Applications**|João M. Pereira et.al.|[2202.06930v1](http://arxiv.org/abs/2202.06930v1)|null|
+|**2022-02-14**|**Accelerating the Inference of the Exa.TrkX Pipeline**|Alina Lazar et.al.|[2202.06929v1](http://arxiv.org/abs/2202.06929v1)|null|
 |**2022-02-11**|**Predicting Out-of-Distribution Error with the Projection Norm**|Yaodong Yu et.al.|[2202.05834v1](http://arxiv.org/abs/2202.05834v1)|**[link](https://github.com/yaodongyu/projnorm)**|
 |**2022-02-11**|**Active Privacy-Utility Trade-off Against Inference in Time-Series Data Sharing**|Ecenaz Erdemir et.al.|[2202.05833v1](http://arxiv.org/abs/2202.05833v1)|null|
 |**2022-02-11**|**SafePicking: Learning Safe Object Extraction via Object-Level Mapping**|Kentaro Wada et.al.|[2202.05832v1](http://arxiv.org/abs/2202.05832v1)|null|
@@ -49,6 +61,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**A simple proof that the $hp$-FEM does not suffer from the pollution effect for the constant-coefficient full-space Helmholtz equation**|Euan A. Spence et.al.|[2202.06939v1](http://arxiv.org/abs/2202.06939v1)|null|
+|**2022-02-14**|**A Generic Self-Supervised Framework of Learning Invariant Discriminative Features**|Foivos Ntelemis et.al.|[2202.06914v1](http://arxiv.org/abs/2202.06914v1)|null|
+|**2022-02-14**|**A topological Paley-Wiener-Schwartz Theorem for sections of homogeneous vector bundles on $G/K$**|Martin Olbrich et.al.|[2202.06905v1](http://arxiv.org/abs/2202.06905v1)|null|
+|**2022-02-14**|**Hydrothermal synthesis, structure, and antibacterial studies of a nanosized iron zeolite**|Karam S. El-Nassera et.al.|[2202.06900v1](http://arxiv.org/abs/2202.06900v1)|null|
+|**2022-02-14**|**Reviewing the Geometric Hamilton-Jacobi Theory concerning Jacobi and Leibniz identities**|O. Esen et.al.|[2202.06896v1](http://arxiv.org/abs/2202.06896v1)|null|
+|**2022-02-14**|**Visual Acoustic Matching**|Changan Chen et.al.|[2202.06875v1](http://arxiv.org/abs/2202.06875v1)|null|
 |**2022-02-11**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell et.al.|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
 |**2022-02-11**|**Investigating Power laws in Deep Representation Learning**|Arna Ghosh et.al.|[2202.05808v1](http://arxiv.org/abs/2202.05808v1)|null|
 |**2022-02-11**|**Answer Set Planning: A Survey**|Tran Cao Son et.al.|[2202.05793v1](http://arxiv.org/abs/2202.05793v1)|null|
@@ -66,6 +84,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**The Complexity of Matching Games: A Survey**|Márton Benedek et.al.|[2202.06898v1](http://arxiv.org/abs/2202.06898v1)|null|
+|**2022-02-14**|**Visual Acoustic Matching**|Changan Chen et.al.|[2202.06875v1](http://arxiv.org/abs/2202.06875v1)|null|
+|**2022-02-14**|**An experimental study of the vision-bottleneck in VQA**|Pierre Marza et.al.|[2202.06858v1](http://arxiv.org/abs/2202.06858v1)|null|
+|**2022-02-14**|**What Do They Capture? -- A Structural Analysis of Pre-Trained Language Models for Source Code**|Yao Wan et.al.|[2202.06840v1](http://arxiv.org/abs/2202.06840v1)|**[link](https://github.com/CGCL-codes/naturalcc)**|
+|**2022-02-14**|**Close-up and Whispering: An Understanding of Multimodal and Parasocial Interactions in YouTube ASMR videos**|Shuo Niu et.al.|[2202.06839v1](http://arxiv.org/abs/2202.06839v1)|null|
+|**2022-02-14**|**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**|Seokju Cho et.al.|[2202.06817v1](http://arxiv.org/abs/2202.06817v1)|**[link](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**|
 |**2022-02-11**|**A Newton-type algorithm for federated learning based on incremental Hessian eigenvector sharing**|Nicolò Dal Fabbro et.al.|[2202.05800v1](http://arxiv.org/abs/2202.05800v1)|null|
 |**2022-02-11**|**The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention**|Kazuki Irie et.al.|[2202.05798v1](http://arxiv.org/abs/2202.05798v1)|**[link](https://github.com/robertcsordas/linear_layer_as_attention)**|
 |**2022-02-11**|**The xmuspeech system for multi-channel multi-party meeting transcription challenge**|Jie Wang et.al.|[2202.05744v1](http://arxiv.org/abs/2202.05744v1)|null|
