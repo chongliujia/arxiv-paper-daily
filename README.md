@@ -1,9 +1,15 @@
-## Updated on 2022.02.15
+## Updated on 2022.02.16
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Mobile impurity in a one-dimensional gas at finite temperatures**|Oleksandr Gamayun et.al.|[2202.07657v1](http://arxiv.org/abs/2202.07657v1)|null|
+|**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
+|**2022-02-15**|**Conformal Prediction Sets with Limited False Positives**|Adam Fisch et.al.|[2202.07650v1](http://arxiv.org/abs/2202.07650v1)|**[link](https://github.com/ajfisch/conformal-fp)**|
+|**2022-02-15**|**Quantifying Memorization Across Neural Language Models**|Nicholas Carlini et.al.|[2202.07646v1](http://arxiv.org/abs/2202.07646v1)|null|
+|**2022-02-15**|**Lie Point Symmetry Data Augmentation for Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.07643v1](http://arxiv.org/abs/2202.07643v1)|null|
+|**2022-02-15**|**On Dynamic Lifting and Effect Typing in Circuit Description Languages (Extended Version)**|Andrea Colledan et.al.|[2202.07636v1](http://arxiv.org/abs/2202.07636v1)|null|
 |**2022-02-14**|**Stochastic models of Jaya and semi-steady-state Jaya algorithms**|Uday K. Chakraborty et.al.|[2202.06944v1](http://arxiv.org/abs/2202.06944v1)|null|
 |**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
 |**2022-02-14**|**Equivariant Kazhdan-Lusztig theory of paving matroids**|Trevor Karn et.al.|[2202.06938v1](http://arxiv.org/abs/2202.06938v1)|null|
@@ -27,6 +33,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
+|**2022-02-15**|**Predicting on the Edge: Identifying Where a Larger Model Does Better**|Taman Narayan et.al.|[2202.07652v1](http://arxiv.org/abs/2202.07652v1)|null|
+|**2022-02-15**|**Conformal Prediction Sets with Limited False Positives**|Adam Fisch et.al.|[2202.07650v1](http://arxiv.org/abs/2202.07650v1)|**[link](https://github.com/ajfisch/conformal-fp)**|
+|**2022-02-15**|**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**|Namyong Park et.al.|[2202.07648v1](http://arxiv.org/abs/2202.07648v1)|null|
+|**2022-02-15**|**Quantifying Memorization Across Neural Language Models**|Nicholas Carlini et.al.|[2202.07646v1](http://arxiv.org/abs/2202.07646v1)|null|
+|**2022-02-15**|**Identifying strongly correlated groups of sections in a large motorway network**|Shanshan Wang et.al.|[2202.07644v1](http://arxiv.org/abs/2202.07644v1)|null|
 |**2022-02-14**|**Symbiotic joint operation of quantum and classical coherent communications**|Raphaël Aymeric et.al.|[2202.06942v1](http://arxiv.org/abs/2202.06942v1)|null|
 |**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
 |**2022-02-14**|**Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text**|Sebastian Gehrmann et.al.|[2202.06935v1](http://arxiv.org/abs/2202.06935v1)|null|
@@ -61,6 +73,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Lie Point Symmetry Data Augmentation for Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.07643v1](http://arxiv.org/abs/2202.07643v1)|null|
+|**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
+|**2022-02-15**|**ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification**|Thomas Stegmüller et.al.|[2202.07570v1](http://arxiv.org/abs/2202.07570v1)|null|
+|**2022-02-15**|**Unsupervised Learning of Group Invariant and Equivariant Representations**|Robin Winter et.al.|[2202.07559v1](http://arxiv.org/abs/2202.07559v1)|null|
+|**2022-02-15**|**A Theory of PAC Learnability under Transformation Invariances**|Han Shao et.al.|[2202.07552v1](http://arxiv.org/abs/2202.07552v1)|null|
+|**2022-02-15**|**BLUE at Memotion 2.0 2022: You have my Image, my Text and my Transformer**|Ana-Maria Bucur et.al.|[2202.07543v1](http://arxiv.org/abs/2202.07543v1)|null|
 |**2022-02-14**|**A simple proof that the $hp$-FEM does not suffer from the pollution effect for the constant-coefficient full-space Helmholtz equation**|Euan A. Spence et.al.|[2202.06939v1](http://arxiv.org/abs/2202.06939v1)|null|
 |**2022-02-14**|**A Generic Self-Supervised Framework of Learning Invariant Discriminative Features**|Foivos Ntelemis et.al.|[2202.06914v1](http://arxiv.org/abs/2202.06914v1)|null|
 |**2022-02-14**|**A topological Paley-Wiener-Schwartz Theorem for sections of homogeneous vector bundles on $G/K$**|Martin Olbrich et.al.|[2202.06905v1](http://arxiv.org/abs/2202.06905v1)|null|
@@ -84,6 +102,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Theoretical description of pygmy (dipole) resonances**|Edoardo G. Lanza et.al.|[2202.07589v1](http://arxiv.org/abs/2202.07589v1)|null|
+|**2022-02-15**|**ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification**|Thomas Stegmüller et.al.|[2202.07570v1](http://arxiv.org/abs/2202.07570v1)|null|
+|**2022-02-15**|**StratDef: a strategic defense against adversarial attacks in malware detection**|Aqib Rashid et.al.|[2202.07568v1](http://arxiv.org/abs/2202.07568v1)|null|
+|**2022-02-15**|**Improving the repeatability of deep learning models with Monte Carlo dropout**|Andreanne Lemay et.al.|[2202.07562v1](http://arxiv.org/abs/2202.07562v1)|**[link](https://github.com/andreanne-lemay/gray_zone_assessment)**|
+|**2022-02-15**|**Resonance phase lags of a Duffing oscillator**|Martin Volvert et.al.|[2202.07556v1](http://arxiv.org/abs/2202.07556v1)|null|
+|**2022-02-15**|**Fair Division of Indivisible Goods: A Survey**|Georgios Amanatidis et.al.|[2202.07551v1](http://arxiv.org/abs/2202.07551v1)|null|
 |**2022-02-14**|**The Complexity of Matching Games: A Survey**|Márton Benedek et.al.|[2202.06898v1](http://arxiv.org/abs/2202.06898v1)|null|
 |**2022-02-14**|**Visual Acoustic Matching**|Changan Chen et.al.|[2202.06875v1](http://arxiv.org/abs/2202.06875v1)|null|
 |**2022-02-14**|**An experimental study of the vision-bottleneck in VQA**|Pierre Marza et.al.|[2202.06858v1](http://arxiv.org/abs/2202.06858v1)|null|
