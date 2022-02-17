@@ -1,9 +1,15 @@
-## Updated on 2022.02.16
+## Updated on 2022.02.17
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Centralizers of Hamiltonian circle actions on rational ruled surfaces**|Pranav Chakravarthy et.al.|[2202.08255v1](http://arxiv.org/abs/2202.08255v1)|null|
+|**2022-02-16**|**Protocols for Trainable and Differentiable Quantum Generative Modelling**|Oleksandr Kyriienko et.al.|[2202.08253v1](http://arxiv.org/abs/2202.08253v1)|null|
+|**2022-02-16**|**Preconditioners for computing multiple solutions in three-dimensional fluid topology optimization**|Ioannis P. A. Papadopoulos et.al.|[2202.08248v1](http://arxiv.org/abs/2202.08248v1)|null|
+|**2022-02-16**|**Industrially Microfabricated Ion Trap with 1 eV Trap Depth**|S. Auchter et.al.|[2202.08244v1](http://arxiv.org/abs/2202.08244v1)|null|
+|**2022-02-16**|**Singularities of Gaussian Random Maps into the Plane**|Mishal Assif P K et.al.|[2202.08242v1](http://arxiv.org/abs/2202.08242v1)|null|
+|**2022-02-16**|**"Way back then": A Data-driven View of 25+ years of Web Evolution**|Vibhor Agarwal et.al.|[2202.08239v1](http://arxiv.org/abs/2202.08239v1)|null|
 |**2022-02-15**|**Mobile impurity in a one-dimensional gas at finite temperatures**|Oleksandr Gamayun et.al.|[2202.07657v1](http://arxiv.org/abs/2202.07657v1)|null|
 |**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
 |**2022-02-15**|**Conformal Prediction Sets with Limited False Positives**|Adam Fisch et.al.|[2202.07650v1](http://arxiv.org/abs/2202.07650v1)|**[link](https://github.com/ajfisch/conformal-fp)**|
@@ -33,6 +39,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Protocols for Trainable and Differentiable Quantum Generative Modelling**|Oleksandr Kyriienko et.al.|[2202.08253v1](http://arxiv.org/abs/2202.08253v1)|null|
+|**2022-02-16**|**On Learning and Enforcing Latent Assessment Models using Binary Feedback from Human Auditors Regarding Black-Box Classifiers**|Mukund Telukunta et.al.|[2202.08250v1](http://arxiv.org/abs/2202.08250v1)|null|
+|**2022-02-16**|**A multi-reconstruction study of breast density estimation using Deep Learning**|Vikash Gupta et.al.|[2202.08238v1](http://arxiv.org/abs/2202.08238v1)|null|
+|**2022-02-16**|**Using the left Gram matrix to cluster high dimensional data**|Shahina Rahman et.al.|[2202.08236v1](http://arxiv.org/abs/2202.08236v1)|null|
+|**2022-02-16**|**Data Augmentation for Deep Graph Learning: A Survey**|Kaize Ding et.al.|[2202.08235v1](http://arxiv.org/abs/2202.08235v1)|null|
+|**2022-02-16**|**Quantum Lazy Training**|Erfan Abedi et.al.|[2202.08232v1](http://arxiv.org/abs/2202.08232v1)|null|
 |**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
 |**2022-02-15**|**Predicting on the Edge: Identifying Where a Larger Model Does Better**|Taman Narayan et.al.|[2202.07652v1](http://arxiv.org/abs/2202.07652v1)|null|
 |**2022-02-15**|**Conformal Prediction Sets with Limited False Positives**|Adam Fisch et.al.|[2202.07650v1](http://arxiv.org/abs/2202.07650v1)|**[link](https://github.com/ajfisch/conformal-fp)**|
@@ -73,6 +85,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Protocols for Trainable and Differentiable Quantum Generative Modelling**|Oleksandr Kyriienko et.al.|[2202.08253v1](http://arxiv.org/abs/2202.08253v1)|null|
+|**2022-02-16**|**Fast inverse transform sampling of non-Gaussian distribution functions in space plasmas**|Xin An et.al.|[2202.08203v1](http://arxiv.org/abs/2202.08203v1)|null|
+|**2022-02-16**|**Off-shell cubic hypermultiplet couplings to $\mathcal{N}=2$ higher spin gauge superfields**|Ioseph Buchbinder et.al.|[2202.08196v1](http://arxiv.org/abs/2202.08196v1)|null|
+|**2022-02-16**|**Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images**|Yi Lin et.al.|[2202.08195v1](http://arxiv.org/abs/2202.08195v1)|null|
+|**2022-02-16**|**Deep Contextual Bandits for Orchestrating Multi-User MISO Systems with Multiple RISs**|Kyriakos Stylianopoulos et.al.|[2202.08194v1](http://arxiv.org/abs/2202.08194v1)|null|
+|**2022-02-16**|**Tomographic Muon Imaging of the Great Pyramid of Giza**|Alan D. Bross et.al.|[2202.08184v1](http://arxiv.org/abs/2202.08184v1)|null|
 |**2022-02-15**|**Lie Point Symmetry Data Augmentation for Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.07643v1](http://arxiv.org/abs/2202.07643v1)|null|
 |**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
 |**2022-02-15**|**ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification**|Thomas Stegmüller et.al.|[2202.07570v1](http://arxiv.org/abs/2202.07570v1)|null|
@@ -102,6 +120,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**A Prospective Approach for Human-to-Human Interaction Recognition from Wi-Fi Channel Data using Attention Bidirectional Gated Recurrent Neural Network with GUI Application Implementation**|Md. Mohi Uddin Khan et.al.|[2202.08146v1](http://arxiv.org/abs/2202.08146v1)|null|
+|**2022-02-16**|**Duality pairs, phantom maps, and definability in triangulated categories**|Isaac Bird et.al.|[2202.08113v1](http://arxiv.org/abs/2202.08113v1)|null|
+|**2022-02-16**|**Out-Of-Distribution Generalization on Graphs: A Survey**|Haoyang Li et.al.|[2202.07987v1](http://arxiv.org/abs/2202.07987v1)|null|
+|**2022-02-16**|**Tailoring higher-order exceptional points toward enhanced sensitivity**|Ambaresh Sahoo et.al.|[2202.07972v1](http://arxiv.org/abs/2202.07972v1)|null|
+|**2022-02-16**|**Turn Tree into Graph: Automatic Code Review via Simplified AST Driven Graph Convolutional Network**|B. Wu et.al.|[2202.07946v1](http://arxiv.org/abs/2202.07946v1)|null|
+|**2022-02-16**|**A new and homogeneous metallicity scale for Galactic classical Cepheids II. The abundance of iron and alpha elements**|R. da Silva et.al.|[2202.07945v1](http://arxiv.org/abs/2202.07945v1)|null|
 |**2022-02-15**|**Theoretical description of pygmy (dipole) resonances**|Edoardo G. Lanza et.al.|[2202.07589v1](http://arxiv.org/abs/2202.07589v1)|null|
 |**2022-02-15**|**ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification**|Thomas Stegmüller et.al.|[2202.07570v1](http://arxiv.org/abs/2202.07570v1)|null|
 |**2022-02-15**|**StratDef: a strategic defense against adversarial attacks in malware detection**|Aqib Rashid et.al.|[2202.07568v1](http://arxiv.org/abs/2202.07568v1)|null|
