@@ -1,9 +1,15 @@
-## Updated on 2022.02.20
+## Updated on 2022.02.21
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**Model Calibration of the Liquid Mercury Spallation Target using Evolutionary Neural Networks and Sparse Polynomial Expansions**|Majdi I. Radaideh et.al.|[2202.09353v1](http://arxiv.org/abs/2202.09353v1)|null|
+|**2022-02-18**|**Complexity of warped conformal field theory**|Arpan Bhattacharyya et.al.|[2202.09350v1](http://arxiv.org/abs/2202.09350v1)|null|
+|**2022-02-18**|**A Machine Learning Paradigm for Studying Pictorial Realism: Are Constable's Clouds More Real than His Contemporaries?**|Zhuomin Zhang et.al.|[2202.09348v1](http://arxiv.org/abs/2202.09348v1)|null|
+|**2022-02-18**|**Radiation of Closed Strings between the Parallel Dynamical-Dressed Unstable Dp-Branes**|Hamidreza Daniali et.al.|[2202.09347v1](http://arxiv.org/abs/2202.09347v1)|null|
+|**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
+|**2022-02-18**|**Towards the Combination of Model Checking and Runtime Verification on Multi-Agent Systems**|Angelo Ferrando et.al.|[2202.09344v1](http://arxiv.org/abs/2202.09344v1)|null|
 |**2022-02-17**|**Adiabatic Quantum Computing for Multi Object Tracking**|Jan-Nico Zaech et.al.|[2202.08837v1](http://arxiv.org/abs/2202.08837v1)|null|
 |**2022-02-17**|**General Cyclical Training of Neural Networks**|Leslie N. Smith et.al.|[2202.08835v1](http://arxiv.org/abs/2202.08835v1)|**[link](https://github.com/lnsmith54/cfl)**|
 |**2022-02-17**|**Plasticity and evolvability under environmental variability: the joint role of fitness-based selection and niche-limited competition**|Eleni Nisioti et.al.|[2202.08834v1](http://arxiv.org/abs/2202.08834v1)|null|
@@ -45,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!**|Konstantin Mishchenko et.al.|[2202.09357v1](http://arxiv.org/abs/2202.09357v1)|null|
+|**2022-02-18**|**Model Calibration of the Liquid Mercury Spallation Target using Evolutionary Neural Networks and Sparse Polynomial Expansions**|Majdi I. Radaideh et.al.|[2202.09353v1](http://arxiv.org/abs/2202.09353v1)|null|
+|**2022-02-18**|**Assessment of Cyber-Physical Intrusion Detection and Classification for Industrial Control Systems**|Nils Müller et.al.|[2202.09352v1](http://arxiv.org/abs/2202.09352v1)|null|
+|**2022-02-18**|**A Machine Learning Paradigm for Studying Pictorial Realism: Are Constable's Clouds More Real than His Contemporaries?**|Zhuomin Zhang et.al.|[2202.09348v1](http://arxiv.org/abs/2202.09348v1)|null|
+|**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
+|**2022-02-18**|**Learning Physics-Informed Neural Networks without Stacked Back-propagation**|Di He et.al.|[2202.09340v1](http://arxiv.org/abs/2202.09340v1)|null|
 |**2022-02-17**|**Adiabatic Quantum Computing for Multi Object Tracking**|Jan-Nico Zaech et.al.|[2202.08837v1](http://arxiv.org/abs/2202.08837v1)|null|
 |**2022-02-17**|**Data-SUITE: Data-centric identification of in-distribution incongruous examples**|Nabeel Seedat et.al.|[2202.08836v1](http://arxiv.org/abs/2202.08836v1)|null|
 |**2022-02-17**|**General Cyclical Training of Neural Networks**|Leslie N. Smith et.al.|[2202.08835v1](http://arxiv.org/abs/2202.08835v1)|**[link](https://github.com/lnsmith54/cfl)**|
@@ -97,6 +109,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**First hard X-ray imaging results by Solar Orbiter STIX**|Paolo Massa et.al.|[2202.09334v1](http://arxiv.org/abs/2202.09334v1)|null|
+|**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|null|
+|**2022-02-18**|**(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering**|Anoop Cherian et.al.|[2202.09277v1](http://arxiv.org/abs/2202.09277v1)|null|
+|**2022-02-18**|**The sensitivity of $μ\to e$ processes to $τ$ flavour change**|Marco Ardu et.al.|[2202.09246v1](http://arxiv.org/abs/2202.09246v1)|null|
+|**2022-02-18**|**Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks**|Haebom Lee et.al.|[2202.09206v1](http://arxiv.org/abs/2202.09206v1)|null|
+|**2022-02-18**|**Circuit Extraction for ZX-diagrams can be #P-hard**|Niel de Beaudrap et.al.|[2202.09194v1](http://arxiv.org/abs/2202.09194v1)|null|
 |**2022-02-17**|**LAMP: Extracting Text from Gradients with Language Model Priors**|Dimitar I. Dimitrov et.al.|[2202.08827v1](http://arxiv.org/abs/2202.08827v1)|null|
 |**2022-02-17**|**Internal stabilization of an underactuated linear parabolic system via modal decomposition**|Constantinos Kitsos et.al.|[2202.08801v1](http://arxiv.org/abs/2202.08801v1)|null|
 |**2022-02-17**|**cosFormer: Rethinking Softmax in Attention**|Zhen Qin et.al.|[2202.08791v1](http://arxiv.org/abs/2202.08791v1)|**[link](https://github.com/OpenNLPLab/cosFormer)**|
@@ -138,6 +156,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**Complexity of warped conformal field theory**|Arpan Bhattacharyya et.al.|[2202.09350v1](http://arxiv.org/abs/2202.09350v1)|null|
+|**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
+|**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|null|
+|**2022-02-18**|**FinNet: Solving Time-Independent Differential Equations with Finite Difference Neural Network**|Son N. T. Tu et.al.|[2202.09282v1](http://arxiv.org/abs/2202.09282v1)|null|
+|**2022-02-18**|**Is Cross-Attention Preferable to Self-Attention for Multi-Modal Emotion Recognition?**|Vandana Rajan et.al.|[2202.09263v1](http://arxiv.org/abs/2202.09263v1)|**[link](https://github.com/smartcameras/selfcrossattn)**|
+|**2022-02-18**|**Nonstationary multi-output Gaussian processes via harmonizable spectral mixtures**|Matías Altamirano et.al.|[2202.09233v1](http://arxiv.org/abs/2202.09233v1)|null|
 |**2022-02-17**|**Fast Dynamic Updates and Dynamic SpGEMM on MPI-Distributed Graphs**|Alexander van der Grinten et.al.|[2202.08808v1](http://arxiv.org/abs/2202.08808v1)|null|
 |**2022-02-17**|**Making a Radical Misogynist: How online social engagement with the Manosphere influences traits of radicalization**|Hussam Habib et.al.|[2202.08805v1](http://arxiv.org/abs/2202.08805v1)|null|
 |**2022-02-17**|**cosFormer: Rethinking Softmax in Attention**|Zhen Qin et.al.|[2202.08791v1](http://arxiv.org/abs/2202.08791v1)|**[link](https://github.com/OpenNLPLab/cosFormer)**|
