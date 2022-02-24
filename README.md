@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**|Lianhui Qin et.al.|[2202.11705v1](http://arxiv.org/abs/2202.11705v1)|**[link](https://github.com/qkaren/cold_decoding)**|
+|**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
+|**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
+|**2022-02-23**|**Bounding quantum capacities via partial orders and complementarity**|Christoph Hirche et.al.|[2202.11688v1](http://arxiv.org/abs/2202.11688v1)|null|
+|**2022-02-23**|**MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset**|Dan Saattrup Nielsen et.al.|[2202.11684v1](http://arxiv.org/abs/2202.11684v1)|null|
+|**2022-02-23**|**Metalated Porous-Organic-Polymer Renders Mustard-Gas Simulant Harmless: Core Planarity Matters**|Ratul Paul et.al.|[2202.11677v1](http://arxiv.org/abs/2202.11677v1)|null|
 |**2022-02-18**|**Model Calibration of the Liquid Mercury Spallation Target using Evolutionary Neural Networks and Sparse Polynomial Expansions**|Majdi I. Radaideh et.al.|[2202.09353v1](http://arxiv.org/abs/2202.09353v1)|null|
 |**2022-02-18**|**Complexity of warped conformal field theory**|Arpan Bhattacharyya et.al.|[2202.09350v1](http://arxiv.org/abs/2202.09350v1)|null|
 |**2022-02-18**|**A Machine Learning Paradigm for Studying Pictorial Realism: Are Constable's Clouds More Real than His Contemporaries?**|Zhuomin Zhang et.al.|[2202.09348v1](http://arxiv.org/abs/2202.09348v1)|null|
@@ -15,6 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**|Lianhui Qin et.al.|[2202.11705v1](http://arxiv.org/abs/2202.11705v1)|**[link](https://github.com/qkaren/cold_decoding)**|
+|**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
+|**2022-02-23**|**A Class of Geometric Structures in Transfer Learning: Minimax Bounds and Optimality**|Xuhui Zhang et.al.|[2202.11685v1](http://arxiv.org/abs/2202.11685v1)|null|
+|**2022-02-23**|**MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset**|Dan Saattrup Nielsen et.al.|[2202.11684v1](http://arxiv.org/abs/2202.11684v1)|null|
+|**2022-02-23**|**Differences in the attitudes and beliefs about science of students in the physics-mathematics and life sciences areas and their impact on teaching**|Alvaro Suarez et.al.|[2202.11680v1](http://arxiv.org/abs/2202.11680v1)|null|
+|**2022-02-23**|**Bayesian Model Selection, the Marginal Likelihood, and Generalization**|Sanae Lotfi et.al.|[2202.11678v1](http://arxiv.org/abs/2202.11678v1)|null|
 |**2022-02-18**|**ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!**|Konstantin Mishchenko et.al.|[2202.09357v1](http://arxiv.org/abs/2202.09357v1)|null|
 |**2022-02-18**|**Model Calibration of the Liquid Mercury Spallation Target using Evolutionary Neural Networks and Sparse Polynomial Expansions**|Majdi I. Radaideh et.al.|[2202.09353v1](http://arxiv.org/abs/2202.09353v1)|null|
 |**2022-02-18**|**Assessment of Cyber-Physical Intrusion Detection and Classification for Industrial Control Systems**|Nils Müller et.al.|[2202.09352v1](http://arxiv.org/abs/2202.09352v1)|null|
@@ -37,6 +49,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
+|**2022-02-23**|**Metalated Porous-Organic-Polymer Renders Mustard-Gas Simulant Harmless: Core Planarity Matters**|Ratul Paul et.al.|[2202.11677v1](http://arxiv.org/abs/2202.11677v1)|null|
+|**2022-02-23**|**Refining the state-of-the-art in Machine Translation, optimizing NMT for the JA <-> EN language pair by leveraging personal domain expertise**|Matthew Bieda et.al.|[2202.11669v1](http://arxiv.org/abs/2202.11669v1)|null|
+|**2022-02-23**|**A Complete Criterion for Value of Information in Soluble Influence Diagrams**|Chris van Merwijk et.al.|[2202.11629v1](http://arxiv.org/abs/2202.11629v1)|null|
+|**2022-02-23**|**Measurement of Energy Spectrum and Elemental Composition of PeV Cosmic Rays: Open Problems and Prospects**|G. Di Sciascio et.al.|[2202.11618v1](http://arxiv.org/abs/2202.11618v1)|null|
+|**2022-02-23**|**Short-answer scoring with ensembles of pretrained language models**|Christopher Ormerod et.al.|[2202.11558v1](http://arxiv.org/abs/2202.11558v1)|null|
 |**2022-02-18**|**First hard X-ray imaging results by Solar Orbiter STIX**|Paolo Massa et.al.|[2202.09334v1](http://arxiv.org/abs/2202.09334v1)|null|
 |**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|**[link](https://github.com/princeton-nlp/datamux)**|
 |**2022-02-18**|**(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering**|Anoop Cherian et.al.|[2202.09277v1](http://arxiv.org/abs/2202.09277v1)|null|
@@ -48,6 +66,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
+|**2022-02-23**|**Enhanced superconducting pairing strength near a nonmagnetic nematic quantum critical point**|K. Mukasa et.al.|[2202.11657v1](http://arxiv.org/abs/2202.11657v1)|null|
+|**2022-02-23**|**Transitions in Dynamic Map Labeling**|Thomas Depian et.al.|[2202.11562v1](http://arxiv.org/abs/2202.11562v1)|null|
+|**2022-02-23**|**Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut**|Yangtao Wang et.al.|[2202.11539v1](http://arxiv.org/abs/2202.11539v1)|null|
+|**2022-02-23**|**Weakly-supervised learning for image-based classification of primary melanomas into genomic immune subgroups**|Lucy Godson et.al.|[2202.11524v1](http://arxiv.org/abs/2202.11524v1)|null|
+|**2022-02-23**|**Gravity-driven coatings on curved substrates: a differential geometry approach**|Pier Giuseppe Ledda et.al.|[2202.11470v1](http://arxiv.org/abs/2202.11470v1)|null|
 |**2022-02-18**|**Complexity of warped conformal field theory**|Arpan Bhattacharyya et.al.|[2202.09350v1](http://arxiv.org/abs/2202.09350v1)|null|
 |**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
 |**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|**[link](https://github.com/princeton-nlp/datamux)**|
