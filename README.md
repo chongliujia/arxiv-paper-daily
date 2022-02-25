@@ -1,9 +1,15 @@
-## Updated on 2022.02.24
+## Updated on 2022.02.25
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Capturing Failures of Large Language Models via Human Cognitive Biases**|Erik Jones et.al.|[2202.12299v1](http://arxiv.org/abs/2202.12299v1)|null|
+|**2022-02-24**|**Feynman Polytopes and the Tropical Geometry of UV and IR Divergences**|Nima Arkani-Hamed et.al.|[2202.12296v1](http://arxiv.org/abs/2202.12296v1)|null|
+|**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
+|**2022-02-24**|**Planarizing Graphs and their Drawings by Vertex Splitting**|Soeren Nickel et.al.|[2202.12293v1](http://arxiv.org/abs/2202.12293v1)|null|
+|**2022-02-24**|**Bridging Level-K to Nash Equilibrium**|Dan Levin et.al.|[2202.12292v1](http://arxiv.org/abs/2202.12292v1)|**[link](https://github.com/sunshineluyao/NLK)**|
+|**2022-02-24**|**Parametric Amplification of an Optomechanical Quantum Interconnect**|Huo Chen et.al.|[2202.12291v1](http://arxiv.org/abs/2202.12291v1)|null|
 |**2022-02-23**|**COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**|Lianhui Qin et.al.|[2202.11705v1](http://arxiv.org/abs/2202.11705v1)|**[link](https://github.com/qkaren/cold_decoding)**|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
@@ -21,6 +27,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Capturing Failures of Large Language Models via Human Cognitive Biases**|Erik Jones et.al.|[2202.12299v1](http://arxiv.org/abs/2202.12299v1)|null|
+|**2022-02-24**|**Embedded Ensembles: Infinite Width Limit and Operating Regimes**|Maksim Velikanov et.al.|[2202.12297v1](http://arxiv.org/abs/2202.12297v1)|null|
+|**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
+|**2022-02-24**|**Learning Stochastic Dynamics with Statistics-Informed Neural Network**|Yuanran Zhu et.al.|[2202.12278v1](http://arxiv.org/abs/2202.12278v1)|null|
+|**2022-02-24**|**Solving optimization problems with Blackwell approachability**|Julien Grand-Clément et.al.|[2202.12277v1](http://arxiv.org/abs/2202.12277v1)|null|
+|**2022-02-24**|**On the influence of roundoff errors on the convergence of the gradient descent method with low-precision floating-point computation**|Lu Xia et.al.|[2202.12276v1](http://arxiv.org/abs/2202.12276v1)|null|
 |**2022-02-23**|**COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**|Lianhui Qin et.al.|[2202.11705v1](http://arxiv.org/abs/2202.11705v1)|**[link](https://github.com/qkaren/cold_decoding)**|
 |**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
 |**2022-02-23**|**A Class of Geometric Structures in Transfer Learning: Minimax Bounds and Optimality**|Xuhui Zhang et.al.|[2202.11685v1](http://arxiv.org/abs/2202.11685v1)|null|
@@ -49,6 +61,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
+|**2022-02-24**|**Neural reality of argument structure constructions**|Bai Li et.al.|[2202.12246v1](http://arxiv.org/abs/2202.12246v1)|**[link](https://github.com/spoclab-ca/neural-reality-constructions)**|
+|**2022-02-24**|**BERTVision -- A Parameter-Efficient Approach for Question Answering**|Siduo Jiang et.al.|[2202.12210v1](http://arxiv.org/abs/2202.12210v1)|**[link](https://github.com/cbenge509/bertvision)**|
+|**2022-02-24**|**Synthesizing Efficient Dynamic Programming Algorithms**|Ruyi Ji et.al.|[2202.12208v1](http://arxiv.org/abs/2202.12208v1)|null|
+|**2022-02-24**|**Overcoming a Theoretical Limitation of Self-Attention**|David Chiang et.al.|[2202.12172v1](http://arxiv.org/abs/2202.12172v1)|**[link](https://github.com/ndnlp/parity)**|
+|**2022-02-24**|**Attention Enables Zero Approximation Error**|Zhiying Fang et.al.|[2202.12166v1](http://arxiv.org/abs/2202.12166v1)|null|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-23**|**Metalated Porous-Organic-Polymer Renders Mustard-Gas Simulant Harmless: Core Planarity Matters**|Ratul Paul et.al.|[2202.11677v1](http://arxiv.org/abs/2202.11677v1)|null|
 |**2022-02-23**|**Refining the state-of-the-art in Machine Translation, optimizing NMT for the JA <-> EN language pair by leveraging personal domain expertise**|Matthew Bieda et.al.|[2202.11669v1](http://arxiv.org/abs/2202.11669v1)|null|
@@ -66,6 +84,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
+|**2022-02-24**|**ALP induced polarization effects on photons from galaxy clusters**|Giorgio Galanti et.al.|[2202.12286v1](http://arxiv.org/abs/2202.12286v1)|null|
+|**2022-02-24**|**Noisy Group Testing with Side Information**|Esmaeil Karimi et.al.|[2202.12284v1](http://arxiv.org/abs/2202.12284v1)|null|
+|**2022-02-24**|**Finding Inverse Document Frequency Information in BERT**|Jaekeol Choi et.al.|[2202.12191v1](http://arxiv.org/abs/2202.12191v1)|null|
+|**2022-02-24**|**Overcoming a Theoretical Limitation of Self-Attention**|David Chiang et.al.|[2202.12172v1](http://arxiv.org/abs/2202.12172v1)|**[link](https://github.com/ndnlp/parity)**|
+|**2022-02-24**|**Closing the Gap between Single-User and Multi-User VoiceFilter-Lite**|Rajeev Rikhye et.al.|[2202.12169v1](http://arxiv.org/abs/2202.12169v1)|null|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-23**|**Enhanced superconducting pairing strength near a nonmagnetic nematic quantum critical point**|K. Mukasa et.al.|[2202.11657v1](http://arxiv.org/abs/2202.11657v1)|null|
 |**2022-02-23**|**Transitions in Dynamic Map Labeling**|Thomas Depian et.al.|[2202.11562v1](http://arxiv.org/abs/2202.11562v1)|null|
