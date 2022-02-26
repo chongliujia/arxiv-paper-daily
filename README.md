@@ -1,4 +1,4 @@
-## Updated on 2022.02.25
+## Updated on 2022.02.26
 
 ## Computer Vision
 
@@ -9,7 +9,7 @@
 |**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
 |**2022-02-24**|**Planarizing Graphs and their Drawings by Vertex Splitting**|Soeren Nickel et.al.|[2202.12293v1](http://arxiv.org/abs/2202.12293v1)|null|
 |**2022-02-24**|**Bridging Level-K to Nash Equilibrium**|Dan Levin et.al.|[2202.12292v1](http://arxiv.org/abs/2202.12292v1)|**[link](https://github.com/sunshineluyao/NLK)**|
-|**2022-02-24**|**Parametric Amplification of an Optomechanical Quantum Interconnect**|Huo Chen et.al.|[2202.12291v1](http://arxiv.org/abs/2202.12291v1)|null|
+|**2022-02-24**|**Parametric Amplification of an Optomechanical Quantum Interconnect**|Huo Chen et.al.|[2202.12291v1](http://arxiv.org/abs/2202.12291v1)|**[link](https://github.com/neversakura/parametric_amplified_transducer)**|
 |**2022-02-23**|**COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**|Lianhui Qin et.al.|[2202.11705v1](http://arxiv.org/abs/2202.11705v1)|**[link](https://github.com/qkaren/cold_decoding)**|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
