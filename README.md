@@ -1,9 +1,15 @@
-## Updated on 2022.02.27
+## Updated on 2022.02.28
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Biological error correction codes generate fault-tolerant neural networks**|Alexander Zlokapa et.al.|[2202.12887v1](http://arxiv.org/abs/2202.12887v1)|null|
+|**2022-02-25**|**Approximate Weight Distribution of Polarization-Adjusted Convolutional (PAC) Codes**|Sadra Seyedmasoumian et.al.|[2202.12885v1](http://arxiv.org/abs/2202.12885v1)|null|
+|**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
+|**2022-02-25**|**One-dimensional SPT phases protected by frieze symmetries**|Bram Vancraeynest-De Cuiper et.al.|[2202.12880v1](http://arxiv.org/abs/2202.12880v1)|null|
+|**2022-02-25**|**Model predictive control for retinal laser treatment at 1 kHz**|Manuel Schaller et.al.|[2202.12879v1](http://arxiv.org/abs/2202.12879v1)|null|
+|**2022-02-25**|**DataLab: A Platform for Data Analysis and Intervention**|Yang Xiao et.al.|[2202.12875v1](http://arxiv.org/abs/2202.12875v1)|null|
 |**2022-02-24**|**Capturing Failures of Large Language Models via Human Cognitive Biases**|Erik Jones et.al.|[2202.12299v1](http://arxiv.org/abs/2202.12299v1)|null|
 |**2022-02-24**|**Feynman Polytopes and the Tropical Geometry of UV and IR Divergences**|Nima Arkani-Hamed et.al.|[2202.12296v1](http://arxiv.org/abs/2202.12296v1)|null|
 |**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
@@ -27,6 +33,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Combining Observational and Randomized Data for Estimating Heterogeneous Treatment Effects**|Tobias Hatt et.al.|[2202.12891v1](http://arxiv.org/abs/2202.12891v1)|null|
+|**2022-02-25**|**Meta-Learning for Simple Regret Minimization**|Mohammadjavad Azizi et.al.|[2202.12888v1](http://arxiv.org/abs/2202.12888v1)|**[link](https://github.com/Azizimj/Meta-SRM)**|
+|**2022-02-25**|**Biological error correction codes generate fault-tolerant neural networks**|Alexander Zlokapa et.al.|[2202.12887v1](http://arxiv.org/abs/2202.12887v1)|null|
+|**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
+|**2022-02-25**|**DataLab: A Platform for Data Analysis and Intervention**|Yang Xiao et.al.|[2202.12875v1](http://arxiv.org/abs/2202.12875v1)|null|
+|**2022-02-25**|**TerraPN: Unstructured terrain navigation through Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v1](http://arxiv.org/abs/2202.12873v1)|null|
 |**2022-02-24**|**Capturing Failures of Large Language Models via Human Cognitive Biases**|Erik Jones et.al.|[2202.12299v1](http://arxiv.org/abs/2202.12299v1)|null|
 |**2022-02-24**|**Embedded Ensembles: Infinite Width Limit and Operating Regimes**|Maksim Velikanov et.al.|[2202.12297v1](http://arxiv.org/abs/2202.12297v1)|null|
 |**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
@@ -61,6 +73,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Approximate Weight Distribution of Polarization-Adjusted Convolutional (PAC) Codes**|Sadra Seyedmasoumian et.al.|[2202.12885v1](http://arxiv.org/abs/2202.12885v1)|null|
+|**2022-02-25**|**DataLab: A Platform for Data Analysis and Intervention**|Yang Xiao et.al.|[2202.12875v1](http://arxiv.org/abs/2202.12875v1)|null|
+|**2022-02-25**|**Normal forms, moving frames, and differential invariants for nondegenerate hypersurfaces in C^2**|Peter J. Olver et.al.|[2202.12869v1](http://arxiv.org/abs/2202.12869v1)|null|
+|**2022-02-25**|**Hidden symmetry of the static response of black holes: Applications to Love numbers**|Jibril Ben Achour et.al.|[2202.12828v1](http://arxiv.org/abs/2202.12828v1)|null|
+|**2022-02-25**|**Deep learning-assisted imaging through stationary scattering media**|Siddharth Rawat et.al.|[2202.12806v1](http://arxiv.org/abs/2202.12806v1)|null|
+|**2022-02-25**|**Positive Toeplitz Operators from a Harmonic Bergman-Besov space into Another**|Ömer Faruk Doğan et.al.|[2202.12771v1](http://arxiv.org/abs/2202.12771v1)|null|
 |**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
 |**2022-02-24**|**Neural reality of argument structure constructions**|Bai Li et.al.|[2202.12246v1](http://arxiv.org/abs/2202.12246v1)|**[link](https://github.com/spoclab-ca/neural-reality-constructions)**|
 |**2022-02-24**|**BERTVision -- A Parameter-Efficient Approach for Question Answering**|Siduo Jiang et.al.|[2202.12210v1](http://arxiv.org/abs/2202.12210v1)|**[link](https://github.com/cbenge509/bertvision)**|
@@ -84,6 +102,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
+|**2022-02-25**|**Asymptotic expansions of Kummer hypergeometric functions with three asymptotic parameters $a$, $b$ and $z$**|N. M. Temme et.al.|[2202.12857v1](http://arxiv.org/abs/2202.12857v1)|null|
+|**2022-02-25**|**Equilibrium Aggregation: Encoding Sets via Optimization**|Sergey Bartunov et.al.|[2202.12795v1](http://arxiv.org/abs/2202.12795v1)|null|
+|**2022-02-25**|**Towards Safe, Real-Time Systems: Stereo vs Images and LiDAR for 3D Object Detection**|Matthew Levine et.al.|[2202.12773v1](http://arxiv.org/abs/2202.12773v1)|null|
+|**2022-02-25**|**HTGN-BTW: Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction**|Chongjian Yue et.al.|[2202.12713v1](http://arxiv.org/abs/2202.12713v1)|null|
+|**2022-02-25**|**Fluid Simulation System Based on Graph Neural Network**|Qiang Liu et.al.|[2202.12619v1](http://arxiv.org/abs/2202.12619v1)|null|
 |**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
 |**2022-02-24**|**ALP induced polarization effects on photons from galaxy clusters**|Giorgio Galanti et.al.|[2202.12286v1](http://arxiv.org/abs/2202.12286v1)|null|
 |**2022-02-24**|**Noisy Group Testing with Side Information**|Esmaeil Karimi et.al.|[2202.12284v1](http://arxiv.org/abs/2202.12284v1)|null|
