@@ -1,9 +1,15 @@
-## Updated on 2022.02.28
+## Updated on 2022.03.01
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|null|
+|**2022-02-28**|**Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond**|Yue Yao et.al.|[2202.14034v1](http://arxiv.org/abs/2202.14034v1)|null|
+|**2022-02-28**|**Learning Semantic Segmentation from Multiple Datasets with Label Shifts**|Dongwan Kim et.al.|[2202.14030v1](http://arxiv.org/abs/2202.14030v1)|null|
+|**2022-02-28**|**Robust Training under Label Noise by Over-parameterization**|Sheng Liu et.al.|[2202.14026v1](http://arxiv.org/abs/2202.14026v1)|**[link](https://github.com/shengliu66/sop)**|
+|**2022-02-28**|**Arline Benchmarks: Automated Benchmarking Platform for Quantum Compilers**|Y. Kharkov et.al.|[2202.14025v1](http://arxiv.org/abs/2202.14025v1)|null|
+|**2022-02-28**|**A probabilistic result on impulsive noise reduction through Group Equivariant Non-Expansive Operators**|Patrizio Frosini et.al.|[2202.14021v1](http://arxiv.org/abs/2202.14021v1)|null|
 |**2022-02-25**|**Biological error correction codes generate fault-tolerant neural networks**|Alexander Zlokapa et.al.|[2202.12887v1](http://arxiv.org/abs/2202.12887v1)|null|
 |**2022-02-25**|**Approximate Weight Distribution of Polarization-Adjusted Convolutional (PAC) Codes**|Sadra Seyedmasoumian et.al.|[2202.12885v1](http://arxiv.org/abs/2202.12885v1)|null|
 |**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
@@ -33,6 +39,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**Understanding Contrastive Learning Requires Incorporating Inductive Biases**|Nikunj Saunshi et.al.|[2202.14037v1](http://arxiv.org/abs/2202.14037v1)|null|
+|**2022-02-28**|**Learning Semantic Segmentation from Multiple Datasets with Label Shifts**|Dongwan Kim et.al.|[2202.14030v1](http://arxiv.org/abs/2202.14030v1)|null|
+|**2022-02-28**|**Robust Training under Label Noise by Over-parameterization**|Sheng Liu et.al.|[2202.14026v1](http://arxiv.org/abs/2202.14026v1)|**[link](https://github.com/shengliu66/sop)**|
+|**2022-02-28**|**A probabilistic result on impulsive noise reduction through Group Equivariant Non-Expansive Operators**|Patrizio Frosini et.al.|[2202.14021v1](http://arxiv.org/abs/2202.14021v1)|null|
+|**2022-02-28**|**State-of-the-Art in the Architecture, Methods and Applications of StyleGAN**|Amit H. Bermano et.al.|[2202.14020v1](http://arxiv.org/abs/2202.14020v1)|null|
+|**2022-02-28**|**Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment**|Paritosh Parmar et.al.|[2202.14019v1](http://arxiv.org/abs/2202.14019v1)|null|
 |**2022-02-25**|**Combining Observational and Randomized Data for Estimating Heterogeneous Treatment Effects**|Tobias Hatt et.al.|[2202.12891v1](http://arxiv.org/abs/2202.12891v1)|null|
 |**2022-02-25**|**Meta-Learning for Simple Regret Minimization**|Mohammadjavad Azizi et.al.|[2202.12888v1](http://arxiv.org/abs/2202.12888v1)|**[link](https://github.com/Azizimj/Meta-SRM)**|
 |**2022-02-25**|**Biological error correction codes generate fault-tolerant neural networks**|Alexander Zlokapa et.al.|[2202.12887v1](http://arxiv.org/abs/2202.12887v1)|null|
@@ -62,6 +74,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-27**|**Interpretable Concept-based Prototypical Networks for Few-Shot Learning**|Mohammad Reza Zarei et.al.|[2202.13474v1](http://arxiv.org/abs/2202.13474v1)|null|
 |**2022-02-10**|**Bias-Eliminated Semantic Refinement for Any-Shot Learning**|Liangjun Feng et.al.|[2202.04827v1](http://arxiv.org/abs/2202.04827v1)|**[link](https://github.com/liangjunfeng/srwgan)**|
 |**2022-02-07**|**Private Read Update Write (PRUW) with Storage Constrained Databases**|Sajani Vithana et.al.|[2202.03400v1](http://arxiv.org/abs/2202.03400v1)|null|
 |**2022-02-05**|**Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach**|Chunwei Ma et.al.|[2202.02471v1](http://arxiv.org/abs/2202.02471v1)|**[link](https://github.com/horsepurve/deepvoro)**|
@@ -73,6 +86,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**SUNet: Swin Transformer UNet for Image Denoising**|Chi-Mao Fan et.al.|[2202.14009v1](http://arxiv.org/abs/2202.14009v1)|**[link](https://github.com/fanchimao/sunet)**|
+|**2022-02-28**|**Deep, Deep Learning with BART**|Moritz Blumenthal et.al.|[2202.14005v1](http://arxiv.org/abs/2202.14005v1)|null|
+|**2022-02-28**|**A Phase-Space Semiclassical Approach for Modeling Nonadiabatic Nuclear Dynamics with Electronic Spin**|Yanze Wu et.al.|[2202.13973v1](http://arxiv.org/abs/2202.13973v1)|null|
+|**2022-02-28**|**Bonsai: A Generalized Look at Dual Deduplication**|Hadi Sehat et.al.|[2202.13925v1](http://arxiv.org/abs/2202.13925v1)|null|
+|**2022-02-28**|**Dynamic Spatiotemporal ARCH Models**|Philipp Otto et.al.|[2202.13856v1](http://arxiv.org/abs/2202.13856v1)|null|
+|**2022-02-28**|**TEScalib: Targetless Extrinsic Self-Calibration of LiDAR and Stereo Camera for Automated Driving Vehicles with Uncertainty Analysis**|Haohao Hu et.al.|[2202.13847v1](http://arxiv.org/abs/2202.13847v1)|null|
 |**2022-02-25**|**Approximate Weight Distribution of Polarization-Adjusted Convolutional (PAC) Codes**|Sadra Seyedmasoumian et.al.|[2202.12885v1](http://arxiv.org/abs/2202.12885v1)|null|
 |**2022-02-25**|**DataLab: A Platform for Data Analysis and Intervention**|Yang Xiao et.al.|[2202.12875v1](http://arxiv.org/abs/2202.12875v1)|null|
 |**2022-02-25**|**Normal forms, moving frames, and differential invariants for nondegenerate hypersurfaces in C^2**|Peter J. Olver et.al.|[2202.12869v1](http://arxiv.org/abs/2202.12869v1)|null|
@@ -102,6 +121,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**How Well Do My Results Generalize Now? The External Validity of Online Privacy and Security Surveys**|Jenny Tang et.al.|[2202.14036v1](http://arxiv.org/abs/2202.14036v1)|null|
+|**2022-02-28**|**A probabilistic result on impulsive noise reduction through Group Equivariant Non-Expansive Operators**|Patrizio Frosini et.al.|[2202.14021v1](http://arxiv.org/abs/2202.14021v1)|null|
+|**2022-02-28**|**Hyperbolic Graph Neural Networks: A Review of Methods and Applications**|Menglin Yang et.al.|[2202.13852v1](http://arxiv.org/abs/2202.13852v1)|**[link](https://github.com/marlin-codes/HGNNs)**|
+|**2022-02-28**|**Improved Combinatorial Approximation Algorithms for MAX CUT in Sparse Graphs**|Eiichiro Sato et.al.|[2202.13727v1](http://arxiv.org/abs/2202.13727v1)|null|
+|**2022-02-28**|**TC-Net: Triple Context Network for Automated Stroke Lesion Segmentation**|Xiuquan Du et.al.|[2202.13687v1](http://arxiv.org/abs/2202.13687v1)|null|
+|**2022-02-28**|**Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks**|Yile Chen et.al.|[2202.13686v1](http://arxiv.org/abs/2202.13686v1)|null|
 |**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
 |**2022-02-25**|**Asymptotic expansions of Kummer hypergeometric functions with three asymptotic parameters $a$, $b$ and $z$**|N. M. Temme et.al.|[2202.12857v1](http://arxiv.org/abs/2202.12857v1)|null|
 |**2022-02-25**|**Equilibrium Aggregation: Encoding Sets via Optimization**|Sergey Bartunov et.al.|[2202.12795v1](http://arxiv.org/abs/2202.12795v1)|null|
