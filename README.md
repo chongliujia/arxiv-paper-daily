@@ -1,9 +1,15 @@
-## Updated on 2022.03.01
+## Updated on 2022.03.02
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
+|**2022-03-01**|**The Schwinger function, confinement and positivity violation in pure gauge QED**|Lee C. Loveridge et.al.|[2203.00676v1](http://arxiv.org/abs/2203.00676v1)|null|
+|**2022-03-01**|**Advancing an Interdisciplinary Science of Conversation: Insights from a Large Multimodal Corpus of Human Speech**|Andrew Reece et.al.|[2203.00674v1](http://arxiv.org/abs/2203.00674v1)|null|
+|**2022-03-01**|**Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**|Ke Han et.al.|[2203.00672v1](http://arxiv.org/abs/2203.00672v1)|null|
+|**2022-03-01**|**Maximum Flow and Minimum-Cost Flow in Almost-Linear Time**|Li Chen et.al.|[2203.00671v1](http://arxiv.org/abs/2203.00671v1)|null|
+|**2022-03-01**|**Generative Adversarial Networks**|Gilad Cohen et.al.|[2203.00667v1](http://arxiv.org/abs/2203.00667v1)|null|
 |**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|null|
 |**2022-02-28**|**Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond**|Yue Yao et.al.|[2202.14034v1](http://arxiv.org/abs/2202.14034v1)|null|
 |**2022-02-28**|**Learning Semantic Segmentation from Multiple Datasets with Label Shifts**|Dongwan Kim et.al.|[2202.14030v1](http://arxiv.org/abs/2202.14030v1)|null|
@@ -39,6 +45,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**A General Framework for Distributed Partitioned Optimization**|Savelii Chezhegov et.al.|[2203.00681v1](http://arxiv.org/abs/2203.00681v1)|null|
+|**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
+|**2022-03-01**|**Advancing an Interdisciplinary Science of Conversation: Insights from a Large Multimodal Corpus of Human Speech**|Andrew Reece et.al.|[2203.00674v1](http://arxiv.org/abs/2203.00674v1)|null|
+|**2022-03-01**|**AI Planning Annotation for Sample Efficient Reinforcement Learning**|Junkyu Lee et.al.|[2203.00669v1](http://arxiv.org/abs/2203.00669v1)|null|
+|**2022-03-01**|**Generative Adversarial Networks**|Gilad Cohen et.al.|[2203.00667v1](http://arxiv.org/abs/2203.00667v1)|null|
+|**2022-03-01**|**Iterative Residual Policy: for Goal-Conditioned Dynamic Manipulation of Deformable Objects**|Cheng Chi et.al.|[2203.00663v1](http://arxiv.org/abs/2203.00663v1)|null|
 |**2022-02-28**|**Understanding Contrastive Learning Requires Incorporating Inductive Biases**|Nikunj Saunshi et.al.|[2202.14037v1](http://arxiv.org/abs/2202.14037v1)|null|
 |**2022-02-28**|**Learning Semantic Segmentation from Multiple Datasets with Label Shifts**|Dongwan Kim et.al.|[2202.14030v1](http://arxiv.org/abs/2202.14030v1)|null|
 |**2022-02-28**|**Robust Training under Label Noise by Over-parameterization**|Sheng Liu et.al.|[2202.14026v1](http://arxiv.org/abs/2202.14026v1)|**[link](https://github.com/shengliu66/sop)**|
@@ -86,6 +98,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
+|**2022-03-01**|**Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale**|Laurent Sartran et.al.|[2203.00633v1](http://arxiv.org/abs/2203.00633v1)|null|
+|**2022-03-01**|**Dimension Reduction of Two-Dimensional Persistence via Distance Deformations**|Maximilian Neumann et.al.|[2203.00616v1](http://arxiv.org/abs/2203.00616v1)|null|
+|**2022-03-01**|**Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology**|Richard J. Chen et.al.|[2203.00585v1](http://arxiv.org/abs/2203.00585v1)|**[link](https://github.com/richarizardd/self-supervised-vit-path)**|
+|**2022-03-01**|**A Two Plus One Dimensional Continuous Wavelet Transform**|Raja Milad et.al.|[2203.00584v1](http://arxiv.org/abs/2203.00584v1)|null|
+|**2022-03-01**|**DeepNet: Scaling Transformers to 1,000 Layers**|Hongyu Wang et.al.|[2203.00555v1](http://arxiv.org/abs/2203.00555v1)|null|
 |**2022-02-28**|**SUNet: Swin Transformer UNet for Image Denoising**|Chi-Mao Fan et.al.|[2202.14009v1](http://arxiv.org/abs/2202.14009v1)|**[link](https://github.com/fanchimao/sunet)**|
 |**2022-02-28**|**Deep, Deep Learning with BART**|Moritz Blumenthal et.al.|[2202.14005v1](http://arxiv.org/abs/2202.14005v1)|null|
 |**2022-02-28**|**A Phase-Space Semiclassical Approach for Modeling Nonadiabatic Nuclear Dynamics with Electronic Spin**|Yanze Wu et.al.|[2202.13973v1](http://arxiv.org/abs/2202.13973v1)|null|
@@ -121,6 +139,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Distributional Reinforcement Learning for Scheduling of (Bio)chemical Production Processes**|Max Mowbray et.al.|[2203.00636v1](http://arxiv.org/abs/2203.00636v1)|null|
+|**2022-03-01**|**Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale**|Laurent Sartran et.al.|[2203.00633v1](http://arxiv.org/abs/2203.00633v1)|null|
+|**2022-03-01**|**Full RGB Just Noticeable Difference (JND) Modelling**|Jian Jin et.al.|[2203.00629v1](http://arxiv.org/abs/2203.00629v1)|null|
+|**2022-03-01**|**Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology**|Richard J. Chen et.al.|[2203.00585v1](http://arxiv.org/abs/2203.00585v1)|**[link](https://github.com/richarizardd/self-supervised-vit-path)**|
+|**2022-03-01**|**Dielectric response of thin water films: A thermodynamic perspective**|Stephen J. Cox et.al.|[2203.00575v1](http://arxiv.org/abs/2203.00575v1)|null|
+|**2022-03-01**|**DeepNet: Scaling Transformers to 1,000 Layers**|Hongyu Wang et.al.|[2203.00555v1](http://arxiv.org/abs/2203.00555v1)|null|
 |**2022-02-28**|**How Well Do My Results Generalize Now? The External Validity of Online Privacy and Security Surveys**|Jenny Tang et.al.|[2202.14036v1](http://arxiv.org/abs/2202.14036v1)|null|
 |**2022-02-28**|**A probabilistic result on impulsive noise reduction through Group Equivariant Non-Expansive Operators**|Patrizio Frosini et.al.|[2202.14021v1](http://arxiv.org/abs/2202.14021v1)|null|
 |**2022-02-28**|**Hyperbolic Graph Neural Networks: A Review of Methods and Applications**|Menglin Yang et.al.|[2202.13852v1](http://arxiv.org/abs/2202.13852v1)|**[link](https://github.com/marlin-codes/HGNNs)**|
