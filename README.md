@@ -1,9 +1,15 @@
-## Updated on 2022.03.02
+## Updated on 2022.03.03
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Protecting Celebrities with Identity Consistency Transformer**|Xiaoyi Dong et.al.|[2203.01318v1](http://arxiv.org/abs/2203.01318v1)|null|
+|**2022-03-02**|**A comparative study of 3D Cumulant and Central Moments lattice Boltzmann schemes with interpolated boundary conditions for the simulation of thermal flows in high Prandtl number regime**|G. Gruszczyński et.al.|[2203.01316v1](http://arxiv.org/abs/2203.01316v1)|null|
+|**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|null|
+|**2022-03-02**|**Counterfactually Evaluating Explanations in Recommender Systems**|Yuanshun Yao et.al.|[2203.01310v1](http://arxiv.org/abs/2203.01310v1)|null|
+|**2022-03-02**|**DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**|Feng Li et.al.|[2203.01305v1](http://arxiv.org/abs/2203.01305v1)|null|
+|**2022-03-02**|**Supervised Hebbian learning: toward eXplainable AI**|Francesco Alemanno et.al.|[2203.01304v1](http://arxiv.org/abs/2203.01304v1)|null|
 |**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
 |**2022-03-01**|**The Schwinger function, confinement and positivity violation in pure gauge QED**|Lee C. Loveridge et.al.|[2203.00676v1](http://arxiv.org/abs/2203.00676v1)|null|
 |**2022-03-01**|**Advancing an Interdisciplinary Science of Conversation: Insights from a Large Multimodal Corpus of Human Speech**|Andrew Reece et.al.|[2203.00674v1](http://arxiv.org/abs/2203.00674v1)|null|
@@ -45,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|null|
+|**2022-03-02**|**Supervised Hebbian learning: toward eXplainable AI**|Francesco Alemanno et.al.|[2203.01304v1](http://arxiv.org/abs/2203.01304v1)|null|
+|**2022-03-02**|**An Analysis of Ensemble Sampling**|Chao Qin et.al.|[2203.01303v1](http://arxiv.org/abs/2203.01303v1)|null|
+|**2022-03-02**|**Evolving Curricula with Regret-Based Environment Design**|Jack Parker-Holder et.al.|[2203.01302v1](http://arxiv.org/abs/2203.01302v1)|null|
+|**2022-03-02**|**STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations**|Jiayi Wei et.al.|[2203.01299v1](http://arxiv.org/abs/2203.01299v1)|**[link](https://github.com/mrvplusone/steady)**|
+|**2022-03-02**|**Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP**|Ishaan Mehta et.al.|[2203.01298v1](http://arxiv.org/abs/2203.01298v1)|null|
 |**2022-03-01**|**A General Framework for Distributed Partitioned Optimization**|Savelii Chezhegov et.al.|[2203.00681v1](http://arxiv.org/abs/2203.00681v1)|null|
 |**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
 |**2022-03-01**|**Advancing an Interdisciplinary Science of Conversation: Insights from a Large Multimodal Corpus of Human Speech**|Andrew Reece et.al.|[2203.00674v1](http://arxiv.org/abs/2203.00674v1)|null|
@@ -98,6 +110,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Protecting Celebrities with Identity Consistency Transformer**|Xiaoyi Dong et.al.|[2203.01318v1](http://arxiv.org/abs/2203.01318v1)|null|
+|**2022-03-02**|**DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**|Feng Li et.al.|[2203.01305v1](http://arxiv.org/abs/2203.01305v1)|null|
+|**2022-03-02**|**Fast and scalable quantum Monte Carlo simulations of electron-phonon models**|Benjamin Cohen-Stead et.al.|[2203.01291v1](http://arxiv.org/abs/2203.01291v1)|null|
+|**2022-03-02**|**Black hole and wormhole solutions in Einstein-Maxwell-Scalar theory**|Júlio C. Fabris et.al.|[2203.01278v1](http://arxiv.org/abs/2203.01278v1)|null|
+|**2022-03-02**|**Synthetic solar cycle for active regions violating the Hale's polarity law**|A. Zhukova et.al.|[2203.01274v1](http://arxiv.org/abs/2203.01274v1)|null|
+|**2022-03-02**|**Self-supervised Transformer for Deepfake Detection**|Hanqing Zhao et.al.|[2203.01265v1](http://arxiv.org/abs/2203.01265v1)|null|
 |**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
 |**2022-03-01**|**Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale**|Laurent Sartran et.al.|[2203.00633v1](http://arxiv.org/abs/2203.00633v1)|null|
 |**2022-03-01**|**Dimension Reduction of Two-Dimensional Persistence via Distance Deformations**|Maximilian Neumann et.al.|[2203.00616v1](http://arxiv.org/abs/2203.00616v1)|null|
@@ -139,6 +157,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Half Wavelet Attention on M-Net+ for Low-Light Image Enhancement**|Chi-Mao Fan et.al.|[2203.01296v1](http://arxiv.org/abs/2203.01296v1)|**[link](https://github.com/fanchimao/hwmnet)**|
+|**2022-03-02**|**Viscosity in water from first-principles and deep-neural-network simulations**|Cesare Malosso et.al.|[2203.01262v1](http://arxiv.org/abs/2203.01262v1)|null|
+|**2022-03-02**|**Video Question Answering: Datasets, Algorithms and Challenges**|Yaoyao Zhong et.al.|[2203.01225v1](http://arxiv.org/abs/2203.01225v1)|null|
+|**2022-03-02**|**Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings**|Hengyi Wang et.al.|[2203.01192v1](http://arxiv.org/abs/2203.01192v1)|null|
+|**2022-03-02**|**DCT-Former: Efficient Self-Attention withDiscrete Cosine Transform**|Carmelo Scribano et.al.|[2203.01178v1](http://arxiv.org/abs/2203.01178v1)|null|
+|**2022-03-02**|**A Generalized Approach for Cancellable Template and Its Realization for Minutia Cylinder-Code**|Xingbo Dong et.al.|[2203.01095v1](http://arxiv.org/abs/2203.01095v1)|null|
 |**2022-03-01**|**Distributional Reinforcement Learning for Scheduling of (Bio)chemical Production Processes**|Max Mowbray et.al.|[2203.00636v1](http://arxiv.org/abs/2203.00636v1)|null|
 |**2022-03-01**|**Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale**|Laurent Sartran et.al.|[2203.00633v1](http://arxiv.org/abs/2203.00633v1)|null|
 |**2022-03-01**|**Full RGB Just Noticeable Difference (JND) Modelling**|Jian Jin et.al.|[2203.00629v1](http://arxiv.org/abs/2203.00629v1)|null|
