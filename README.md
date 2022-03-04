@@ -1,9 +1,15 @@
-## Updated on 2022.03.03
+## Updated on 2022.03.04
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation**|Muhammad Zubair Irshad et.al.|[2203.01929v1](http://arxiv.org/abs/2203.01929v1)|null|
+|**2022-03-03**|**As Little as Possible, as Much as Necessary: Detecting Over- and Undertranslations with Contrastive Conditioning**|Jannis Vamvas et.al.|[2203.01927v1](http://arxiv.org/abs/2203.01927v1)|**[link](https://github.com/zurichnlp/coverage-contrastive-conditioning)**|
+|**2022-03-03**|**Label-Only Model Inversion Attacks via Boundary Repulsion**|Mostafa Kahla et.al.|[2203.01925v1](http://arxiv.org/abs/2203.01925v1)|null|
+|**2022-03-03**|**Recovering 3D Human Mesh from Monocular Images: A Survey**|Yating Tian et.al.|[2203.01923v1](http://arxiv.org/abs/2203.01923v1)|**[link](https://github.com/tinatiansjz/hmr-survey)**|
+|**2022-03-03**|**Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**|Feng Li et.al.|[2203.01922v1](http://arxiv.org/abs/2203.01922v1)|null|
+|**2022-03-03**|**NUQ: A Noise Metric for Diffusion MRI via Uncertainty Discrepancy Quantification**|Shreyas Fadnavis et.al.|[2203.01921v1](http://arxiv.org/abs/2203.01921v1)|null|
 |**2022-03-02**|**Protecting Celebrities with Identity Consistency Transformer**|Xiaoyi Dong et.al.|[2203.01318v1](http://arxiv.org/abs/2203.01318v1)|null|
 |**2022-03-02**|**A comparative study of 3D Cumulant and Central Moments lattice Boltzmann schemes with interpolated boundary conditions for the simulation of thermal flows in high Prandtl number regime**|G. Gruszczyński et.al.|[2203.01316v1](http://arxiv.org/abs/2203.01316v1)|null|
 |**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|null|
@@ -51,6 +57,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation**|Muhammad Zubair Irshad et.al.|[2203.01929v1](http://arxiv.org/abs/2203.01929v1)|null|
+|**2022-03-03**|**Label-Free Explainability for Unsupervised Models**|Jonathan Crabbé et.al.|[2203.01928v1](http://arxiv.org/abs/2203.01928v1)|null|
+|**2022-03-03**|**Label-Only Model Inversion Attacks via Boundary Repulsion**|Mostafa Kahla et.al.|[2203.01925v1](http://arxiv.org/abs/2203.01925v1)|null|
+|**2022-03-03**|**Min-Max Bilevel Multi-objective Optimization with Applications in Machine Learning**|Alex Gu et.al.|[2203.01924v1](http://arxiv.org/abs/2203.01924v1)|null|
+|**2022-03-03**|**Recovering 3D Human Mesh from Monocular Images: A Survey**|Yating Tian et.al.|[2203.01923v1](http://arxiv.org/abs/2203.01923v1)|**[link](https://github.com/tinatiansjz/hmr-survey)**|
+|**2022-03-03**|**Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**|Feng Li et.al.|[2203.01922v1](http://arxiv.org/abs/2203.01922v1)|null|
 |**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|null|
 |**2022-03-02**|**Supervised Hebbian learning: toward eXplainable AI**|Francesco Alemanno et.al.|[2203.01304v1](http://arxiv.org/abs/2203.01304v1)|null|
 |**2022-03-02**|**An Analysis of Ensemble Sampling**|Chao Qin et.al.|[2203.01303v1](http://arxiv.org/abs/2203.01303v1)|null|
@@ -98,6 +110,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**MetaDT: Meta Decision Tree for Interpretable Few-Shot Learning**|Baoquan Zhang et.al.|[2203.01482v1](http://arxiv.org/abs/2203.01482v1)|null|
 |**2022-02-27**|**Interpretable Concept-based Prototypical Networks for Few-Shot Learning**|Mohammad Reza Zarei et.al.|[2202.13474v1](http://arxiv.org/abs/2202.13474v1)|null|
 |**2022-02-10**|**Bias-Eliminated Semantic Refinement for Any-Shot Learning**|Liangjun Feng et.al.|[2202.04827v1](http://arxiv.org/abs/2202.04827v1)|**[link](https://github.com/liangjunfeng/srwgan)**|
 |**2022-02-07**|**Private Read Update Write (PRUW) with Storage Constrained Databases**|Sajani Vithana et.al.|[2202.03400v1](http://arxiv.org/abs/2202.03400v1)|null|
@@ -110,6 +123,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Instance Segmentation for Autonomous Log Grasping in Forestry Operations**|Jean-Michel Fortin et.al.|[2203.01902v1](http://arxiv.org/abs/2203.01902v1)|null|
+|**2022-03-03**|**TCTrack: Temporal Contexts for Aerial Tracking**|Ziang Cao et.al.|[2203.01885v1](http://arxiv.org/abs/2203.01885v1)|**[link](https://github.com/vision4robotics/tctrack)**|
+|**2022-03-03**|**LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction**|Elmira Amirloo et.al.|[2203.01880v1](http://arxiv.org/abs/2203.01880v1)|null|
+|**2022-03-03**|**Low complexity equalization for AFDM in doubly dispersive channels**|Ali Bemani et.al.|[2203.01875v1](http://arxiv.org/abs/2203.01875v1)|null|
+|**2022-03-03**|**Efficient Video Instance Segmentation via Tracklet Query and Proposal**|Jialian Wu et.al.|[2203.01853v1](http://arxiv.org/abs/2203.01853v1)|null|
+|**2022-03-03**|**The fate of the spin polaron in the 1D antiferromagnet**|Piotr Wrzosek et.al.|[2203.01846v1](http://arxiv.org/abs/2203.01846v1)|null|
 |**2022-03-02**|**Protecting Celebrities with Identity Consistency Transformer**|Xiaoyi Dong et.al.|[2203.01318v1](http://arxiv.org/abs/2203.01318v1)|null|
 |**2022-03-02**|**DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**|Feng Li et.al.|[2203.01305v1](http://arxiv.org/abs/2203.01305v1)|null|
 |**2022-03-02**|**Fast and scalable quantum Monte Carlo simulations of electron-phonon models**|Benjamin Cohen-Stead et.al.|[2203.01291v1](http://arxiv.org/abs/2203.01291v1)|null|
@@ -157,6 +176,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Recovering 3D Human Mesh from Monocular Images: A Survey**|Yating Tian et.al.|[2203.01923v1](http://arxiv.org/abs/2203.01923v1)|**[link](https://github.com/tinatiansjz/hmr-survey)**|
+|**2022-03-03**|**On the non-integrality of certain generalized binomial sums**|Bernd C. Kellner et.al.|[2203.01908v1](http://arxiv.org/abs/2203.01908v1)|null|
+|**2022-03-03**|**Pay Attention to Relations: Multi-embeddings for Attributed Multiplex Networks**|Joshua Melton et.al.|[2203.01903v1](http://arxiv.org/abs/2203.01903v1)|null|
+|**2022-03-03**|**Instance Segmentation for Autonomous Log Grasping in Forestry Operations**|Jean-Michel Fortin et.al.|[2203.01902v1](http://arxiv.org/abs/2203.01902v1)|null|
+|**2022-03-03**|**DenseUNets with feedback non-local attention for the segmentation of specular microscopy images of the corneal endothelium with Fuchs dystrophy**|Juan P. Vigueras-Guillén et.al.|[2203.01882v1](http://arxiv.org/abs/2203.01882v1)|null|
+|**2022-03-03**|**LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction**|Elmira Amirloo et.al.|[2203.01880v1](http://arxiv.org/abs/2203.01880v1)|null|
 |**2022-03-02**|**Half Wavelet Attention on M-Net+ for Low-Light Image Enhancement**|Chi-Mao Fan et.al.|[2203.01296v1](http://arxiv.org/abs/2203.01296v1)|**[link](https://github.com/fanchimao/hwmnet)**|
 |**2022-03-02**|**Viscosity in water from first-principles and deep-neural-network simulations**|Cesare Malosso et.al.|[2203.01262v1](http://arxiv.org/abs/2203.01262v1)|null|
 |**2022-03-02**|**Video Question Answering: Datasets, Algorithms and Challenges**|Yaoyao Zhong et.al.|[2203.01225v1](http://arxiv.org/abs/2203.01225v1)|null|
