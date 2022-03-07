@@ -1,9 +1,15 @@
-## Updated on 2022.03.06
+## Updated on 2022.03.07
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
+|**2022-03-04**|**Efficient Analog CAM Design**|Jinane Bazzi et.al.|[2203.02500v1](http://arxiv.org/abs/2203.02500v1)|null|
+|**2022-03-04**|**Computational Fluid Dynamics and Machine Learning as tools for Optimization of Micromixers geometry**|Daniela de Oliveira Maionchi et.al.|[2203.02498v1](http://arxiv.org/abs/2203.02498v1)|null|
+|**2022-03-04**|**Computationally efficient worst-case analysis of flow-controlled networks with Network Calculus**|Raffaele Zippo et.al.|[2203.02497v1](http://arxiv.org/abs/2203.02497v1)|null|
+|**2022-03-04**|**Greedy Optimization of Electrode Arrangement for Epiretinal Prostheses**|Ashley Bruce et.al.|[2203.02493v1](http://arxiv.org/abs/2203.02493v1)|null|
+|**2022-03-04**|**Gravitating spinning strings in AdS$_3$**|Henry Maxfield et.al.|[2203.02492v1](http://arxiv.org/abs/2203.02492v1)|null|
 |**2022-03-03**|**CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation**|Muhammad Zubair Irshad et.al.|[2203.01929v1](http://arxiv.org/abs/2203.01929v1)|null|
 |**2022-03-03**|**As Little as Possible, as Much as Necessary: Detecting Over- and Undertranslations with Contrastive Conditioning**|Jannis Vamvas et.al.|[2203.01927v1](http://arxiv.org/abs/2203.01927v1)|**[link](https://github.com/zurichnlp/coverage-contrastive-conditioning)**|
 |**2022-03-03**|**Label-Only Model Inversion Attacks via Boundary Repulsion**|Mostafa Kahla et.al.|[2203.01925v1](http://arxiv.org/abs/2203.01925v1)|null|
@@ -57,6 +63,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
+|**2022-03-04**|**No More Than 6ft Apart: Robust K-Means via Radius Upper Bounds**|Ahmed Imtiaz Humayun et.al.|[2203.02502v1](http://arxiv.org/abs/2203.02502v1)|**[link](https://github.com/ahmedimtiazprio/radius-constrained-kmeans)**|
+|**2022-03-04**|**Computational Fluid Dynamics and Machine Learning as tools for Optimization of Micromixers geometry**|Daniela de Oliveira Maionchi et.al.|[2203.02498v1](http://arxiv.org/abs/2203.02498v1)|null|
+|**2022-03-04**|**Learning from Label Proportions by Learning with Label Noise**|Jianxin Zhang et.al.|[2203.02496v1](http://arxiv.org/abs/2203.02496v1)|null|
+|**2022-03-04**|**Greedy Optimization of Electrode Arrangement for Epiretinal Prostheses**|Ashley Bruce et.al.|[2203.02493v1](http://arxiv.org/abs/2203.02493v1)|null|
+|**2022-03-04**|**Pedestrian Stop and Go Forecasting with Hybrid Feature Fusion**|Dongxu Guo et.al.|[2203.02489v1](http://arxiv.org/abs/2203.02489v1)|null|
 |**2022-03-03**|**CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation**|Muhammad Zubair Irshad et.al.|[2203.01929v1](http://arxiv.org/abs/2203.01929v1)|null|
 |**2022-03-03**|**Label-Free Explainability for Unsupervised Models**|Jonathan Crabbé et.al.|[2203.01928v1](http://arxiv.org/abs/2203.01928v1)|null|
 |**2022-03-03**|**Label-Only Model Inversion Attacks via Boundary Repulsion**|Mostafa Kahla et.al.|[2203.01925v1](http://arxiv.org/abs/2203.01925v1)|null|
@@ -123,6 +135,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
+|**2022-03-04**|**Computationally efficient worst-case analysis of flow-controlled networks with Network Calculus**|Raffaele Zippo et.al.|[2203.02497v1](http://arxiv.org/abs/2203.02497v1)|null|
+|**2022-03-04**|**Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2203.02452v1](http://arxiv.org/abs/2203.02452v1)|null|
+|**2022-03-04**|**Open FJRW Theory and Mirror Symmetry**|Mark Gross et.al.|[2203.02435v1](http://arxiv.org/abs/2203.02435v1)|null|
+|**2022-03-04**|**Rethinking Efficient Lane Detection via Curve Modeling**|Zhengyang Feng et.al.|[2203.02431v1](http://arxiv.org/abs/2203.02431v1)|**[link](https://github.com/voldemortX/pytorch-auto-drive)**|
+|**2022-03-04**|**Characterizing Renal Structures with 3D Block Aggregate Transformers**|Xin Yu et.al.|[2203.02430v1](http://arxiv.org/abs/2203.02430v1)|null|
 |**2022-03-03**|**Instance Segmentation for Autonomous Log Grasping in Forestry Operations**|Jean-Michel Fortin et.al.|[2203.01902v1](http://arxiv.org/abs/2203.01902v1)|null|
 |**2022-03-03**|**TCTrack: Temporal Contexts for Aerial Tracking**|Ziang Cao et.al.|[2203.01885v1](http://arxiv.org/abs/2203.01885v1)|**[link](https://github.com/vision4robotics/tctrack)**|
 |**2022-03-03**|**LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction**|Elmira Amirloo et.al.|[2203.01880v1](http://arxiv.org/abs/2203.01880v1)|null|
@@ -176,6 +194,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
+|**2022-03-04**|**Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2203.02452v1](http://arxiv.org/abs/2203.02452v1)|null|
+|**2022-03-04**|**Symmetry enhanced variational quantum eigensolver**|Chufan Lyu et.al.|[2203.02444v1](http://arxiv.org/abs/2203.02444v1)|null|
+|**2022-03-04**|**Characterizing Renal Structures with 3D Block Aggregate Transformers**|Xin Yu et.al.|[2203.02430v1](http://arxiv.org/abs/2203.02430v1)|null|
+|**2022-03-04**|**Mobile authentication of copy detection patterns**|Olga Taran et.al.|[2203.02397v1](http://arxiv.org/abs/2203.02397v1)|null|
+|**2022-03-04**|**How human-robot collaboration impacts construction productivity: an agent-based multi-fidelity modeling approach**|Minghui Wu et.al.|[2203.02393v1](http://arxiv.org/abs/2203.02393v1)|null|
 |**2022-03-03**|**Recovering 3D Human Mesh from Monocular Images: A Survey**|Yating Tian et.al.|[2203.01923v1](http://arxiv.org/abs/2203.01923v1)|**[link](https://github.com/tinatiansjz/hmr-survey)**|
 |**2022-03-03**|**On the non-integrality of certain generalized binomial sums**|Bernd C. Kellner et.al.|[2203.01908v1](http://arxiv.org/abs/2203.01908v1)|null|
 |**2022-03-03**|**Pay Attention to Relations: Multi-embeddings for Attributed Multiplex Networks**|Joshua Melton et.al.|[2203.01903v1](http://arxiv.org/abs/2203.01903v1)|null|
