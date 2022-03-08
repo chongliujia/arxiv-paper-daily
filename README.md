@@ -1,9 +1,15 @@
-## Updated on 2022.03.07
+## Updated on 2022.03.08
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
+|**2022-03-07**|**Human-Aware Object Placement for Visual Environment Reconstruction**|Hongwei Yi et.al.|[2203.03609v1](http://arxiv.org/abs/2203.03609v1)|null|
+|**2022-03-07**|**Emotion Regulation and Dynamics of Moral Concerns During the Early COVID-19 Pandemic**|Siyi Guo et.al.|[2203.03608v1](http://arxiv.org/abs/2203.03608v1)|null|
+|**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
+|**2022-03-07**|**DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**|Hao Zhang et.al.|[2203.03605v1](http://arxiv.org/abs/2203.03605v1)|null|
+|**2022-03-07**|**Surface Eigenvalues with Lattice-Based Approximation In comparison with analytical solution**|Yingying Wu et.al.|[2203.03603v1](http://arxiv.org/abs/2203.03603v1)|null|
 |**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
 |**2022-03-04**|**Efficient Analog CAM Design**|Jinane Bazzi et.al.|[2203.02500v1](http://arxiv.org/abs/2203.02500v1)|null|
 |**2022-03-04**|**Computational Fluid Dynamics and Machine Learning as tools for Optimization of Micromixers geometry**|Daniela de Oliveira Maionchi et.al.|[2203.02498v1](http://arxiv.org/abs/2203.02498v1)|null|
@@ -63,6 +69,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-07**|**Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets**|Martin Magris et.al.|[2203.03613v1](http://arxiv.org/abs/2203.03613v1)|null|
+|**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
+|**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
+|**2022-03-07**|**Differential Privacy Amplification in Quantum and Quantum-inspired Algorithms**|Armando Angrisani et.al.|[2203.03604v1](http://arxiv.org/abs/2203.03604v1)|null|
+|**2022-03-07**|**Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language**|Otniel-Bogdan Mercea et.al.|[2203.03598v1](http://arxiv.org/abs/2203.03598v1)|**[link](https://github.com/explainableml/avca-gzsl)**|
+|**2022-03-07**|**Fast rates for noisy interpolation require rethinking the effects of inductive bias**|Konstantin Donhauser et.al.|[2203.03597v1](http://arxiv.org/abs/2203.03597v1)|null|
 |**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
 |**2022-03-04**|**No More Than 6ft Apart: Robust K-Means via Radius Upper Bounds**|Ahmed Imtiaz Humayun et.al.|[2203.02502v1](http://arxiv.org/abs/2203.02502v1)|**[link](https://github.com/ahmedimtiazprio/radius-constrained-kmeans)**|
 |**2022-03-04**|**Computational Fluid Dynamics and Machine Learning as tools for Optimization of Micromixers geometry**|Daniela de Oliveira Maionchi et.al.|[2203.02498v1](http://arxiv.org/abs/2203.02498v1)|null|
@@ -135,6 +147,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-07**|**Algebra of local symmetric operators and braided fusion $n$-category -- symmetry is a shadow of topological order**|Arkya Chatterjee et.al.|[2203.03596v1](http://arxiv.org/abs/2203.03596v1)|null|
+|**2022-03-07**|**Amorphous Boron Nitride: Ab initio Study of its vibrational properties**|David Hinojosa-Romero et.al.|[2203.03561v1](http://arxiv.org/abs/2203.03561v1)|null|
+|**2022-03-07**|**Free Fock parafermions in the tight-binding model with dissipation**|A. S. Mastiukova et.al.|[2203.03554v1](http://arxiv.org/abs/2203.03554v1)|null|
+|**2022-03-07**|**Summable Orbits**|Snir Ben Ovadia et.al.|[2203.03507v1](http://arxiv.org/abs/2203.03507v1)|null|
+|**2022-03-07**|**Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation**|Meng Tian et.al.|[2203.03498v1](http://arxiv.org/abs/2203.03498v1)|null|
+|**2022-03-07**|**Invariant Family of Leaf measures and The Ledrappier-Young Property for Hyperbolic Equilibrium States**|Snir Ben Ovadia et.al.|[2203.03492v1](http://arxiv.org/abs/2203.03492v1)|null|
 |**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
 |**2022-03-04**|**Computationally efficient worst-case analysis of flow-controlled networks with Network Calculus**|Raffaele Zippo et.al.|[2203.02497v1](http://arxiv.org/abs/2203.02497v1)|null|
 |**2022-03-04**|**Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2203.02452v1](http://arxiv.org/abs/2203.02452v1)|null|
@@ -194,6 +212,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-07**|**Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets**|Martin Magris et.al.|[2203.03613v1](http://arxiv.org/abs/2203.03613v1)|null|
+|**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
+|**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
+|**2022-03-07**|**Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language**|Otniel-Bogdan Mercea et.al.|[2203.03598v1](http://arxiv.org/abs/2203.03598v1)|**[link](https://github.com/explainableml/avca-gzsl)**|
+|**2022-03-07**|**Functional Clustering of Neuronal Signals with FMM Mixture Models**|Alejandro Rodríguez-Collado et.al.|[2203.03588v1](http://arxiv.org/abs/2203.03588v1)|null|
+|**2022-03-07**|**Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention**|Ziming Liu et.al.|[2203.03483v1](http://arxiv.org/abs/2203.03483v1)|null|
 |**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
 |**2022-03-04**|**Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2203.02452v1](http://arxiv.org/abs/2203.02452v1)|null|
 |**2022-03-04**|**Symmetry enhanced variational quantum eigensolver**|Chufan Lyu et.al.|[2203.02444v1](http://arxiv.org/abs/2203.02444v1)|null|
