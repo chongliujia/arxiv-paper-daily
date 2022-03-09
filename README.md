@@ -1,9 +1,15 @@
-## Updated on 2022.03.08
+## Updated on 2022.03.09
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**|Yutong Chen et.al.|[2203.04287v1](http://arxiv.org/abs/2203.04287v1)|null|
+|**2022-03-08**|**Bayesian Persuasion with Mediators**|Itai Arieli et.al.|[2203.04285v1](http://arxiv.org/abs/2203.04285v1)|null|
+|**2022-03-08**|**Combining thermal resummation and gauge invariance for electroweak phase transition**|Philipp Schicho et.al.|[2203.04284v1](http://arxiv.org/abs/2203.04284v1)|null|
+|**2022-03-08**|**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**|Prune Truong et.al.|[2203.04279v1](http://arxiv.org/abs/2203.04279v1)|**[link](https://github.com/PruneTruong/DenseMatching)**|
+|**2022-03-08**|**Robust Multi-Task Learning and Online Refinement for Spacecraft Pose Estimation across Domain Gap**|Tae Ha Park et.al.|[2203.04275v1](http://arxiv.org/abs/2203.04275v1)|null|
+|**2022-03-08**|**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**|Vincent Lim et.al.|[2203.04272v1](http://arxiv.org/abs/2203.04272v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-03-07**|**Human-Aware Object Placement for Visual Environment Reconstruction**|Hongwei Yi et.al.|[2203.03609v1](http://arxiv.org/abs/2203.03609v1)|null|
 |**2022-03-07**|**Emotion Regulation and Dynamics of Moral Concerns During the Early COVID-19 Pandemic**|Siyi Guo et.al.|[2203.03608v1](http://arxiv.org/abs/2203.03608v1)|null|
@@ -69,6 +75,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**|Yutong Chen et.al.|[2203.04287v1](http://arxiv.org/abs/2203.04287v1)|null|
+|**2022-03-08**|**From the Lab to People's Home: Lessons from Accessing Blind Participants' Interactions via Smart Glasses in Remote Studies**|Kyungjun Lee et.al.|[2203.04282v1](http://arxiv.org/abs/2203.04282v1)|null|
+|**2022-03-08**|**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**|Prune Truong et.al.|[2203.04279v1](http://arxiv.org/abs/2203.04279v1)|**[link](https://github.com/PruneTruong/DenseMatching)**|
+|**2022-03-08**|**Robust Multi-Task Learning and Online Refinement for Spacecraft Pose Estimation across Domain Gap**|Tae Ha Park et.al.|[2203.04275v1](http://arxiv.org/abs/2203.04275v1)|null|
+|**2022-03-08**|**Leveraging Initial Hints for Free in Stochastic Linear Bandits**|Ashok Cutkosky et.al.|[2203.04274v1](http://arxiv.org/abs/2203.04274v1)|null|
+|**2022-03-08**|**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**|Vincent Lim et.al.|[2203.04272v1](http://arxiv.org/abs/2203.04272v1)|null|
 |**2022-03-07**|**Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets**|Martin Magris et.al.|[2203.03613v1](http://arxiv.org/abs/2203.03613v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
@@ -147,6 +159,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**The action of HRT-areas as operators in semiclassical gravity**|Molly Kaplan et.al.|[2203.04270v1](http://arxiv.org/abs/2203.04270v1)|null|
+|**2022-03-08**|**$^{139}$La NMR investigation of the interplay between the lattice, charge, and spin dynamics in charge ordered high $T_c$ cuprate La$_{1.875}$Ba$_{0.125}$CuO$_{4}$**|P. M. Singer et.al.|[2203.04265v1](http://arxiv.org/abs/2203.04265v1)|null|
+|**2022-03-08**|**Dual Lottery Ticket Hypothesis**|Yue Bai et.al.|[2203.04248v1](http://arxiv.org/abs/2203.04248v1)|**[link](https://github.com/yueb17/dlth)**|
+|**2022-03-08**|**Projective geometry of homogeneous second order Hamiltonian operators**|Pierandrea Vergallo et.al.|[2203.04237v1](http://arxiv.org/abs/2203.04237v1)|null|
+|**2022-03-08**|**Neural Face Identification in a 2D Wireframe Projection of a Manifold Object**|Kehan Wang et.al.|[2203.04229v1](http://arxiv.org/abs/2203.04229v1)|**[link](https://github.com/manycore-research/faceformer)**|
+|**2022-03-08**|**Revisiting the $^{63}$Cu NMR signature of charge order in La$_{1.875}$Ba$_{0.125}$CuO$_{4}$**|T. Imai et.al.|[2203.04217v1](http://arxiv.org/abs/2203.04217v1)|null|
 |**2022-03-07**|**Algebra of local symmetric operators and braided fusion $n$-category -- symmetry is a shadow of topological order**|Arkya Chatterjee et.al.|[2203.03596v1](http://arxiv.org/abs/2203.03596v1)|null|
 |**2022-03-07**|**Amorphous Boron Nitride: Ab initio Study of its vibrational properties**|David Hinojosa-Romero et.al.|[2203.03561v1](http://arxiv.org/abs/2203.03561v1)|null|
 |**2022-03-07**|**Free Fock parafermions in the tight-binding model with dissipation**|A. S. Mastiukova et.al.|[2203.03554v1](http://arxiv.org/abs/2203.03554v1)|null|
@@ -212,6 +230,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**A Survey on Privacy for B5G/6G: New Privacy Goals, Challenges, and Research Directions**|Chamara Sandeepa et.al.|[2203.04264v1](http://arxiv.org/abs/2203.04264v1)|null|
+|**2022-03-08**|**Measuring the Mixing of Contextual Information in the Transformer**|Javier Ferrando et.al.|[2203.04212v1](http://arxiv.org/abs/2203.04212v1)|**[link](https://github.com/mt-upc/transformer-contributions)**|
+|**2022-03-08**|**Lane Detection with Versatile AtrousFormer and Local Semantic Guidance**|Jiaxing Yang et.al.|[2203.04067v1](http://arxiv.org/abs/2203.04067v1)|null|
+|**2022-03-08**|**Counting with Adaptive Auxiliary Learning**|Yanda Meng et.al.|[2203.04061v1](http://arxiv.org/abs/2203.04061v1)|**[link](https://github.com/smallmax00/counting_with_adaptive_auxiliary)**|
+|**2022-03-08**|**BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs**|Lang Peng et.al.|[2203.04050v1](http://arxiv.org/abs/2203.04050v1)|null|
+|**2022-03-08**|**Graph Attention Transformer Network for Multi-Label Image Classification**|Jin Yuan et.al.|[2203.04049v1](http://arxiv.org/abs/2203.04049v1)|null|
 |**2022-03-07**|**Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets**|Martin Magris et.al.|[2203.03613v1](http://arxiv.org/abs/2203.03613v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
