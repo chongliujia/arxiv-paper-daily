@@ -1,9 +1,15 @@
-## Updated on 2022.03.09
+## Updated on 2022.03.10
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Temporal Difference Learning for Model Predictive Control**|Nicklas Hansen et.al.|[2203.04955v1](http://arxiv.org/abs/2203.04955v1)|null|
+|**2022-03-09**|**Fragile boundaries of tailored surface codes**|Oscar Higgott et.al.|[2203.04948v1](http://arxiv.org/abs/2203.04948v1)|null|
+|**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
+|**2022-03-09**|**Assouad type dimensions of parabolic Julia sets**|Jonathan M. Fraser et.al.|[2203.04943v1](http://arxiv.org/abs/2203.04943v1)|null|
+|**2022-03-09**|**Form factors of $B\toπ\ellν$ and a determination of $|V_{ub}|$ with Möbius domain-wall-fermions**|Brian Colquhoun et.al.|[2203.04938v1](http://arxiv.org/abs/2203.04938v1)|null|
+|**2022-03-09**|**Thermal conductivity of a weakly interacting Bose gas by quasi-one dimensionality**|Tomohiro Tanaka et.al.|[2203.04936v1](http://arxiv.org/abs/2203.04936v1)|null|
 |**2022-03-08**|**A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**|Yutong Chen et.al.|[2203.04287v1](http://arxiv.org/abs/2203.04287v1)|null|
 |**2022-03-08**|**Bayesian Persuasion with Mediators**|Itai Arieli et.al.|[2203.04285v1](http://arxiv.org/abs/2203.04285v1)|null|
 |**2022-03-08**|**Combining thermal resummation and gauge invariance for electroweak phase transition**|Philipp Schicho et.al.|[2203.04284v1](http://arxiv.org/abs/2203.04284v1)|null|
@@ -75,6 +81,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Temporal Difference Learning for Model Predictive Control**|Nicklas Hansen et.al.|[2203.04955v1](http://arxiv.org/abs/2203.04955v1)|null|
+|**2022-03-09**|**Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation Method**|Alvin Shek et.al.|[2203.04951v1](http://arxiv.org/abs/2203.04951v1)|null|
+|**2022-03-09**|**Renyi Fair Information Bottleneck for Image Classification**|Adam Gronowski et.al.|[2203.04950v1](http://arxiv.org/abs/2203.04950v1)|null|
+|**2022-03-09**|**Data-Efficient Structured Pruning via Submodular Optimization**|Marwa El Halabi et.al.|[2203.04940v1](http://arxiv.org/abs/2203.04940v1)|**[link](https://github.com/marwash25/subpruning)**|
+|**2022-03-09**|**Addressing Bias in Visualization Recommenders by Identifying Trends in Training Data: Improving VizML Through a Statistical Analysis of the Plotly Community Feed**|Allen Tu et.al.|[2203.04937v1](http://arxiv.org/abs/2203.04937v1)|null|
+|**2022-03-09**|**Deep Generative Models for Downlink Channel Estimation in FDD Massive MIMO Systems**|Javad Mirzaei et.al.|[2203.04935v1](http://arxiv.org/abs/2203.04935v1)|null|
 |**2022-03-08**|**A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**|Yutong Chen et.al.|[2203.04287v1](http://arxiv.org/abs/2203.04287v1)|null|
 |**2022-03-08**|**From the Lab to People's Home: Lessons from Accessing Blind Participants' Interactions via Smart Glasses in Remote Studies**|Kyungjun Lee et.al.|[2203.04282v1](http://arxiv.org/abs/2203.04282v1)|null|
 |**2022-03-08**|**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**|Prune Truong et.al.|[2203.04279v1](http://arxiv.org/abs/2203.04279v1)|**[link](https://github.com/PruneTruong/DenseMatching)**|
@@ -159,6 +171,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
+|**2022-03-09**|**Pose Guided Multi-person Image Generation From Text**|Soon Yau Cheong et.al.|[2203.04907v1](http://arxiv.org/abs/2203.04907v1)|null|
+|**2022-03-09**|**Algebraic deformations and Fourier--Mukai transforms for Calabi--Yau manifolds**|Hayato Morimura et.al.|[2203.04901v1](http://arxiv.org/abs/2203.04901v1)|null|
+|**2022-03-09**|**Joint Learning of Salient Object Detection, Depth Estimation and Contour Extraction**|Xiaoqi Zhao et.al.|[2203.04895v1](http://arxiv.org/abs/2203.04895v1)|null|
+|**2022-03-09**|**The Connection Between Nesterov's Accelerated Methods and Halpern Fixed-Point Iterations**|Quoc Tran-Dinh et.al.|[2203.04869v1](http://arxiv.org/abs/2203.04869v1)|null|
+|**2022-03-09**|**Threshold surface reactions and local time resetting**|Paul C. Bressloff et.al.|[2203.04868v1](http://arxiv.org/abs/2203.04868v1)|null|
 |**2022-03-08**|**The action of HRT-areas as operators in semiclassical gravity**|Molly Kaplan et.al.|[2203.04270v1](http://arxiv.org/abs/2203.04270v1)|null|
 |**2022-03-08**|**$^{139}$La NMR investigation of the interplay between the lattice, charge, and spin dynamics in charge ordered high $T_c$ cuprate La$_{1.875}$Ba$_{0.125}$CuO$_{4}$**|P. M. Singer et.al.|[2203.04265v1](http://arxiv.org/abs/2203.04265v1)|null|
 |**2022-03-08**|**Dual Lottery Ticket Hypothesis**|Yue Bai et.al.|[2203.04248v1](http://arxiv.org/abs/2203.04248v1)|**[link](https://github.com/yueb17/dlth)**|
@@ -230,6 +248,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**DUAL: Textless Spoken Question Answering with Speech Discrete Unit Adaptive Learning**|Guan-Ting Lin et.al.|[2203.04911v1](http://arxiv.org/abs/2203.04911v1)|null|
+|**2022-03-09**|**Binary Classification Under $\ell_0$ Attacks for General Noise Distribution**|Payam Delgosha et.al.|[2203.04855v1](http://arxiv.org/abs/2203.04855v1)|null|
+|**2022-03-09**|**Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction**|Jing Lin et.al.|[2203.04845v1](http://arxiv.org/abs/2203.04845v1)|null|
+|**2022-03-09**|**CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers**|Huayao Liu et.al.|[2203.04838v1](http://arxiv.org/abs/2203.04838v1)|**[link](https://github.com/huaaaliu/rgbx_semantic_segmentation)**|
+|**2022-03-09**|**Special Issue on Advances in Chiral Quark Models**|Jorge Segovia et.al.|[2203.04778v1](http://arxiv.org/abs/2203.04778v1)|null|
+|**2022-03-09**|**Using Human Gaze For Surgical Activity Recognition**|Abdishakour Awale et.al.|[2203.04752v1](http://arxiv.org/abs/2203.04752v1)|null|
 |**2022-03-08**|**A Survey on Privacy for B5G/6G: New Privacy Goals, Challenges, and Research Directions**|Chamara Sandeepa et.al.|[2203.04264v1](http://arxiv.org/abs/2203.04264v1)|null|
 |**2022-03-08**|**Measuring the Mixing of Contextual Information in the Transformer**|Javier Ferrando et.al.|[2203.04212v1](http://arxiv.org/abs/2203.04212v1)|**[link](https://github.com/mt-upc/transformer-contributions)**|
 |**2022-03-08**|**Lane Detection with Versatile AtrousFormer and Local Semantic Guidance**|Jiaxing Yang et.al.|[2203.04067v1](http://arxiv.org/abs/2203.04067v1)|null|
