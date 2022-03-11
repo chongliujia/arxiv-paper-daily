@@ -1,9 +1,15 @@
-## Updated on 2022.03.10
+## Updated on 2022.03.11
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
+|**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
+|**2022-03-10**|**Cellular automata can classify data by inducing trajectory phase coexistence**|Stephen Whitelam et.al.|[2203.05551v1](http://arxiv.org/abs/2203.05551v1)|null|
+|**2022-03-10**|**An Empirical Investigation of 3D Anomaly Detection and Segmentation**|Eliahu Horwitz et.al.|[2203.05550v1](http://arxiv.org/abs/2203.05550v1)|null|
+|**2022-03-10**|**Rational points on hyperelliptic Atkin-Lehner quotients of modular curves and their coverings**|Nikola Adžaga et.al.|[2203.05541v1](http://arxiv.org/abs/2203.05541v1)|null|
+|**2022-03-10**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v1](http://arxiv.org/abs/2203.05534v1)|null|
 |**2022-03-09**|**Temporal Difference Learning for Model Predictive Control**|Nicklas Hansen et.al.|[2203.04955v1](http://arxiv.org/abs/2203.04955v1)|null|
 |**2022-03-09**|**Fragile boundaries of tailored surface codes**|Oscar Higgott et.al.|[2203.04948v1](http://arxiv.org/abs/2203.04948v1)|null|
 |**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
@@ -81,6 +87,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
+|**2022-03-10**|**On Embeddings for Numerical Features in Tabular Deep Learning**|Yura Gorishniy et.al.|[2203.05556v1](http://arxiv.org/abs/2203.05556v1)|**[link](https://github.com/yura52/rtdl)**|
+|**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
+|**2022-03-10**|**Cellular automata can classify data by inducing trajectory phase coexistence**|Stephen Whitelam et.al.|[2203.05551v1](http://arxiv.org/abs/2203.05551v1)|null|
+|**2022-03-10**|**An Empirical Investigation of 3D Anomaly Detection and Segmentation**|Eliahu Horwitz et.al.|[2203.05550v1](http://arxiv.org/abs/2203.05550v1)|null|
+|**2022-03-10**|**Context is Everything: Implicit Identification for Dynamics Adaptation**|Ben Evans et.al.|[2203.05549v1](http://arxiv.org/abs/2203.05549v1)|null|
 |**2022-03-09**|**Temporal Difference Learning for Model Predictive Control**|Nicklas Hansen et.al.|[2203.04955v1](http://arxiv.org/abs/2203.04955v1)|null|
 |**2022-03-09**|**Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation Method**|Alvin Shek et.al.|[2203.04951v1](http://arxiv.org/abs/2203.04951v1)|null|
 |**2022-03-09**|**Renyi Fair Information Bottleneck for Image Classification**|Adam Gronowski et.al.|[2203.04950v1](http://arxiv.org/abs/2203.04950v1)|null|
@@ -171,6 +183,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-10**|**On Embeddings for Numerical Features in Tabular Deep Learning**|Yura Gorishniy et.al.|[2203.05556v1](http://arxiv.org/abs/2203.05556v1)|**[link](https://github.com/yura52/rtdl)**|
+|**2022-03-10**|**Spin Evolution of Stellar-mass Black Holes Embedded in AGN disks: Orbital Eccentricity Produces Retrograde Circumstellar Flows**|Ya-Ping Li et.al.|[2203.05539v1](http://arxiv.org/abs/2203.05539v1)|null|
+|**2022-03-10**|**Geometric and Topological Inference for Deep Representations of Complex Networks**|Baihan Lin et.al.|[2203.05488v1](http://arxiv.org/abs/2203.05488v1)|null|
+|**2022-03-10**|**Particles on Demand for flows with strong discontinuities**|N. G. Kallikounis et.al.|[2203.05477v1](http://arxiv.org/abs/2203.05477v1)|null|
+|**2022-03-10**|**Wavelength Multiplexed Ultralow-Power Photonic Edge Computing**|Alexander Sludds et.al.|[2203.05466v1](http://arxiv.org/abs/2203.05466v1)|null|
+|**2022-03-10**|**A Twistorial Description of the IKKT-Matrix Model**|Harold Steinacker et.al.|[2203.05436v1](http://arxiv.org/abs/2203.05436v1)|null|
 |**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
 |**2022-03-09**|**Pose Guided Multi-person Image Generation From Text**|Soon Yau Cheong et.al.|[2203.04907v1](http://arxiv.org/abs/2203.04907v1)|null|
 |**2022-03-09**|**Algebraic deformations and Fourier--Mukai transforms for Calabi--Yau manifolds**|Hayato Morimura et.al.|[2203.04901v1](http://arxiv.org/abs/2203.04901v1)|null|
@@ -248,6 +266,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-10**|**On Embeddings for Numerical Features in Tabular Deep Learning**|Yura Gorishniy et.al.|[2203.05556v1](http://arxiv.org/abs/2203.05556v1)|**[link](https://github.com/yura52/rtdl)**|
+|**2022-03-10**|**Integrability breaking in the Rule 54 cellular automaton**|Javier Lopez-Piqueres et.al.|[2203.05426v1](http://arxiv.org/abs/2203.05426v1)|null|
+|**2022-03-10**|**Disentangled Multimodal Representation Learning for Recommendation**|Fan Liu et.al.|[2203.05406v1](http://arxiv.org/abs/2203.05406v1)|null|
+|**2022-03-10**|**Annotation Efficient Person Re-Identification with Diverse Cluster-Based Pair Selection**|Lantian Xue et.al.|[2203.05395v1](http://arxiv.org/abs/2203.05395v1)|null|
+|**2022-03-10**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v1](http://arxiv.org/abs/2203.05380v1)|**[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)**|
+|**2022-03-10**|**Knowledge-enriched Attention Network with Group-wise Semantic for Visual Storytelling**|Tengpeng Li et.al.|[2203.05346v1](http://arxiv.org/abs/2203.05346v1)|null|
 |**2022-03-09**|**DUAL: Textless Spoken Question Answering with Speech Discrete Unit Adaptive Learning**|Guan-Ting Lin et.al.|[2203.04911v1](http://arxiv.org/abs/2203.04911v1)|null|
 |**2022-03-09**|**Binary Classification Under $\ell_0$ Attacks for General Noise Distribution**|Payam Delgosha et.al.|[2203.04855v1](http://arxiv.org/abs/2203.04855v1)|null|
 |**2022-03-09**|**Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction**|Jing Lin et.al.|[2203.04845v1](http://arxiv.org/abs/2203.04845v1)|null|
