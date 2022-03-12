@@ -1,4 +1,4 @@
-## Updated on 2022.03.11
+## Updated on 2022.03.12
 
 ## Computer Vision
 
@@ -8,7 +8,7 @@
 |**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
 |**2022-03-10**|**Cellular automata can classify data by inducing trajectory phase coexistence**|Stephen Whitelam et.al.|[2203.05551v1](http://arxiv.org/abs/2203.05551v1)|null|
 |**2022-03-10**|**An Empirical Investigation of 3D Anomaly Detection and Segmentation**|Eliahu Horwitz et.al.|[2203.05550v1](http://arxiv.org/abs/2203.05550v1)|null|
-|**2022-03-10**|**Rational points on hyperelliptic Atkin-Lehner quotients of modular curves and their coverings**|Nikola Adžaga et.al.|[2203.05541v1](http://arxiv.org/abs/2203.05541v1)|null|
+|**2022-03-10**|**Rational points on hyperelliptic Atkin-Lehner quotients of modular curves and their coverings**|Nikola Adžaga et.al.|[2203.05541v1](http://arxiv.org/abs/2203.05541v1)|**[link](https://github.com/shiva-chid/hyperelliptic_x0nstarquotients)**|
 |**2022-03-10**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v1](http://arxiv.org/abs/2203.05534v1)|null|
 |**2022-03-09**|**Temporal Difference Learning for Model Predictive Control**|Nicklas Hansen et.al.|[2203.04955v1](http://arxiv.org/abs/2203.04955v1)|null|
 |**2022-03-09**|**Fragile boundaries of tailored surface codes**|Oscar Higgott et.al.|[2203.04948v1](http://arxiv.org/abs/2203.04948v1)|null|
