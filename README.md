@@ -1,9 +1,15 @@
-## Updated on 2022.03.13
+## Updated on 2022.03.14
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**Spectroscopic Analysis Tool for intEgraL fieLd unIt daTacubEs (satellite): Case studies of NGC 7009 and NGC 6778 with MUSE**|S. Akras et.al.|[2203.06175v1](http://arxiv.org/abs/2203.06175v1)|null|
+|**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
+|**2022-03-11**|**Deep AutoAugment**|Yu Zheng et.al.|[2203.06172v1](http://arxiv.org/abs/2203.06172v1)|**[link](https://github.com/msu-mlsys-lab/deepaa)**|
+|**2022-03-11**|**LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**|Canwen Xu et.al.|[2203.06169v1](http://arxiv.org/abs/2203.06169v1)|**[link](https://github.com/jetrunner/laprador)**|
+|**2022-03-11**|**Weihrauch Complexity and the Hagen School of Computable Analysis**|Vasco Brattka et.al.|[2203.06166v1](http://arxiv.org/abs/2203.06166v1)|null|
+|**2022-03-11**|**Magic angles in twisted bilayer graphene near commensuration: towards a hyper-magic manifold**|Michael G. Scheer et.al.|[2203.06163v1](http://arxiv.org/abs/2203.06163v1)|null|
 |**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
 |**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
 |**2022-03-10**|**Cellular automata can classify data by inducing trajectory phase coexistence**|Stephen Whitelam et.al.|[2203.05551v1](http://arxiv.org/abs/2203.05551v1)|null|
@@ -87,6 +93,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**More Than a Toy: Random Matrix Models Predict How Real-World Neural Representations Generalize**|Alexander Wei et.al.|[2203.06176v1](http://arxiv.org/abs/2203.06176v1)|null|
+|**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
+|**2022-03-11**|**Deep AutoAugment**|Yu Zheng et.al.|[2203.06172v1](http://arxiv.org/abs/2203.06172v1)|**[link](https://github.com/msu-mlsys-lab/deepaa)**|
+|**2022-03-11**|**LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**|Canwen Xu et.al.|[2203.06169v1](http://arxiv.org/abs/2203.06169v1)|**[link](https://github.com/jetrunner/laprador)**|
+|**2022-03-11**|**Personalized Execution Time Optimization for the Scheduled Jobs**|Yang Liu et.al.|[2203.06158v1](http://arxiv.org/abs/2203.06158v1)|null|
+|**2022-03-11**|**Symmetry Group Equivariant Architectures for Physics**|Alexander Bogatskiy et.al.|[2203.06153v1](http://arxiv.org/abs/2203.06153v1)|null|
 |**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
 |**2022-03-10**|**On Embeddings for Numerical Features in Tabular Deep Learning**|Yura Gorishniy et.al.|[2203.05556v1](http://arxiv.org/abs/2203.05556v1)|**[link](https://github.com/yura52/rtdl)**|
 |**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
@@ -183,6 +195,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**Arithmetic Okounkov bodies and positivity of adelic Cartier divisors**|François Ballaÿ et.al.|[2203.06135v1](http://arxiv.org/abs/2203.06135v1)|null|
+|**2022-03-11**|**Functional universality in slow-growing microbial communities arises from thermodynamic constraints**|Ashish B. George et.al.|[2203.06128v1](http://arxiv.org/abs/2203.06128v1)|null|
+|**2022-03-11**|**ActiveMLP: An MLP-like Architecture with Active Token Mixer**|Guoqiang Wei et.al.|[2203.06108v1](http://arxiv.org/abs/2203.06108v1)|null|
+|**2022-03-11**|**TAPE: Task-Agnostic Prior Embedding for Image Restoration**|Lin Liu et.al.|[2203.06074v1](http://arxiv.org/abs/2203.06074v1)|null|
+|**2022-03-11**|**ROOD-MRI: Benchmarking the robustness of deep learning segmentation models to out-of-distribution and corrupted data in MRI**|Lyndon Boone et.al.|[2203.06060v1](http://arxiv.org/abs/2203.06060v1)|**[link](https://github.com/aiconslab/roodmri)**|
+|**2022-03-11**|**Comment on "Towards a quantum notion of covariance in spherically symmetric loop quantum gravity"**|Martin Bojowald et.al.|[2203.06049v1](http://arxiv.org/abs/2203.06049v1)|null|
 |**2022-03-10**|**On Embeddings for Numerical Features in Tabular Deep Learning**|Yura Gorishniy et.al.|[2203.05556v1](http://arxiv.org/abs/2203.05556v1)|**[link](https://github.com/yura52/rtdl)**|
 |**2022-03-10**|**Spin Evolution of Stellar-mass Black Holes Embedded in AGN disks: Orbital Eccentricity Produces Retrograde Circumstellar Flows**|Ya-Ping Li et.al.|[2203.05539v1](http://arxiv.org/abs/2203.05539v1)|null|
 |**2022-03-10**|**Geometric and Topological Inference for Deep Representations of Complex Networks**|Baihan Lin et.al.|[2203.05488v1](http://arxiv.org/abs/2203.05488v1)|null|
@@ -266,6 +284,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**Neuromorphic Data Augmentation for Training Spiking Neural Networks**|Yuhang Li et.al.|[2203.06145v1](http://arxiv.org/abs/2203.06145v1)|null|
+|**2022-03-11**|**Orbital-selective Mott phase as a dehybridization fixed point**|Haoyu Hu et.al.|[2203.06140v1](http://arxiv.org/abs/2203.06140v1)|null|
+|**2022-03-11**|**REX: Reasoning-aware and Grounded Explanation**|Shi Chen et.al.|[2203.06107v1](http://arxiv.org/abs/2203.06107v1)|**[link](https://github.com/szzexpoi/rex)**|
+|**2022-03-11**|**On the Difficulty of Epistemic Uncertainty Quantification in Machine Learning: The Case of Direct Uncertainty Estimation through Loss Minimisation**|Viktor Bengs et.al.|[2203.06102v1](http://arxiv.org/abs/2203.06102v1)|null|
+|**2022-03-11**|**WLASL-LEX: a Dataset for Recognising Phonological Properties in American Sign Language**|Federico Tavella et.al.|[2203.06096v1](http://arxiv.org/abs/2203.06096v1)|null|
+|**2022-03-11**|**Econometric Modeling of Intraday Electricity Market Price with Inadequate Historical Data**|Saeed Mohammadi et.al.|[2203.06077v1](http://arxiv.org/abs/2203.06077v1)|null|
 |**2022-03-10**|**On Embeddings for Numerical Features in Tabular Deep Learning**|Yura Gorishniy et.al.|[2203.05556v1](http://arxiv.org/abs/2203.05556v1)|**[link](https://github.com/yura52/rtdl)**|
 |**2022-03-10**|**Integrability breaking in the Rule 54 cellular automaton**|Javier Lopez-Piqueres et.al.|[2203.05426v1](http://arxiv.org/abs/2203.05426v1)|null|
 |**2022-03-10**|**Disentangled Multimodal Representation Learning for Recommendation**|Fan Liu et.al.|[2203.05406v1](http://arxiv.org/abs/2203.05406v1)|null|
