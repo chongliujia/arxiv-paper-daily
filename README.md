@@ -1,9 +1,15 @@
-## Updated on 2022.03.14
+## Updated on 2022.03.15
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Ancilla-free implementation of generalized measurements for qubits embedded in a qudit space**|Laurin E. Fischer et.al.|[2203.07369v1](http://arxiv.org/abs/2203.07369v1)|null|
+|**2022-03-14**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v1](http://arxiv.org/abs/2203.07363v1)|null|
+|**2022-03-14**|**CoNTACT: A Dutch COVID-19 Adapted BERT for Vaccine Hesitancy and Argumentation Detection**|Jens Lemmens et.al.|[2203.07362v1](http://arxiv.org/abs/2203.07362v1)|null|
+|**2022-03-14**|**Information-Theoretic Secure and Private Voting System**|Seyed Reza Hoseini Najarkolaei et.al.|[2203.07355v1](http://arxiv.org/abs/2203.07355v1)|null|
+|**2022-03-14**|**Snowmass2021 Computational Frontier White Paper: Cosmological Simulations and Modeling**|Arka Banerjee et.al.|[2203.07347v1](http://arxiv.org/abs/2203.07347v1)|null|
+|**2022-03-14**|**Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases**|Hasan Kassem et.al.|[2203.07345v1](http://arxiv.org/abs/2203.07345v1)|null|
 |**2022-03-11**|**Spectroscopic Analysis Tool for intEgraL fieLd unIt daTacubEs (satellite): Case studies of NGC 7009 and NGC 6778 with MUSE**|S. Akras et.al.|[2203.06175v1](http://arxiv.org/abs/2203.06175v1)|null|
 |**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
 |**2022-03-11**|**Deep AutoAugment**|Yu Zheng et.al.|[2203.06172v1](http://arxiv.org/abs/2203.06172v1)|**[link](https://github.com/msu-mlsys-lab/deepaa)**|
@@ -93,6 +99,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**The Efficacy of Pessimism in Asynchronous Q-Learning**|Yuling Yan et.al.|[2203.07368v1](http://arxiv.org/abs/2203.07368v1)|null|
+|**2022-03-14**|**A Supervised Learning Approach to Rankability**|Nathan McJames et.al.|[2203.07364v1](http://arxiv.org/abs/2203.07364v1)|null|
+|**2022-03-14**|**Stubborn: A Strong Baseline for Indoor Object Navigation**|Haokuan Luo et.al.|[2203.07359v1](http://arxiv.org/abs/2203.07359v1)|null|
+|**2022-03-14**|**Improving Di-Higgs Sensitivity at Future Colliders in Hadronic Final States with Machine Learning**|Daniel Diaz et.al.|[2203.07353v1](http://arxiv.org/abs/2203.07353v1)|null|
+|**2022-03-14**|**Sparse random hypergraphs: Non-backtracking spectra and community detection**|Ludovic Stephan et.al.|[2203.07346v1](http://arxiv.org/abs/2203.07346v1)|null|
+|**2022-03-14**|**Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases**|Hasan Kassem et.al.|[2203.07345v1](http://arxiv.org/abs/2203.07345v1)|null|
 |**2022-03-11**|**More Than a Toy: Random Matrix Models Predict How Real-World Neural Representations Generalize**|Alexander Wei et.al.|[2203.06176v1](http://arxiv.org/abs/2203.06176v1)|null|
 |**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
 |**2022-03-11**|**Deep AutoAugment**|Yu Zheng et.al.|[2203.06172v1](http://arxiv.org/abs/2203.06172v1)|**[link](https://github.com/msu-mlsys-lab/deepaa)**|
@@ -195,6 +207,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Schrieffer-Wolff Transformations for Experiments: Dynamically Suppressing Virtual Doublon-Hole Excitations in a Fermi-Hubbard Simulator**|Anant Kale et.al.|[2203.07366v1](http://arxiv.org/abs/2203.07366v1)|null|
+|**2022-03-14**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v1](http://arxiv.org/abs/2203.07363v1)|null|
+|**2022-03-14**|**All in One: Exploring Unified Video-Language Pre-training**|Alex Jinpeng Wang et.al.|[2203.07303v1](http://arxiv.org/abs/2203.07303v1)|**[link](https://github.com/showlab/all-in-one)**|
+|**2022-03-14**|**Open-Air Microwave Entanglement Distribution for Quantum Teleportation**|Tasio Gonzalez-Raya et.al.|[2203.07295v1](http://arxiv.org/abs/2203.07295v1)|null|
+|**2022-03-14**|**A Phase-field model for simulating hydrogen-induced pitting corrosion with solid-solid phase transformation in the metal**|Jie Sheng et.al.|[2203.07289v1](http://arxiv.org/abs/2203.07289v1)|null|
+|**2022-03-14**|**The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models**|Eldar Kurtic et.al.|[2203.07259v1](http://arxiv.org/abs/2203.07259v1)|null|
 |**2022-03-11**|**Arithmetic Okounkov bodies and positivity of adelic Cartier divisors**|François Ballaÿ et.al.|[2203.06135v1](http://arxiv.org/abs/2203.06135v1)|null|
 |**2022-03-11**|**Functional universality in slow-growing microbial communities arises from thermodynamic constraints**|Ashish B. George et.al.|[2203.06128v1](http://arxiv.org/abs/2203.06128v1)|null|
 |**2022-03-11**|**ActiveMLP: An MLP-like Architecture with Active Token Mixer**|Guoqiang Wei et.al.|[2203.06108v1](http://arxiv.org/abs/2203.06108v1)|null|
@@ -284,6 +302,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Development Frameworks for Microservice-based Applications: Evaluation and Comparison**|Hai Dinh-Tuan et.al.|[2203.07267v1](http://arxiv.org/abs/2203.07267v1)|null|
+|**2022-03-14**|**Graph-Survival: A Survival Analysis Framework for Machine Learning on Temporal Network**|Raphaël Romero et.al.|[2203.07260v1](http://arxiv.org/abs/2203.07260v1)|null|
+|**2022-03-14**|**TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation**|Ruiwen Li et.al.|[2203.07239v1](http://arxiv.org/abs/2203.07239v1)|null|
+|**2022-03-14**|**A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification**|Dairui Liu et.al.|[2203.07216v1](http://arxiv.org/abs/2203.07216v1)|null|
+|**2022-03-14**|**Thermophysical properties of $n$-hexadecane: Combined Molecular Dynamics and experimental investigations**|L. Klochko et.al.|[2203.07165v1](http://arxiv.org/abs/2203.07165v1)|null|
+|**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
 |**2022-03-11**|**Neuromorphic Data Augmentation for Training Spiking Neural Networks**|Yuhang Li et.al.|[2203.06145v1](http://arxiv.org/abs/2203.06145v1)|null|
 |**2022-03-11**|**Orbital-selective Mott phase as a dehybridization fixed point**|Haoyu Hu et.al.|[2203.06140v1](http://arxiv.org/abs/2203.06140v1)|null|
 |**2022-03-11**|**REX: Reasoning-aware and Grounded Explanation**|Shi Chen et.al.|[2203.06107v1](http://arxiv.org/abs/2203.06107v1)|**[link](https://github.com/szzexpoi/rex)**|
