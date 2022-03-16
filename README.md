@@ -1,9 +1,15 @@
-## Updated on 2022.03.15
+## Updated on 2022.03.16
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Object Manipulation via Visual Target Localization**|Kiana Ehsani et.al.|[2203.08141v1](http://arxiv.org/abs/2203.08141v1)|null|
+|**2022-03-15**|**Learning Spatio-Temporal Downsampling for Effective Video Upscaling**|Xiaoyu Xiang et.al.|[2203.08140v1](http://arxiv.org/abs/2203.08140v1)|null|
+|**2022-03-15**|**Snowmas2021 Cosmic Frontier White Paper: Numerical relativity for next-generation gravitational-wave probes of fundamental physics**|Francois Foucart et.al.|[2203.08139v1](http://arxiv.org/abs/2203.08139v1)|null|
+|**2022-03-15**|**CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images**|Axel Levy et.al.|[2203.08138v1](http://arxiv.org/abs/2203.08138v1)|null|
+|**2022-03-15**|**RKKY interaction at helical edges of topological superconductors**|Katharina Laubscher et.al.|[2203.08137v1](http://arxiv.org/abs/2203.08137v1)|null|
+|**2022-03-15**|**Animatable Neural Implicit Surfaces for Creating Avatars from Videos**|Sida Peng et.al.|[2203.08133v1](http://arxiv.org/abs/2203.08133v1)|null|
 |**2022-03-14**|**Ancilla-free implementation of generalized measurements for qubits embedded in a qudit space**|Laurin E. Fischer et.al.|[2203.07369v1](http://arxiv.org/abs/2203.07369v1)|null|
 |**2022-03-14**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v1](http://arxiv.org/abs/2203.07363v1)|null|
 |**2022-03-14**|**CoNTACT: A Dutch COVID-19 Adapted BERT for Vaccine Hesitancy and Argumentation Detection**|Jens Lemmens et.al.|[2203.07362v1](http://arxiv.org/abs/2203.07362v1)|null|
@@ -99,6 +105,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Object Manipulation via Visual Target Localization**|Kiana Ehsani et.al.|[2203.08141v1](http://arxiv.org/abs/2203.08141v1)|null|
+|**2022-03-15**|**Learning Spatio-Temporal Downsampling for Effective Video Upscaling**|Xiaoyu Xiang et.al.|[2203.08140v1](http://arxiv.org/abs/2203.08140v1)|null|
+|**2022-03-15**|**CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images**|Axel Levy et.al.|[2203.08138v1](http://arxiv.org/abs/2203.08138v1)|null|
+|**2022-03-15**|**Privacy-Aware Compression for Federated Data Analysis**|Kamalika Chaudhuri et.al.|[2203.08134v1](http://arxiv.org/abs/2203.08134v1)|**[link](https://github.com/facebookresearch/dp_compression)**|
+|**2022-03-15**|**Animatable Neural Implicit Surfaces for Creating Avatars from Videos**|Sida Peng et.al.|[2203.08133v1](http://arxiv.org/abs/2203.08133v1)|null|
+|**2022-03-15**|**One Network Doesn't Rule Them All: Moving Beyond Handcrafted Architectures in Self-Supervised Learning**|Sharath Girish et.al.|[2203.08130v1](http://arxiv.org/abs/2203.08130v1)|null|
 |**2022-03-14**|**The Efficacy of Pessimism in Asynchronous Q-Learning**|Yuling Yan et.al.|[2203.07368v1](http://arxiv.org/abs/2203.07368v1)|null|
 |**2022-03-14**|**A Supervised Learning Approach to Rankability**|Nathan McJames et.al.|[2203.07364v1](http://arxiv.org/abs/2203.07364v1)|null|
 |**2022-03-14**|**Stubborn: A Strong Baseline for Indoor Object Navigation**|Haokuan Luo et.al.|[2203.07359v1](http://arxiv.org/abs/2203.07359v1)|null|
@@ -194,6 +206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning**|Yuqian Fu et.al.|[2203.07656v1](http://arxiv.org/abs/2203.07656v1)|null|
 |**2022-03-03**|**MetaDT: Meta Decision Tree for Interpretable Few-Shot Learning**|Baoquan Zhang et.al.|[2203.01482v1](http://arxiv.org/abs/2203.01482v1)|null|
 |**2022-02-27**|**Interpretable Concept-based Prototypical Networks for Few-Shot Learning**|Mohammad Reza Zarei et.al.|[2202.13474v1](http://arxiv.org/abs/2202.13474v1)|null|
 |**2022-02-10**|**Bias-Eliminated Semantic Refinement for Any-Shot Learning**|Liangjun Feng et.al.|[2202.04827v1](http://arxiv.org/abs/2202.04827v1)|**[link](https://github.com/liangjunfeng/srwgan)**|
@@ -207,6 +220,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Deep Learning without Shortcuts: Shaping the Kernel with Tailored Rectifiers**|Guodong Zhang et.al.|[2203.08120v1](http://arxiv.org/abs/2203.08120v1)|**[link](https://github.com/deepmind/dks)**|
+|**2022-03-15**|**Measuring the Impact of (Psycho-)Linguistic and Readability Features and Their Spill Over Effects on the Prediction of Eye Movement Patterns**|Daniel Wiechmann et.al.|[2203.08085v1](http://arxiv.org/abs/2203.08085v1)|null|
+|**2022-03-15**|**MotionCLIP: Exposing Human Motion Generation to CLIP Space**|Guy Tevet et.al.|[2203.08063v1](http://arxiv.org/abs/2203.08063v1)|**[link](https://github.com/guytevet/motionclip)**|
+|**2022-03-15**|**On Hyperbolic Embeddings in 2D Object Detection**|Christopher Lang et.al.|[2203.08049v1](http://arxiv.org/abs/2203.08049v1)|null|
+|**2022-03-15**|**Inverted Pyramid Multi-task Transformer for Dense Scene Understanding**|Hanrong Ye et.al.|[2203.07997v1](http://arxiv.org/abs/2203.07997v1)|null|
+|**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|null|
 |**2022-03-14**|**Schrieffer-Wolff Transformations for Experiments: Dynamically Suppressing Virtual Doublon-Hole Excitations in a Fermi-Hubbard Simulator**|Anant Kale et.al.|[2203.07366v1](http://arxiv.org/abs/2203.07366v1)|null|
 |**2022-03-14**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v1](http://arxiv.org/abs/2203.07363v1)|null|
 |**2022-03-14**|**All in One: Exploring Unified Video-Language Pre-training**|Alex Jinpeng Wang et.al.|[2203.07303v1](http://arxiv.org/abs/2203.07303v1)|**[link](https://github.com/showlab/all-in-one)**|
@@ -302,6 +321,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity**|Ginger Delmas et.al.|[2203.08101v1](http://arxiv.org/abs/2203.08101v1)|null|
+|**2022-03-15**|**Spin-polarized imaging of the antiferromagnetic structure and field-tunable bound states in kagome magnet FeSn**|Hong Li et.al.|[2203.08077v1](http://arxiv.org/abs/2203.08077v1)|null|
+|**2022-03-15**|**Seeking Commonness and Inconsistencies: A Jointly Smoothed Approach to Multi-view Subspace Clustering**|Xiaosha Cai et.al.|[2203.08060v1](http://arxiv.org/abs/2203.08060v1)|null|
+|**2022-03-15**|**Mobility, traffic and radio channel prediction: 5G and beyond applications**|Henrik Rydén et.al.|[2203.08047v1](http://arxiv.org/abs/2203.08047v1)|null|
+|**2022-03-15**|**Data-Efficient Graph Grammar Learning for Molecular Generation**|Minghao Guo et.al.|[2203.08031v1](http://arxiv.org/abs/2203.08031v1)|**[link](https://github.com/gmh14/data_efficient_grammar)**|
+|**2022-03-15**|**Text-free non-parallel many-to-many voice conversion using normalising flows**|Thomas Merritt et.al.|[2203.08009v1](http://arxiv.org/abs/2203.08009v1)|null|
 |**2022-03-14**|**Development Frameworks for Microservice-based Applications: Evaluation and Comparison**|Hai Dinh-Tuan et.al.|[2203.07267v1](http://arxiv.org/abs/2203.07267v1)|null|
 |**2022-03-14**|**Graph-Survival: A Survival Analysis Framework for Machine Learning on Temporal Network**|Raphaël Romero et.al.|[2203.07260v1](http://arxiv.org/abs/2203.07260v1)|null|
 |**2022-03-14**|**TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation**|Ruiwen Li et.al.|[2203.07239v1](http://arxiv.org/abs/2203.07239v1)|null|
