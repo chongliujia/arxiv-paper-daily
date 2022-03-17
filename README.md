@@ -1,9 +1,15 @@
-## Updated on 2022.03.16
+## Updated on 2022.03.17
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-16**|**An asynchronous variational integrator for the phase field approach to dynamic fracture**|Zongwu Niu et.al.|[2203.08797v1](http://arxiv.org/abs/2203.08797v1)|null|
+|**2022-03-16**|**A Continual Learning Framework for Adaptive Defect Classification and Inspection**|Wenbo Sun et.al.|[2203.08796v1](http://arxiv.org/abs/2203.08796v1)|null|
+|**2022-03-16**|**Zero Pixel Directional Boundary by Vector Transform**|Edoardo Mello Rella et.al.|[2203.08795v1](http://arxiv.org/abs/2203.08795v1)|null|
+|**2022-03-16**|**Double sweep LU decomposition for American options under negative rates**|Fabien Le Floc'h et.al.|[2203.08794v1](http://arxiv.org/abs/2203.08794v1)|null|
+|**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton et.al.|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
+|**2022-03-16**|**Pontryagin algebras and the LS-category of moment-angle complexes in the flag case**|Fedor Vylegzhanin et.al.|[2203.08791v1](http://arxiv.org/abs/2203.08791v1)|null|
 |**2022-03-15**|**Object Manipulation via Visual Target Localization**|Kiana Ehsani et.al.|[2203.08141v1](http://arxiv.org/abs/2203.08141v1)|null|
 |**2022-03-15**|**Learning Spatio-Temporal Downsampling for Effective Video Upscaling**|Xiaoyu Xiang et.al.|[2203.08140v1](http://arxiv.org/abs/2203.08140v1)|null|
 |**2022-03-15**|**Snowmas2021 Cosmic Frontier White Paper: Numerical relativity for next-generation gravitational-wave probes of fundamental physics**|Francois Foucart et.al.|[2203.08139v1](http://arxiv.org/abs/2203.08139v1)|null|
@@ -105,6 +111,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-16**|**A Continual Learning Framework for Adaptive Defect Classification and Inspection**|Wenbo Sun et.al.|[2203.08796v1](http://arxiv.org/abs/2203.08796v1)|null|
+|**2022-03-16**|**Zero Pixel Directional Boundary by Vector Transform**|Edoardo Mello Rella et.al.|[2203.08795v1](http://arxiv.org/abs/2203.08795v1)|null|
+|**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton et.al.|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
+|**2022-03-16**|**Are Shortest Rationales the Best Explanations for Human Understanding?**|Hua Shen et.al.|[2203.08788v1](http://arxiv.org/abs/2203.08788v1)|null|
+|**2022-03-16**|**Exploring Variational Graph Auto-Encoders for Extract Class Refactoring Recommendation**|Pritom Saha Akash et.al.|[2203.08787v1](http://arxiv.org/abs/2203.08787v1)|null|
+|**2022-03-16**|**The Mercedes water Cherenkov detector**|P. Assis et.al.|[2203.08782v1](http://arxiv.org/abs/2203.08782v1)|null|
 |**2022-03-15**|**Object Manipulation via Visual Target Localization**|Kiana Ehsani et.al.|[2203.08141v1](http://arxiv.org/abs/2203.08141v1)|null|
 |**2022-03-15**|**Learning Spatio-Temporal Downsampling for Effective Video Upscaling**|Xiaoyu Xiang et.al.|[2203.08140v1](http://arxiv.org/abs/2203.08140v1)|null|
 |**2022-03-15**|**CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images**|Axel Levy et.al.|[2203.08138v1](http://arxiv.org/abs/2203.08138v1)|null|
@@ -220,6 +232,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-16**|**Zero Pixel Directional Boundary by Vector Transform**|Edoardo Mello Rella et.al.|[2203.08795v1](http://arxiv.org/abs/2203.08795v1)|null|
+|**2022-03-16**|**Practical Conditional Neural Processes Via Tractable Dependent Predictions**|Stratis Markou et.al.|[2203.08775v1](http://arxiv.org/abs/2203.08775v1)|null|
+|**2022-03-16**|**CUE Vectors: Modular Training of Language Models Conditioned on Diverse Contextual Signals**|Scott Novotney et.al.|[2203.08774v1](http://arxiv.org/abs/2203.08774v1)|null|
+|**2022-03-16**|**DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation**|Ailing Zeng et.al.|[2203.08713v1](http://arxiv.org/abs/2203.08713v1)|null|
+|**2022-03-16**|**Invariance of Brownian motion associated with exponential functionals**|Yuu Hariya et.al.|[2203.08706v1](http://arxiv.org/abs/2203.08706v1)|null|
+|**2022-03-16**|**Volterra square-root process: Stationarity and regularity of the law**|Martin Friesen et.al.|[2203.08677v1](http://arxiv.org/abs/2203.08677v1)|null|
 |**2022-03-15**|**Deep Learning without Shortcuts: Shaping the Kernel with Tailored Rectifiers**|Guodong Zhang et.al.|[2203.08120v1](http://arxiv.org/abs/2203.08120v1)|**[link](https://github.com/deepmind/dks)**|
 |**2022-03-15**|**Measuring the Impact of (Psycho-)Linguistic and Readability Features and Their Spill Over Effects on the Prediction of Eye Movement Patterns**|Daniel Wiechmann et.al.|[2203.08085v1](http://arxiv.org/abs/2203.08085v1)|null|
 |**2022-03-15**|**MotionCLIP: Exposing Human Motion Generation to CLIP Space**|Guy Tevet et.al.|[2203.08063v1](http://arxiv.org/abs/2203.08063v1)|**[link](https://github.com/guytevet/motionclip)**|
@@ -321,6 +339,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-16**|**Dynamics simulation based on density operator and numerical analysis of arbitrary time-dependent $\mathcal{PT}$-symmetric system and the influence of quantum noises**|Xiaogang Li et.al.|[2203.08776v1](http://arxiv.org/abs/2203.08776v1)|null|
+|**2022-03-16**|**On estimating the structure factor of a point process, with applications to hyperuniformity**|Diala Hawat et.al.|[2203.08749v1](http://arxiv.org/abs/2203.08749v1)|null|
+|**2022-03-16**|**CLUE-AI: A Convolutional Three-stream Anomaly Identification Framework for Robot Manipulation**|Dogan Altan et.al.|[2203.08746v1](http://arxiv.org/abs/2203.08746v1)|null|
+|**2022-03-16**|**What Do Adversarially trained Neural Networks Focus: A Fourier Domain-based Study**|Binxiao Huang et.al.|[2203.08739v1](http://arxiv.org/abs/2203.08739v1)|null|
+|**2022-03-16**|**Learning Where To Look -- Generative NAS is Surprisingly Efficient**|Jovita Lukasik et.al.|[2203.08734v1](http://arxiv.org/abs/2203.08734v1)|null|
+|**2022-03-16**|**Relational Self-Supervised Learning**|Mingkai Zheng et.al.|[2203.08717v1](http://arxiv.org/abs/2203.08717v1)|null|
 |**2022-03-15**|**ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity**|Ginger Delmas et.al.|[2203.08101v1](http://arxiv.org/abs/2203.08101v1)|null|
 |**2022-03-15**|**Spin-polarized imaging of the antiferromagnetic structure and field-tunable bound states in kagome magnet FeSn**|Hong Li et.al.|[2203.08077v1](http://arxiv.org/abs/2203.08077v1)|null|
 |**2022-03-15**|**Seeking Commonness and Inconsistencies: A Jointly Smoothed Approach to Multi-view Subspace Clustering**|Xiaosha Cai et.al.|[2203.08060v1](http://arxiv.org/abs/2203.08060v1)|null|
