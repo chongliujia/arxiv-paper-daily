@@ -1,9 +1,15 @@
-## Updated on 2022.03.21
+## Updated on 2022.03.22
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Generating Fast and Slow: Scene Decomposition via Reconstruction**|Mihir Prabhudesai et.al.|[2203.11194v1](http://arxiv.org/abs/2203.11194v1)|null|
+|**2022-03-21**|**Transforming Model Prediction for Tracking**|Christoph Mayer et.al.|[2203.11192v1](http://arxiv.org/abs/2203.11192v1)|**[link](https://github.com/visionml/pytracking)**|
+|**2022-03-21**|**Robust Visual Tracking by Segmentation**|Matthieu Paul et.al.|[2203.11191v1](http://arxiv.org/abs/2203.11191v1)|null|
+|**2022-03-21**|**Improved Sampling-to-Counting Reductions in High-Dimensional Expanders and Faster Parallel Determinantal Sampling**|Nima Anari et.al.|[2203.11190v1](http://arxiv.org/abs/2203.11190v1)|null|
+|**2022-03-21**|**Relevant CommonSense Subgraphs for "What if..." Procedural Reasoning**|Chen Zheng et.al.|[2203.11187v1](http://arxiv.org/abs/2203.11187v1)|**[link](https://github.com/hlr/mrrg)**|
+|**2022-03-21**|**A discontinuous Galerkin spectral element method for a nonconservative compressible multicomponent flow model**|Rémi Abgrall et.al.|[2203.11184v1](http://arxiv.org/abs/2203.11184v1)|null|
 |**2022-03-18**|**Simulating Bandit Learning from User Feedback for Extractive Question Answering**|Ge Gao et.al.|[2203.10079v1](http://arxiv.org/abs/2203.10079v1)|**[link](https://github.com/lil-lab/bandit-qa)**|
 |**2022-03-18**|**Bayesian Inversion for Nonlinear Imaging Models using Deep Generative Priors**|Pakshal Bohra et.al.|[2203.10078v1](http://arxiv.org/abs/2203.10078v1)|null|
 |**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
@@ -123,6 +129,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Generating Fast and Slow: Scene Decomposition via Reconstruction**|Mihir Prabhudesai et.al.|[2203.11194v1](http://arxiv.org/abs/2203.11194v1)|null|
+|**2022-03-21**|**Transforming Model Prediction for Tracking**|Christoph Mayer et.al.|[2203.11192v1](http://arxiv.org/abs/2203.11192v1)|**[link](https://github.com/visionml/pytracking)**|
+|**2022-03-21**|**Robust Visual Tracking by Segmentation**|Matthieu Paul et.al.|[2203.11191v1](http://arxiv.org/abs/2203.11191v1)|null|
+|**2022-03-21**|**Relevant CommonSense Subgraphs for "What if..." Procedural Reasoning**|Chen Zheng et.al.|[2203.11187v1](http://arxiv.org/abs/2203.11187v1)|**[link](https://github.com/hlr/mrrg)**|
+|**2022-03-21**|**Masked Discrimination for Self-Supervised Learning on Point Clouds**|Haotian Liu et.al.|[2203.11183v1](http://arxiv.org/abs/2203.11183v1)|**[link](https://github.com/haotian-liu/maskpoint)**|
+|**2022-03-21**|**Physics-driven Synthetic Data Learning for Biomedical Magnetic Resonance**|Qinqin Yang et.al.|[2203.11178v1](http://arxiv.org/abs/2203.11178v1)|null|
 |**2022-03-18**|**But that's not why: Inference adjustment by interactive prototype deselection**|Michael Gerstenberger et.al.|[2203.10087v1](http://arxiv.org/abs/2203.10087v1)|null|
 |**2022-03-18**|**I Know Therefore I Score: Label-Free Crafting of Scoring Functions using Constraints Based on Domain Expertise**|Ragja Palakkadavath et.al.|[2203.10085v1](http://arxiv.org/abs/2203.10085v1)|null|
 |**2022-03-18**|**Simulating Bandit Learning from User Feedback for Extractive Question Answering**|Ge Gao et.al.|[2203.10079v1](http://arxiv.org/abs/2203.10079v1)|**[link](https://github.com/lil-lab/bandit-qa)**|
@@ -256,6 +268,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Transforming Model Prediction for Tracking**|Christoph Mayer et.al.|[2203.11192v1](http://arxiv.org/abs/2203.11192v1)|**[link](https://github.com/visionml/pytracking)**|
+|**2022-03-21**|**Masked Discrimination for Self-Supervised Learning on Point Clouds**|Haotian Liu et.al.|[2203.11183v1](http://arxiv.org/abs/2203.11183v1)|**[link](https://github.com/haotian-liu/maskpoint)**|
+|**2022-03-21**|**Efficient simulation of Gottesman-Kitaev-Preskill states with Gaussian circuits**|Cameron Calcluth et.al.|[2203.11182v1](http://arxiv.org/abs/2203.11182v1)|null|
+|**2022-03-21**|**Connectivity of the Feasible and Sublevel Sets of Dynamic Output Feedback Control with Robustness Constraints**|Bin Hu et.al.|[2203.11177v1](http://arxiv.org/abs/2203.11177v1)|null|
+|**2022-03-21**|**Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation**|Antonin Vobecky et.al.|[2203.11160v1](http://arxiv.org/abs/2203.11160v1)|**[link](https://github.com/vobecant/DriveAndSegment)**|
+|**2022-03-21**|**A Measure Theoretic Paradox from a continuous colouring rule**|Robert Simon et.al.|[2203.11158v1](http://arxiv.org/abs/2203.11158v1)|null|
 |**2022-03-18**|**Advancing the Landscape of Multimessenger Science in the Next Decade**|Kristi Engel et.al.|[2203.10074v1](http://arxiv.org/abs/2203.10074v1)|null|
 |**2022-03-18**|**Higher Form Symmetries TFT in 6d**|Fabio Apruzzi et.al.|[2203.10063v1](http://arxiv.org/abs/2203.10063v1)|null|
 |**2022-03-18**|**Port-Hamiltonian Fluid-Structure Interaction Modeling and Structure-Preserving Model Order Reduction of a Classical Guitar**|Johannes Rettberg et.al.|[2203.10061v1](http://arxiv.org/abs/2203.10061v1)|null|
@@ -375,6 +393,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Visualization Onboarding Grounded in Educational Theories**|Christina Stoiber et.al.|[2203.11134v1](http://arxiv.org/abs/2203.11134v1)|null|
+|**2022-03-21**|**Ovid: A Machine Learning Approach for Automated Vandalism Detection in OpenStreetMap**|Nicolas Tempelmeier et.al.|[2203.11087v1](http://arxiv.org/abs/2203.11087v1)|null|
+|**2022-03-21**|**MixFormer: End-to-End Tracking with Iterative Mixed Attention**|Yutao Cui et.al.|[2203.11082v1](http://arxiv.org/abs/2203.11082v1)|**[link](https://github.com/MCG-NJU/MixFormer)**|
+|**2022-03-21**|**Learning Enriched Illuminants for Cross and Single Sensor Color Constancy**|Xiaodong Cun et.al.|[2203.11068v1](http://arxiv.org/abs/2203.11068v1)|null|
+|**2022-03-21**|**Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks**|Lukas Hedegaard et.al.|[2203.11009v1](http://arxiv.org/abs/2203.11009v1)|**[link](https://github.com/lukashedegaard/continual-skeletons)**|
+|**2022-03-21**|**3D Multi-Object Tracking Using Graph Neural Networks with Cross-Edge Modality Attention**|Martin Buchner et.al.|[2203.10926v1](http://arxiv.org/abs/2203.10926v1)|null|
 |**2022-03-18**|**Singular symplectic spaces and holomorphic membranes**|Sergey Galkin et.al.|[2203.10043v1](http://arxiv.org/abs/2203.10043v1)|null|
 |**2022-03-18**|**FORCE: A Framework of Rule-Based Conversational Recommender System**|Jun Quan et.al.|[2203.10001v1](http://arxiv.org/abs/2203.10001v1)|null|
 |**2022-03-18**|**CodedVTR: Codebook-based Sparse Voxel Transformer with Geometric Guidance**|Tianchen Zhao et.al.|[2203.09887v1](http://arxiv.org/abs/2203.09887v1)|null|
