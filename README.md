@@ -1,9 +1,15 @@
-## Updated on 2022.03.22
+## Updated on 2022.03.23
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-22**|**φ-SfT: Shape-from-Template with a Physics-Based Deformation Model**|Navami Kairanda et.al.|[2203.11938v1](http://arxiv.org/abs/2203.11938v1)|null|
+|**2022-03-22**|**4D-OR: Semantic Scene Graphs for OR Domain Modeling**|Ege Özsoy et.al.|[2203.11937v1](http://arxiv.org/abs/2203.11937v1)|null|
+|**2022-03-22**|**Learning from All Vehicles**|Dian Chen et.al.|[2203.11934v1](http://arxiv.org/abs/2203.11934v1)|**[link](https://github.com/dotchen/LAV)**|
+|**2022-03-22**|**A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning**|Hugo Berg et.al.|[2203.11933v1](http://arxiv.org/abs/2203.11933v1)|**[link](https://github.com/oxai/debias-vision-lang)**|
+|**2022-03-22**|**Dataset Distillation by Matching Training Trajectories**|George Cazenavette et.al.|[2203.11932v1](http://arxiv.org/abs/2203.11932v1)|**[link](https://github.com/georgecazenavette/mtt-distillation)**|
+|**2022-03-22**|**MetaMorph: Learning Universal Controllers with Transformers**|Agrim Gupta et.al.|[2203.11931v1](http://arxiv.org/abs/2203.11931v1)|**[link](https://github.com/agrimgupta92/metamorph)**|
 |**2022-03-21**|**Generating Fast and Slow: Scene Decomposition via Reconstruction**|Mihir Prabhudesai et.al.|[2203.11194v1](http://arxiv.org/abs/2203.11194v1)|null|
 |**2022-03-21**|**Transforming Model Prediction for Tracking**|Christoph Mayer et.al.|[2203.11192v1](http://arxiv.org/abs/2203.11192v1)|**[link](https://github.com/visionml/pytracking)**|
 |**2022-03-21**|**Robust Visual Tracking by Segmentation**|Matthieu Paul et.al.|[2203.11191v1](http://arxiv.org/abs/2203.11191v1)|null|
@@ -129,6 +135,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-22**|**Learning from All Vehicles**|Dian Chen et.al.|[2203.11934v1](http://arxiv.org/abs/2203.11934v1)|**[link](https://github.com/dotchen/LAV)**|
+|**2022-03-22**|**A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning**|Hugo Berg et.al.|[2203.11933v1](http://arxiv.org/abs/2203.11933v1)|**[link](https://github.com/oxai/debias-vision-lang)**|
+|**2022-03-22**|**Dataset Distillation by Matching Training Trajectories**|George Cazenavette et.al.|[2203.11932v1](http://arxiv.org/abs/2203.11932v1)|**[link](https://github.com/georgecazenavette/mtt-distillation)**|
+|**2022-03-22**|**MetaMorph: Learning Universal Controllers with Transformers**|Agrim Gupta et.al.|[2203.11931v1](http://arxiv.org/abs/2203.11931v1)|**[link](https://github.com/agrimgupta92/metamorph)**|
+|**2022-03-22**|**Focal Modulation Networks**|Jianwei Yang et.al.|[2203.11926v1](http://arxiv.org/abs/2203.11926v1)|**[link](https://github.com/microsoft/FocalNet)**|
+|**2022-03-22**|**On Supervised Feature Selection from High Dimensional Feature Spaces**|Yijing Yang et.al.|[2203.11924v1](http://arxiv.org/abs/2203.11924v1)|null|
 |**2022-03-21**|**Generating Fast and Slow: Scene Decomposition via Reconstruction**|Mihir Prabhudesai et.al.|[2203.11194v1](http://arxiv.org/abs/2203.11194v1)|null|
 |**2022-03-21**|**Transforming Model Prediction for Tracking**|Christoph Mayer et.al.|[2203.11192v1](http://arxiv.org/abs/2203.11192v1)|**[link](https://github.com/visionml/pytracking)**|
 |**2022-03-21**|**Robust Visual Tracking by Segmentation**|Matthieu Paul et.al.|[2203.11191v1](http://arxiv.org/abs/2203.11191v1)|null|
@@ -268,6 +280,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-22**|**MetaMorph: Learning Universal Controllers with Transformers**|Agrim Gupta et.al.|[2203.11931v1](http://arxiv.org/abs/2203.11931v1)|**[link](https://github.com/agrimgupta92/metamorph)**|
+|**2022-03-22**|**Focal Modulation Networks**|Jianwei Yang et.al.|[2203.11926v1](http://arxiv.org/abs/2203.11926v1)|**[link](https://github.com/microsoft/FocalNet)**|
+|**2022-03-22**|**A second order upper bound for the ground state energy of a hard-sphere gas in the Gross-Pitaevskii regime**|Giulia Basti et.al.|[2203.11917v1](http://arxiv.org/abs/2203.11917v1)|null|
+|**2022-03-22**|**Bringing Linearly Transformed Cosines to Anisotropic GGX**|Aakash KT et.al.|[2203.11904v1](http://arxiv.org/abs/2203.11904v1)|null|
+|**2022-03-22**|**Transformer based ensemble for emotion detection**|Aditya Kane et.al.|[2203.11899v1](http://arxiv.org/abs/2203.11899v1)|null|
+|**2022-03-22**|**GradViT: Gradient Inversion of Vision Transformers**|Ali Hatamizadeh et.al.|[2203.11894v1](http://arxiv.org/abs/2203.11894v1)|null|
 |**2022-03-21**|**Transforming Model Prediction for Tracking**|Christoph Mayer et.al.|[2203.11192v1](http://arxiv.org/abs/2203.11192v1)|**[link](https://github.com/visionml/pytracking)**|
 |**2022-03-21**|**Masked Discrimination for Self-Supervised Learning on Point Clouds**|Haotian Liu et.al.|[2203.11183v1](http://arxiv.org/abs/2203.11183v1)|**[link](https://github.com/haotian-liu/maskpoint)**|
 |**2022-03-21**|**Efficient simulation of Gottesman-Kitaev-Preskill states with Gaussian circuits**|Cameron Calcluth et.al.|[2203.11182v1](http://arxiv.org/abs/2203.11182v1)|null|
@@ -393,6 +411,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-22**|**The complex time and energy evolution of quasi-periodic eruptions in eRO-QPE1**|R. Arcodia et.al.|[2203.11939v1](http://arxiv.org/abs/2203.11939v1)|null|
+|**2022-03-22**|**Focal Modulation Networks**|Jianwei Yang et.al.|[2203.11926v1](http://arxiv.org/abs/2203.11926v1)|**[link](https://github.com/microsoft/FocalNet)**|
+|**2022-03-22**|**GradViT: Gradient Inversion of Vision Transformers**|Ali Hatamizadeh et.al.|[2203.11894v1](http://arxiv.org/abs/2203.11894v1)|null|
+|**2022-03-22**|**Open-Vocabulary DETR with Conditional Matching**|Yuhang Zang et.al.|[2203.11876v1](http://arxiv.org/abs/2203.11876v1)|null|
+|**2022-03-22**|**A Broad Study of Pre-training for Domain Generalization and Adaptation**|Donghyun Kim et.al.|[2203.11819v1](http://arxiv.org/abs/2203.11819v1)|null|
+|**2022-03-22**|**Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder**|Yu Tian et.al.|[2203.11725v1](http://arxiv.org/abs/2203.11725v1)|null|
 |**2022-03-21**|**Visualization Onboarding Grounded in Educational Theories**|Christina Stoiber et.al.|[2203.11134v1](http://arxiv.org/abs/2203.11134v1)|null|
 |**2022-03-21**|**Ovid: A Machine Learning Approach for Automated Vandalism Detection in OpenStreetMap**|Nicolas Tempelmeier et.al.|[2203.11087v1](http://arxiv.org/abs/2203.11087v1)|null|
 |**2022-03-21**|**MixFormer: End-to-End Tracking with Iterative Mixed Attention**|Yutao Cui et.al.|[2203.11082v1](http://arxiv.org/abs/2203.11082v1)|**[link](https://github.com/MCG-NJU/MixFormer)**|
