@@ -1,9 +1,15 @@
-## Updated on 2022.03.23
+## Updated on 2022.03.24
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions**|Chantal Pellegrini et.al.|[2203.12616v1](http://arxiv.org/abs/2203.12616v1)|**[link](https://github.com/chantalmp/unsupervised-pre-training-on-patient-population-graphs-for-patient-level-predictions)**|
+|**2022-03-23**|**Unsupervised Salient Object Detection with Spectral Cluster Voting**|Gyungin Shin et.al.|[2203.12614v1](http://arxiv.org/abs/2203.12614v1)|**[link](https://github.com/noelshin/selfmask)**|
+|**2022-03-23**|**A Hybrid Mesh-neural Representation for 3D Transparent Object Reconstruction**|Jiamin Xu et.al.|[2203.12613v1](http://arxiv.org/abs/2203.12613v1)|null|
+|**2022-03-23**|**StructToken : Rethinking Semantic Segmentation with Structural Prior**|Fangjian Lin et.al.|[2203.12612v1](http://arxiv.org/abs/2203.12612v1)|null|
+|**2022-03-23**|**Improving the Fairness of Chest X-ray Classifiers**|Haoran Zhang et.al.|[2203.12609v1](http://arxiv.org/abs/2203.12609v1)|**[link](https://github.com/mlforhealth/cxr_fairness)**|
+|**2022-03-23**|**VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**|Zhan Tong et.al.|[2203.12602v1](http://arxiv.org/abs/2203.12602v1)|null|
 |**2022-03-22**|**φ-SfT: Shape-from-Template with a Physics-Based Deformation Model**|Navami Kairanda et.al.|[2203.11938v1](http://arxiv.org/abs/2203.11938v1)|null|
 |**2022-03-22**|**4D-OR: Semantic Scene Graphs for OR Domain Modeling**|Ege Özsoy et.al.|[2203.11937v1](http://arxiv.org/abs/2203.11937v1)|null|
 |**2022-03-22**|**Learning from All Vehicles**|Dian Chen et.al.|[2203.11934v1](http://arxiv.org/abs/2203.11934v1)|**[link](https://github.com/dotchen/LAV)**|
@@ -135,6 +141,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions**|Chantal Pellegrini et.al.|[2203.12616v1](http://arxiv.org/abs/2203.12616v1)|**[link](https://github.com/chantalmp/unsupervised-pre-training-on-patient-population-graphs-for-patient-level-predictions)**|
+|**2022-03-23**|**StructToken : Rethinking Semantic Segmentation with Structural Prior**|Fangjian Lin et.al.|[2203.12612v1](http://arxiv.org/abs/2203.12612v1)|null|
+|**2022-03-23**|**AI Poincaré 2.0: Machine Learning Conservation Laws from Differential Equations**|Ziming Liu et.al.|[2203.12610v1](http://arxiv.org/abs/2203.12610v1)|null|
+|**2022-03-23**|**Improving the Fairness of Chest X-ray Classifiers**|Haoran Zhang et.al.|[2203.12609v1](http://arxiv.org/abs/2203.12609v1)|**[link](https://github.com/mlforhealth/cxr_fairness)**|
+|**2022-03-23**|**VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**|Zhan Tong et.al.|[2203.12602v1](http://arxiv.org/abs/2203.12602v1)|null|
+|**2022-03-23**|**R3M: A Universal Visual Representation for Robot Manipulation**|Suraj Nair et.al.|[2203.12601v1](http://arxiv.org/abs/2203.12601v1)|**[link](https://github.com/facebookresearch/r3m)**|
 |**2022-03-22**|**Learning from All Vehicles**|Dian Chen et.al.|[2203.11934v1](http://arxiv.org/abs/2203.11934v1)|**[link](https://github.com/dotchen/LAV)**|
 |**2022-03-22**|**A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning**|Hugo Berg et.al.|[2203.11933v1](http://arxiv.org/abs/2203.11933v1)|**[link](https://github.com/oxai/debias-vision-lang)**|
 |**2022-03-22**|**Dataset Distillation by Matching Training Trajectories**|George Cazenavette et.al.|[2203.11932v1](http://arxiv.org/abs/2203.11932v1)|**[link](https://github.com/georgecazenavette/mtt-distillation)**|
@@ -280,6 +292,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions**|Chantal Pellegrini et.al.|[2203.12616v1](http://arxiv.org/abs/2203.12616v1)|**[link](https://github.com/chantalmp/unsupervised-pre-training-on-patient-population-graphs-for-patient-level-predictions)**|
+|**2022-03-23**|**VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**|Zhan Tong et.al.|[2203.12602v1](http://arxiv.org/abs/2203.12602v1)|null|
+|**2022-03-23**|**Classifying phases protected by matrix product operator symmetries using matrix product states**|José Garre-Rubio et.al.|[2203.12563v1](http://arxiv.org/abs/2203.12563v1)|null|
+|**2022-03-23**|**GriTS: Grid table similarity metric for table structure recognition**|Brandon Smock et.al.|[2203.12555v1](http://arxiv.org/abs/2203.12555v1)|**[link](https://github.com/microsoft/table-transformer)**|
+|**2022-03-23**|**Constrained Clustering and Multiple Kernel Learning without Pairwise Constraint Relaxation**|Benedikt Boecking et.al.|[2203.12546v1](http://arxiv.org/abs/2203.12546v1)|**[link](https://github.com/autonlab/constrained-clustering)**|
+|**2022-03-23**|**Pathways: Asynchronous Distributed Dataflow for ML**|Paul Barham et.al.|[2203.12533v1](http://arxiv.org/abs/2203.12533v1)|null|
 |**2022-03-22**|**MetaMorph: Learning Universal Controllers with Transformers**|Agrim Gupta et.al.|[2203.11931v1](http://arxiv.org/abs/2203.11931v1)|**[link](https://github.com/agrimgupta92/metamorph)**|
 |**2022-03-22**|**Focal Modulation Networks**|Jianwei Yang et.al.|[2203.11926v1](http://arxiv.org/abs/2203.11926v1)|**[link](https://github.com/microsoft/FocalNet)**|
 |**2022-03-22**|**A second order upper bound for the ground state energy of a hard-sphere gas in the Gross-Pitaevskii regime**|Giulia Basti et.al.|[2203.11917v1](http://arxiv.org/abs/2203.11917v1)|null|
@@ -411,6 +429,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Your "Attention" Deserves Attention: A Self-Diversified Multi-Channel Attention for Facial Action Analysis**|Xiaotian Li et.al.|[2203.12570v1](http://arxiv.org/abs/2203.12570v1)|null|
+|**2022-03-23**|**Multi-q Origin of Unconventional Surface States in a High-Symmetry Lattice**|L. -L. Wang et.al.|[2203.12541v1](http://arxiv.org/abs/2203.12541v1)|null|
+|**2022-03-23**|**Multi-label Transformer for Action Unit Detection**|Gauthier Tallec et.al.|[2203.12531v1](http://arxiv.org/abs/2203.12531v1)|null|
+|**2022-03-23**|**Semi-Supervised Graph Learning Meets Dimensionality Reduction**|Alex Morehead et.al.|[2203.12522v1](http://arxiv.org/abs/2203.12522v1)|**[link](https://github.com/amorehead/SSL-With-DR-And-GNNs)**|
+|**2022-03-23**|**A Survey on Cross-Lingual Summarization**|Jiaan Wang et.al.|[2203.12515v1](http://arxiv.org/abs/2203.12515v1)|null|
+|**2022-03-23**|**A Spatial-Temporal Attention Multi-Graph Convolution Network for Ride-Hailing Demand Prediction Based on Periodicity with Offset**|Dong Xing et.al.|[2203.12505v1](http://arxiv.org/abs/2203.12505v1)|null|
 |**2022-03-22**|**The complex time and energy evolution of quasi-periodic eruptions in eRO-QPE1**|R. Arcodia et.al.|[2203.11939v1](http://arxiv.org/abs/2203.11939v1)|null|
 |**2022-03-22**|**Focal Modulation Networks**|Jianwei Yang et.al.|[2203.11926v1](http://arxiv.org/abs/2203.11926v1)|**[link](https://github.com/microsoft/FocalNet)**|
 |**2022-03-22**|**GradViT: Gradient Inversion of Vision Transformers**|Ali Hatamizadeh et.al.|[2203.11894v1](http://arxiv.org/abs/2203.11894v1)|null|
