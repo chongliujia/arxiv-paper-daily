@@ -1,9 +1,15 @@
-## Updated on 2022.03.27
+## Updated on 2022.03.28
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-25**|**AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling**|Ziqian Bai et.al.|[2203.13817v1](http://arxiv.org/abs/2203.13817v1)|null|
+|**2022-03-25**|**Versatile Multi-Modal Pre-Training for Human-Centric Perception**|Fangzhou Hong et.al.|[2203.13815v1](http://arxiv.org/abs/2203.13815v1)|null|
+|**2022-03-25**|**Femtoscopic study on $DD^*$ and $D\bar{D}^*$ interactions for $T_{cc}$ and $X(3872)$**|Yuki Kamiya et.al.|[2203.13814v1](http://arxiv.org/abs/2203.13814v1)|null|
+|**2022-03-25**|**Spatially Multi-conditional Image Generation**|Ritika Chakraborty et.al.|[2203.13812v1](http://arxiv.org/abs/2203.13812v1)|null|
+|**2022-03-25**|**DOTS: An Open Testbed for Industrial Swarm Robotic Solutions**|Simon Jones et.al.|[2203.13809v1](http://arxiv.org/abs/2203.13809v1)|null|
+|**2022-03-25**|**Opportunistic Qualitative Planning in Stochastic Systems with Preferences over Temporal Logic Objectives**|Abhishek Ninad Kulkarni et.al.|[2203.13803v1](http://arxiv.org/abs/2203.13803v1)|null|
 |**2022-03-24**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2203.13254v1](http://arxiv.org/abs/2203.13254v1)|**[link](https://github.com/tjiiv-cprg/epro-pnp)**|
 |**2022-03-24**|**Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer**|Omkar Thawakar et.al.|[2203.13253v1](http://arxiv.org/abs/2203.13253v1)|**[link](https://github.com/OmkarThawakar/MSSTS-VIS)**|
 |**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
@@ -147,6 +153,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-25**|**Versatile Multi-Modal Pre-Training for Human-Centric Perception**|Fangzhou Hong et.al.|[2203.13815v1](http://arxiv.org/abs/2203.13815v1)|null|
+|**2022-03-25**|**Spatially Multi-conditional Image Generation**|Ritika Chakraborty et.al.|[2203.13812v1](http://arxiv.org/abs/2203.13812v1)|null|
+|**2022-03-25**|**Continuous Dynamic-NeRF: Spline-NeRF**|Julian Knodt et.al.|[2203.13800v1](http://arxiv.org/abs/2203.13800v1)|**[link](https://github.com/JulianKnodt/nerf_atlas)**|
+|**2022-03-25**|**FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations**|Dimitrios Dimitriadis et.al.|[2203.13789v1](http://arxiv.org/abs/2203.13789v1)|null|
+|**2022-03-25**|**A Hybrid Framework for Sequential Data Prediction with End-to-End Optimization**|Mustafa E. Aydın et.al.|[2203.13787v1](http://arxiv.org/abs/2203.13787v1)|null|
+|**2022-03-25**|**Ensemble Spectral Prediction (ESP) Model for Metabolite Annotation**|Xinmeng Li et.al.|[2203.13783v1](http://arxiv.org/abs/2203.13783v1)|null|
 |**2022-03-24**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2203.13254v1](http://arxiv.org/abs/2203.13254v1)|**[link](https://github.com/tjiiv-cprg/epro-pnp)**|
 |**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
 |**2022-03-24**|**Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**|Shuai Yang et.al.|[2203.13248v1](http://arxiv.org/abs/2203.13248v1)|**[link](https://github.com/williamyang1991/DualStyleGAN)**|
@@ -304,6 +316,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-25**|**Spatially Multi-conditional Image Generation**|Ritika Chakraborty et.al.|[2203.13812v1](http://arxiv.org/abs/2203.13812v1)|null|
+|**2022-03-25**|**Braided Hopf algebras and gauge transformations**|Paolo Aschieri et.al.|[2203.13811v1](http://arxiv.org/abs/2203.13811v1)|null|
+|**2022-03-25**|**Playing Lottery Tickets in Style Transfer Models**|Meihao Kong et.al.|[2203.13802v1](http://arxiv.org/abs/2203.13802v1)|null|
+|**2022-03-25**|**Relative energies without electronic perturbations via integral transform**|Simon León Krug et.al.|[2203.13794v1](http://arxiv.org/abs/2203.13794v1)|null|
+|**2022-03-25**|**The Companion Model -- a Canonical Model in Graph Signal Processing**|John Shi et.al.|[2203.13791v1](http://arxiv.org/abs/2203.13791v1)|null|
+|**2022-03-25**|**L3Cube-MahaHate: A Tweet-based Marathi Hate Speech Detection Dataset and BERT models**|Abhishek Velankar et.al.|[2203.13778v1](http://arxiv.org/abs/2203.13778v1)|null|
 |**2022-03-24**|**Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer**|Omkar Thawakar et.al.|[2203.13253v1](http://arxiv.org/abs/2203.13253v1)|**[link](https://github.com/OmkarThawakar/MSSTS-VIS)**|
 |**2022-03-24**|**Global Tracking Transformers**|Xingyi Zhou et.al.|[2203.13250v1](http://arxiv.org/abs/2203.13250v1)|**[link](https://github.com/xingyizhou/GTR)**|
 |**2022-03-24**|**Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**|Shuai Yang et.al.|[2203.13248v1](http://arxiv.org/abs/2203.13248v1)|**[link](https://github.com/williamyang1991/DualStyleGAN)**|
@@ -447,6 +465,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-25**|**Playing Lottery Tickets in Style Transfer Models**|Meihao Kong et.al.|[2203.13802v1](http://arxiv.org/abs/2203.13802v1)|null|
+|**2022-03-25**|**Optical constants of several multilayer transition metal dichalcogenides measured by spectroscopic ellipsometry in the 300-1700 nm range: high-index, anisotropy, and hyperbolicity**|Battulga Munkhbat et.al.|[2203.13793v1](http://arxiv.org/abs/2203.13793v1)|null|
+|**2022-03-25**|**The $\bar B_s^0 \to J/ψπ^0 η$ decay and the $a_0(980)-f_0(980)$ mixing**|Jia-Ting Li et.al.|[2203.13786v1](http://arxiv.org/abs/2203.13786v1)|null|
+|**2022-03-25**|**Ensemble Spectral Prediction (ESP) Model for Metabolite Annotation**|Xinmeng Li et.al.|[2203.13783v1](http://arxiv.org/abs/2203.13783v1)|null|
+|**2022-03-25**|**A generalized precision matrix for t-Student distributions in portfolio optimization**|Karoline Bax et.al.|[2203.13740v1](http://arxiv.org/abs/2203.13740v1)|null|
+|**2022-03-25**|**On the probability of a Condorcet winner among a large number of alternatives**|Lisa Sauermann et.al.|[2203.13713v1](http://arxiv.org/abs/2203.13713v1)|null|
 |**2022-03-24**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2203.13254v1](http://arxiv.org/abs/2203.13254v1)|**[link](https://github.com/tjiiv-cprg/epro-pnp)**|
 |**2022-03-24**|**Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer**|Omkar Thawakar et.al.|[2203.13253v1](http://arxiv.org/abs/2203.13253v1)|**[link](https://github.com/OmkarThawakar/MSSTS-VIS)**|
 |**2022-03-24**|**Facial Expression Recognition based on Multi-head Cross Attention Network**|Jae-Yeop Jeong et.al.|[2203.13235v1](http://arxiv.org/abs/2203.13235v1)|null|
