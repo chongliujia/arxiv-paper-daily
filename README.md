@@ -1,9 +1,15 @@
-## Updated on 2022.03.28
+## Updated on 2022.03.29
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**|Minghao Chen et.al.|[2203.14957v1](http://arxiv.org/abs/2203.14957v1)|**[link](https://github.com/minghchen/carl_code)**|
+|**2022-03-28**|**LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection**|Yi Wei et.al.|[2203.14956v1](http://arxiv.org/abs/2203.14956v1)|**[link](https://github.com/weiyithu/lidar-distillation)**|
+|**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
+|**2022-03-28**|**Energy-based Latent Aligner for Incremental Learning**|K J Joseph et.al.|[2203.14952v1](http://arxiv.org/abs/2203.14952v1)|**[link](https://github.com/josephkj/eli)**|
+|**2022-03-28**|**Controllable Dynamic Multi-Task Architectures**|Dripta S. Raychaudhuri et.al.|[2203.14949v1](http://arxiv.org/abs/2203.14949v1)|null|
+|**2022-03-28**|**Differentiable Microscopy for Content and Task Aware Compressive Fluorescence Imaging**|Udith Haputhanthri et.al.|[2203.14945v1](http://arxiv.org/abs/2203.14945v1)|null|
 |**2022-03-25**|**AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling**|Ziqian Bai et.al.|[2203.13817v1](http://arxiv.org/abs/2203.13817v1)|null|
 |**2022-03-25**|**Versatile Multi-Modal Pre-Training for Human-Centric Perception**|Fangzhou Hong et.al.|[2203.13815v1](http://arxiv.org/abs/2203.13815v1)|null|
 |**2022-03-25**|**Femtoscopic study on $DD^*$ and $D\bar{D}^*$ interactions for $T_{cc}$ and $X(3872)$**|Yuki Kamiya et.al.|[2203.13814v1](http://arxiv.org/abs/2203.13814v1)|null|
@@ -153,6 +159,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**|Minghao Chen et.al.|[2203.14957v1](http://arxiv.org/abs/2203.14957v1)|**[link](https://github.com/minghchen/carl_code)**|
+|**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
+|**2022-03-28**|**Energy-based Latent Aligner for Incremental Learning**|K J Joseph et.al.|[2203.14952v1](http://arxiv.org/abs/2203.14952v1)|**[link](https://github.com/josephkj/eli)**|
+|**2022-03-28**|**Controllable Dynamic Multi-Task Architectures**|Dripta S. Raychaudhuri et.al.|[2203.14949v1](http://arxiv.org/abs/2203.14949v1)|null|
+|**2022-03-28**|**Differentiable Microscopy for Content and Task Aware Compressive Fluorescence Imaging**|Udith Haputhanthri et.al.|[2203.14945v1](http://arxiv.org/abs/2203.14945v1)|null|
+|**2022-03-28**|**Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope**|Kithmini Herath et.al.|[2203.14944v1](http://arxiv.org/abs/2203.14944v1)|null|
 |**2022-03-25**|**Versatile Multi-Modal Pre-Training for Human-Centric Perception**|Fangzhou Hong et.al.|[2203.13815v1](http://arxiv.org/abs/2203.13815v1)|null|
 |**2022-03-25**|**Spatially Multi-conditional Image Generation**|Ritika Chakraborty et.al.|[2203.13812v1](http://arxiv.org/abs/2203.13812v1)|null|
 |**2022-03-25**|**Continuous Dynamic-NeRF: Spline-NeRF**|Julian Knodt et.al.|[2203.13800v1](http://arxiv.org/abs/2203.13800v1)|**[link](https://github.com/JulianKnodt/nerf_atlas)**|
@@ -302,6 +314,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**A Framework of Meta Functional Learning for Regularising Knowledge Transfer**|Pan Li et.al.|[2203.14840v1](http://arxiv.org/abs/2203.14840v1)|null|
 |**2022-03-15**|**Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning**|Yuqian Fu et.al.|[2203.07656v1](http://arxiv.org/abs/2203.07656v1)|null|
 |**2022-03-03**|**MetaDT: Meta Decision Tree for Interpretable Few-Shot Learning**|Baoquan Zhang et.al.|[2203.01482v1](http://arxiv.org/abs/2203.01482v1)|null|
 |**2022-02-27**|**Interpretable Concept-based Prototypical Networks for Few-Shot Learning**|Mohammad Reza Zarei et.al.|[2202.13474v1](http://arxiv.org/abs/2202.13474v1)|null|
@@ -316,6 +329,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**UTSA NLP at SemEval-2022 Task 4: An Exploration of Simple Ensembles of Transformers, Convolutional, and Recurrent Neural Networks**|Xingmeng Zhao et.al.|[2203.14920v1](http://arxiv.org/abs/2203.14920v1)|null|
+|**2022-03-28**|**New Horizons: Scalar and Vector Ultralight Dark Matter**|D. Antypas et.al.|[2203.14915v1](http://arxiv.org/abs/2203.14915v1)|null|
+|**2022-03-28**|**Anisotropic Kelvin transform and the Sobolev anisotropic critical equation**|Francesco Esposito et.al.|[2203.14903v1](http://arxiv.org/abs/2203.14903v1)|null|
+|**2022-03-28**|**SyncMesh: Improving Data Locality for Function-as-a-Service in Meshed Edge Networks**|Daniel Habenicht et.al.|[2203.14801v1](http://arxiv.org/abs/2203.14801v1)|null|
+|**2022-03-28**|**Optimal Coupling of Jumpy Brownian Motion on the Circle**|Stephen B. Connor et.al.|[2203.14791v1](http://arxiv.org/abs/2203.14791v1)|null|
+|**2022-03-28**|**Non-Debye relaxations: The ups and downs of the stretched exponential vs Mittag-Leffler's matchings**|K. Górska et.al.|[2203.14786v1](http://arxiv.org/abs/2203.14786v1)|null|
 |**2022-03-25**|**Spatially Multi-conditional Image Generation**|Ritika Chakraborty et.al.|[2203.13812v1](http://arxiv.org/abs/2203.13812v1)|null|
 |**2022-03-25**|**Braided Hopf algebras and gauge transformations**|Paolo Aschieri et.al.|[2203.13811v1](http://arxiv.org/abs/2203.13811v1)|null|
 |**2022-03-25**|**Playing Lottery Tickets in Style Transfer Models**|Meihao Kong et.al.|[2203.13802v1](http://arxiv.org/abs/2203.13802v1)|null|
@@ -465,6 +484,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**RAVIR: A Dataset and Methodology for the Semantic Segmentation and Quantitative Analysis of Retinal Arteries and Veins in Infrared Reflectance Imaging**|Ali Hatamizadeh et.al.|[2203.14928v1](http://arxiv.org/abs/2203.14928v1)|null|
+|**2022-03-28**|**Finnish Parliament ASR corpus - Analysis, benchmarks and statistics**|Anja Virkkunen et.al.|[2203.14876v1](http://arxiv.org/abs/2203.14876v1)|null|
+|**2022-03-28**|**Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches**|Ayan Kumar Bhunia et.al.|[2203.14843v1](http://arxiv.org/abs/2203.14843v1)|null|
+|**2022-03-28**|**HDR Reconstruction from Bracketed Exposures and Events**|Richard Shaw et.al.|[2203.14825v1](http://arxiv.org/abs/2203.14825v1)|null|
+|**2022-03-28**|**An attention mechanism based convolutional network for satellite precipitation downscaling over China**|Yinghong Jing et.al.|[2203.14812v1](http://arxiv.org/abs/2203.14812v1)|null|
+|**2022-03-28**|**"Born in Rome" or "Sleeping Beauty": Emergence of hashtag popularity on a microblogging site**|Hao Cui et.al.|[2203.14802v1](http://arxiv.org/abs/2203.14802v1)|null|
 |**2022-03-25**|**Playing Lottery Tickets in Style Transfer Models**|Meihao Kong et.al.|[2203.13802v1](http://arxiv.org/abs/2203.13802v1)|null|
 |**2022-03-25**|**Optical constants of several multilayer transition metal dichalcogenides measured by spectroscopic ellipsometry in the 300-1700 nm range: high-index, anisotropy, and hyperbolicity**|Battulga Munkhbat et.al.|[2203.13793v1](http://arxiv.org/abs/2203.13793v1)|null|
 |**2022-03-25**|**The $\bar B_s^0 \to J/ψπ^0 η$ decay and the $a_0(980)-f_0(980)$ mixing**|Jia-Ting Li et.al.|[2203.13786v1](http://arxiv.org/abs/2203.13786v1)|null|
