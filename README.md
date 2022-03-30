@@ -1,9 +1,15 @@
-## Updated on 2022.03.29
+## Updated on 2022.03.30
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**|Zhiheng Li et.al.|[2203.15799v1](http://arxiv.org/abs/2203.15799v1)|**[link](https://github.com/zhihengli-UR/StyleT2I)**|
+|**2022-03-29**|**DRaCoN -- Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars**|Amit Raj et.al.|[2203.15798v1](http://arxiv.org/abs/2203.15798v1)|null|
+|**2022-03-29**|**CHEX: CHannel EXploration for CNN Model Compression**|Zejiang Hou et.al.|[2203.15794v1](http://arxiv.org/abs/2203.15794v1)|null|
+|**2022-03-29**|**Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**|Vibashan VS et.al.|[2203.15793v1](http://arxiv.org/abs/2203.15793v1)|**[link](https://github.com/vibashan/irg-sfda)**|
+|**2022-03-29**|**Target and Task specific Source-Free Domain Adaptive Image Segmentation**|Vibashan VS et.al.|[2203.15792v1](http://arxiv.org/abs/2203.15792v1)|**[link](https://github.com/vibashan/tt-sfuda)**|
+|**2022-03-29**|**Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method**|Washington Ramos et.al.|[2203.15778v1](http://arxiv.org/abs/2203.15778v1)|null|
 |**2022-03-28**|**Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**|Minghao Chen et.al.|[2203.14957v1](http://arxiv.org/abs/2203.14957v1)|**[link](https://github.com/minghchen/carl_code)**|
 |**2022-03-28**|**LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection**|Yi Wei et.al.|[2203.14956v1](http://arxiv.org/abs/2203.14956v1)|**[link](https://github.com/weiyithu/lidar-distillation)**|
 |**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
@@ -159,6 +165,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**DRaCoN -- Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars**|Amit Raj et.al.|[2203.15798v1](http://arxiv.org/abs/2203.15798v1)|null|
+|**2022-03-29**|**Convergence and Complexity of Stochastic Subgradient Methods with Dependent Data for Nonconvex Optimization**|Ahmet Alacaoglu et.al.|[2203.15797v1](http://arxiv.org/abs/2203.15797v1)|null|
+|**2022-03-29**|**Unsupervised Text-to-Speech Synthesis by Unsupervised Automatic Speech Recognition**|Junrui Ni et.al.|[2203.15796v1](http://arxiv.org/abs/2203.15796v1)|null|
+|**2022-03-29**|**Not Another School Resource Map: Meeting Underserved Families' Information Needs Requires Trusting Relationships and Personalized Care**|Samantha Robertson et.al.|[2203.15795v1](http://arxiv.org/abs/2203.15795v1)|null|
+|**2022-03-29**|**Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection**|Vibashan VS et.al.|[2203.15793v1](http://arxiv.org/abs/2203.15793v1)|**[link](https://github.com/vibashan/irg-sfda)**|
+|**2022-03-29**|**Target and Task specific Source-Free Domain Adaptive Image Segmentation**|Vibashan VS et.al.|[2203.15792v1](http://arxiv.org/abs/2203.15792v1)|**[link](https://github.com/vibashan/tt-sfuda)**|
 |**2022-03-28**|**Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**|Minghao Chen et.al.|[2203.14957v1](http://arxiv.org/abs/2203.14957v1)|**[link](https://github.com/minghchen/carl_code)**|
 |**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
 |**2022-03-28**|**Energy-based Latent Aligner for Incremental Learning**|K J Joseph et.al.|[2203.14952v1](http://arxiv.org/abs/2203.14952v1)|**[link](https://github.com/josephkj/eli)**|
@@ -329,6 +341,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**Duality, Criticality, Anomaly, and Topology in Quantum Spin-1 Chains**|Hong Yang et.al.|[2203.15791v1](http://arxiv.org/abs/2203.15791v1)|null|
+|**2022-03-29**|**Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)**|Hyunwook Park et.al.|[2203.15722v1](http://arxiv.org/abs/2203.15722v1)|null|
+|**2022-03-29**|**Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs**|Yifeng Jiang et.al.|[2203.15720v1](http://arxiv.org/abs/2203.15720v1)|null|
+|**2022-03-29**|**Commuting maps with the Mean Transform under Jordan product**|Fadil Chabbabi et.al.|[2203.15715v1](http://arxiv.org/abs/2203.15715v1)|null|
+|**2022-03-29**|**Systematic Parametrization of the Leading $B$-meson Light-Cone Distribution Amplitude**|Thorsten Feldmann et.al.|[2203.15679v1](http://arxiv.org/abs/2203.15679v1)|null|
+|**2022-03-29**|**Exploring Frequency Adversarial Attacks for Face Forgery Detection**|Shuai Jia et.al.|[2203.15674v1](http://arxiv.org/abs/2203.15674v1)|null|
 |**2022-03-28**|**UTSA NLP at SemEval-2022 Task 4: An Exploration of Simple Ensembles of Transformers, Convolutional, and Recurrent Neural Networks**|Xingmeng Zhao et.al.|[2203.14920v1](http://arxiv.org/abs/2203.14920v1)|null|
 |**2022-03-28**|**New Horizons: Scalar and Vector Ultralight Dark Matter**|D. Antypas et.al.|[2203.14915v1](http://arxiv.org/abs/2203.14915v1)|null|
 |**2022-03-28**|**Anisotropic Kelvin transform and the Sobolev anisotropic critical equation**|Francesco Esposito et.al.|[2203.14903v1](http://arxiv.org/abs/2203.14903v1)|null|
@@ -484,6 +502,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method**|Washington Ramos et.al.|[2203.15778v1](http://arxiv.org/abs/2203.15778v1)|null|
+|**2022-03-29**|**Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version**|Razvan-Gabriel Cirstea et.al.|[2203.15737v1](http://arxiv.org/abs/2203.15737v1)|null|
+|**2022-03-29**|**Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)**|Hyunwook Park et.al.|[2203.15722v1](http://arxiv.org/abs/2203.15722v1)|null|
+|**2022-03-29**|**Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs**|Yifeng Jiang et.al.|[2203.15720v1](http://arxiv.org/abs/2203.15720v1)|null|
+|**2022-03-29**|**Integrative Few-Shot Learning for Classification and Segmentation**|Dahyun Kang et.al.|[2203.15712v1](http://arxiv.org/abs/2203.15712v1)|null|
+|**2022-03-29**|**Towards Everyday Virtual Reality through Eye Tracking**|Efe Bozkir et.al.|[2203.15703v1](http://arxiv.org/abs/2203.15703v1)|null|
 |**2022-03-28**|**RAVIR: A Dataset and Methodology for the Semantic Segmentation and Quantitative Analysis of Retinal Arteries and Veins in Infrared Reflectance Imaging**|Ali Hatamizadeh et.al.|[2203.14928v1](http://arxiv.org/abs/2203.14928v1)|null|
 |**2022-03-28**|**Finnish Parliament ASR corpus - Analysis, benchmarks and statistics**|Anja Virkkunen et.al.|[2203.14876v1](http://arxiv.org/abs/2203.14876v1)|null|
 |**2022-03-28**|**Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches**|Ayan Kumar Bhunia et.al.|[2203.14843v1](http://arxiv.org/abs/2203.14843v1)|null|
