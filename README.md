@@ -1,9 +1,15 @@
-## Updated on 2022.03.30
+## Updated on 2022.03.31
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-30**|**Large-Scale Pre-training for Person Re-identification with Noisy Labels**|Dengpan Fu et.al.|[2203.16533v1](http://arxiv.org/abs/2203.16533v1)|**[link](https://github.com/dengpanfu/luperson-nl)**|
+|**2022-03-30**|**Understanding 3D Object Articulation in Internet Videos**|Shengyi Qian et.al.|[2203.16531v1](http://arxiv.org/abs/2203.16531v1)|null|
+|**2022-03-30**|**Learning Instance-Specific Adaptation for Cross-Domain Segmentation**|Yuliang Zou et.al.|[2203.16530v1](http://arxiv.org/abs/2203.16530v1)|null|
+|**2022-03-30**|**CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism**|Jiahui Lei et.al.|[2203.16529v1](http://arxiv.org/abs/2203.16529v1)|null|
+|**2022-03-30**|**L^3U-net: Low-Latency Lightweight U-net Based Image Segmentation Model for Parallel CNN Processors**|Osman Erman Okman et.al.|[2203.16528v1](http://arxiv.org/abs/2203.16528v1)|null|
+|**2022-03-30**|**Exploring Plain Vision Transformer Backbones for Object Detection**|Yanghao Li et.al.|[2203.16527v1](http://arxiv.org/abs/2203.16527v1)|null|
 |**2022-03-29**|**StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**|Zhiheng Li et.al.|[2203.15799v1](http://arxiv.org/abs/2203.15799v1)|**[link](https://github.com/zhihengli-UR/StyleT2I)**|
 |**2022-03-29**|**DRaCoN -- Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars**|Amit Raj et.al.|[2203.15798v1](http://arxiv.org/abs/2203.15798v1)|null|
 |**2022-03-29**|**CHEX: CHannel EXploration for CNN Model Compression**|Zejiang Hou et.al.|[2203.15794v1](http://arxiv.org/abs/2203.15794v1)|null|
@@ -165,6 +171,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-30**|**Large-Scale Pre-training for Person Re-identification with Noisy Labels**|Dengpan Fu et.al.|[2203.16533v1](http://arxiv.org/abs/2203.16533v1)|**[link](https://github.com/dengpanfu/luperson-nl)**|
+|**2022-03-30**|**Learning Instance-Specific Adaptation for Cross-Domain Segmentation**|Yuliang Zou et.al.|[2203.16530v1](http://arxiv.org/abs/2203.16530v1)|null|
+|**2022-03-30**|**CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism**|Jiahui Lei et.al.|[2203.16529v1](http://arxiv.org/abs/2203.16529v1)|null|
+|**2022-03-30**|**CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs**|Jiteng Mu et.al.|[2203.16521v1](http://arxiv.org/abs/2203.16521v1)|null|
+|**2022-03-30**|**Collaborative Transformers for Grounded Situation Recognition**|Junhyeong Cho et.al.|[2203.16518v1](http://arxiv.org/abs/2203.16518v1)|**[link](https://github.com/jhcho99/coformer)**|
+|**2022-03-30**|**Unseen Classes at a Later Time? No Problem**|Hari Chandana Kuchibhotla et.al.|[2203.16517v1](http://arxiv.org/abs/2203.16517v1)|**[link](https://github.com/sumitramalagi/unseen-classes-at-a-later-time)**|
 |**2022-03-29**|**DRaCoN -- Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars**|Amit Raj et.al.|[2203.15798v1](http://arxiv.org/abs/2203.15798v1)|null|
 |**2022-03-29**|**Convergence and Complexity of Stochastic Subgradient Methods with Dependent Data for Nonconvex Optimization**|Ahmet Alacaoglu et.al.|[2203.15797v1](http://arxiv.org/abs/2203.15797v1)|null|
 |**2022-03-29**|**Unsupervised Text-to-Speech Synthesis by Unsupervised Automatic Speech Recognition**|Junrui Ni et.al.|[2203.15796v1](http://arxiv.org/abs/2203.15796v1)|null|
@@ -341,6 +353,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-30**|**A cellular automaton decoder for a noise-bias tailored color code**|Jonathan F. San Miguel et.al.|[2203.16534v1](http://arxiv.org/abs/2203.16534v1)|null|
+|**2022-03-30**|**Exploring Plain Vision Transformer Backbones for Object Detection**|Yanghao Li et.al.|[2203.16527v1](http://arxiv.org/abs/2203.16527v1)|null|
+|**2022-03-30**|**CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs**|Jiteng Mu et.al.|[2203.16521v1](http://arxiv.org/abs/2203.16521v1)|null|
+|**2022-03-30**|**Collaborative Transformers for Grounded Situation Recognition**|Junhyeong Cho et.al.|[2203.16518v1](http://arxiv.org/abs/2203.16518v1)|**[link](https://github.com/jhcho99/coformer)**|
+|**2022-03-30**|**Generative Spoken Dialogue Language Modeling**|Tu Anh Nguyen et.al.|[2203.16502v1](http://arxiv.org/abs/2203.16502v1)|null|
+|**2022-03-30**|**Forensic Analysis and Localization of Multiply Compressed MP3 Audio Using Transformers**|Ziyue Xiang et.al.|[2203.16499v1](http://arxiv.org/abs/2203.16499v1)|null|
 |**2022-03-29**|**Duality, Criticality, Anomaly, and Topology in Quantum Spin-1 Chains**|Hong Yang et.al.|[2203.15791v1](http://arxiv.org/abs/2203.15791v1)|null|
 |**2022-03-29**|**Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)**|Hyunwook Park et.al.|[2203.15722v1](http://arxiv.org/abs/2203.15722v1)|null|
 |**2022-03-29**|**Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs**|Yifeng Jiang et.al.|[2203.15720v1](http://arxiv.org/abs/2203.15720v1)|null|
@@ -502,6 +520,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-30**|**Exploring Plain Vision Transformer Backbones for Object Detection**|Yanghao Li et.al.|[2203.16527v1](http://arxiv.org/abs/2203.16527v1)|null|
+|**2022-03-30**|**AdaMixer: A Fast-Converging Query-Based Object Detector**|Ziteng Gao et.al.|[2203.16507v1](http://arxiv.org/abs/2203.16507v1)|**[link](https://github.com/mcg-nju/adamixer)**|
+|**2022-03-30**|**An Improved Lightweight YOLOv5 Model Based on Attention Mechanism for Face Mask Detection**|Sheng Xu et.al.|[2203.16506v1](http://arxiv.org/abs/2203.16506v1)|null|
+|**2022-03-30**|**Generative Spoken Dialogue Language Modeling**|Tu Anh Nguyen et.al.|[2203.16502v1](http://arxiv.org/abs/2203.16502v1)|null|
+|**2022-03-30**|**Classification of gamma-ray targets for velocity-dependent and subhalo-boosted dark-matter annihilation**|Thomas Lacroix et.al.|[2203.16440v1](http://arxiv.org/abs/2203.16440v1)|null|
+|**2022-03-30**|**Balanced MSE for Imbalanced Visual Regression**|Jiawei Ren et.al.|[2203.16427v1](http://arxiv.org/abs/2203.16427v1)|**[link](https://github.com/jiawei-ren/BalancedMSE)**|
 |**2022-03-29**|**Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method**|Washington Ramos et.al.|[2203.15778v1](http://arxiv.org/abs/2203.15778v1)|null|
 |**2022-03-29**|**Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version**|Razvan-Gabriel Cirstea et.al.|[2203.15737v1](http://arxiv.org/abs/2203.15737v1)|null|
 |**2022-03-29**|**Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)**|Hyunwook Park et.al.|[2203.15722v1](http://arxiv.org/abs/2203.15722v1)|null|
