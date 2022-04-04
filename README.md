@@ -1,9 +1,15 @@
-## Updated on 2022.04.03
+## Updated on 2022.04.04
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|null|
+|**2022-04-01**|**Large-scale Rook Placements**|Pakawut Jiradilok et.al.|[2204.00615v1](http://arxiv.org/abs/2204.00615v1)|null|
+|**2022-04-01**|**On the Importance of Asymmetry for Siamese Representation Learning**|Xiao Wang et.al.|[2204.00613v1](http://arxiv.org/abs/2204.00613v1)|**[link](https://github.com/facebookresearch/asym-siam)**|
+|**2022-04-01**|**Quantized GAN for Complex Music Generation from Dance Videos**|Ye Zhu et.al.|[2204.00604v1](http://arxiv.org/abs/2204.00604v1)|**[link](https://github.com/l-yezhu/d2m-gan)**|
+|**2022-04-01**|**The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories**|Melanie Warrick et.al.|[2204.00603v1](http://arxiv.org/abs/2204.00603v1)|null|
+|**2022-04-01**|**Perceval: A Software Platform for Discrete Variable Photonic Quantum Computing**|Nicolas Heurtel et.al.|[2204.00602v1](http://arxiv.org/abs/2204.00602v1)|null|
 |**2022-03-31**|**Bringing Old Films Back to Life**|Ziyu Wan et.al.|[2203.17276v1](http://arxiv.org/abs/2203.17276v1)|**[link](https://github.com/raywzy/bringing-old-films-back-to-life)**|
 |**2022-03-31**|**DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools**|Xingyu Lin et.al.|[2203.17275v1](http://arxiv.org/abs/2203.17275v1)|null|
 |**2022-03-31**|**Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models**|Hyojin Bahng et.al.|[2203.17274v1](http://arxiv.org/abs/2203.17274v1)|null|
@@ -177,6 +183,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|null|
+|**2022-04-01**|**On the Importance of Asymmetry for Siamese Representation Learning**|Xiao Wang et.al.|[2204.00613v1](http://arxiv.org/abs/2204.00613v1)|**[link](https://github.com/facebookresearch/asym-siam)**|
+|**2022-04-01**|**Learning the conditional law: signatures and conditional GANs in filtering and prediction of diffusion processes**|Fabian Germ et.al.|[2204.00611v1](http://arxiv.org/abs/2204.00611v1)|null|
+|**2022-04-01**|**Iterative location modeling of hand sanitizer deployment based upon qualitative interviews**|Tyler C. OBrien et.al.|[2204.00609v1](http://arxiv.org/abs/2204.00609v1)|null|
+|**2022-04-01**|**From Statistical to Causal Learning**|Bernhard Schölkopf et.al.|[2204.00607v1](http://arxiv.org/abs/2204.00607v1)|null|
+|**2022-04-01**|**Quantized GAN for Complex Music Generation from Dance Videos**|Ye Zhu et.al.|[2204.00604v1](http://arxiv.org/abs/2204.00604v1)|**[link](https://github.com/l-yezhu/d2m-gan)**|
 |**2022-03-31**|**Bringing Old Films Back to Life**|Ziyu Wan et.al.|[2203.17276v1](http://arxiv.org/abs/2203.17276v1)|**[link](https://github.com/raywzy/bringing-old-films-back-to-life)**|
 |**2022-03-31**|**DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools**|Xingyu Lin et.al.|[2203.17275v1](http://arxiv.org/abs/2203.17275v1)|null|
 |**2022-03-31**|**Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models**|Hyojin Bahng et.al.|[2203.17274v1](http://arxiv.org/abs/2203.17274v1)|null|
@@ -365,6 +377,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**Monarch: Expressive Structured Matrices for Efficient and Accurate Training**|Tri Dao et.al.|[2204.00595v1](http://arxiv.org/abs/2204.00595v1)|null|
+|**2022-04-01**|**Nowruz at SemEval-2022 Task 7: Tackling Cloze Tests with Transformers and Ordinal Regression**|Mohammadmahdi Nouriborji et.al.|[2204.00556v1](http://arxiv.org/abs/2204.00556v1)|null|
+|**2022-04-01**|**End-to-end Learnable Diversity-aware News Recommendation**|Chuhan Wu et.al.|[2204.00539v1](http://arxiv.org/abs/2204.00539v1)|null|
+|**2022-04-01**|**Relative quantum cohomology under birational transformations**|Fenglong You et.al.|[2204.00509v1](http://arxiv.org/abs/2204.00509v1)|null|
+|**2022-04-01**|**A Global Modeling Approach for Load Forecasting in Distribution Networks**|Miha Grabner et.al.|[2204.00493v1](http://arxiv.org/abs/2204.00493v1)|null|
+|**2022-04-01**|**A Class of Semiparametric Models with Homogeneous Structure for Panel Data Analysis**|Tao Huang et.al.|[2204.00468v1](http://arxiv.org/abs/2204.00468v1)|null|
 |**2022-03-31**|**Bringing Old Films Back to Life**|Ziyu Wan et.al.|[2203.17276v1](http://arxiv.org/abs/2203.17276v1)|**[link](https://github.com/raywzy/bringing-old-films-back-to-life)**|
 |**2022-03-31**|**BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**|Zhiqi Li et.al.|[2203.17270v1](http://arxiv.org/abs/2203.17270v1)|**[link](https://github.com/zhiqi-li/BEVFormer)**|
 |**2022-03-31**|**TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**|Yanbo Xu et.al.|[2203.17266v1](http://arxiv.org/abs/2203.17266v1)|**[link](https://github.com/billyxyb/transeditor)**|
@@ -538,6 +556,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**A Novel Multimodal Approach for Studying the Dynamics of Curiosity in Small Group Learning**|Tanmay Sinha et.al.|[2204.00545v1](http://arxiv.org/abs/2204.00545v1)|null|
+|**2022-04-01**|**Deep Learning in Spiking Phasor Neural Networks**|Connor Bybee et.al.|[2204.00507v1](http://arxiv.org/abs/2204.00507v1)|null|
+|**2022-04-01**|**FrequencyLowCut Pooling -- Plug & Play against Catastrophic Overfitting**|Julia Grabinski et.al.|[2204.00491v1](http://arxiv.org/abs/2204.00491v1)|null|
+|**2022-04-01**|**Deep Neural Convolutive Matrix Factorization for Articulatory Representation Decomposition**|Jiachen Lian et.al.|[2204.00465v1](http://arxiv.org/abs/2204.00465v1)|null|
+|**2022-04-01**|**Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition**|Ryota Hashiguchi et.al.|[2204.00452v1](http://arxiv.org/abs/2204.00452v1)|null|
+|**2022-04-01**|**AdaSpeech 4: Adaptive Text to Speech in Zero-Shot Scenarios**|Yihan Wu et.al.|[2204.00436v1](http://arxiv.org/abs/2204.00436v1)|null|
 |**2022-03-31**|**BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**|Zhiqi Li et.al.|[2203.17270v1](http://arxiv.org/abs/2203.17270v1)|**[link](https://github.com/zhiqi-li/BEVFormer)**|
 |**2022-03-31**|**Mixed-Phoneme BERT: Improving BERT with Mixed Phoneme and Sup-Phoneme Representations for Text to Speech**|Guangyan Zhang et.al.|[2203.17190v1](http://arxiv.org/abs/2203.17190v1)|null|
 |**2022-03-31**|**Preventing Over-Smoothing for Hypergraph Neural Networks**|Guanzi Chen et.al.|[2203.17159v1](http://arxiv.org/abs/2203.17159v1)|null|
