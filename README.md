@@ -1,9 +1,15 @@
-## Updated on 2022.04.04
+## Updated on 2022.04.05
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
+|**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
+|**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
+|**2022-04-04**|**"This is my unicorn, Fluffy": Personalizing frozen vision-language representations**|Niv Cohen et.al.|[2204.01694v1](http://arxiv.org/abs/2204.01694v1)|null|
+|**2022-04-04**|**Long Movie Clip Classification with State-Space Video Models**|Md Mohaiminul Islam et.al.|[2204.01692v1](http://arxiv.org/abs/2204.01692v1)|null|
+|**2022-04-04**|**Learning Neural Acoustic Fields**|Andrew Luo et.al.|[2204.00628v1](http://arxiv.org/abs/2204.00628v1)|null|
 |**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|null|
 |**2022-04-01**|**Large-scale Rook Placements**|Pakawut Jiradilok et.al.|[2204.00615v1](http://arxiv.org/abs/2204.00615v1)|null|
 |**2022-04-01**|**On the Importance of Asymmetry for Siamese Representation Learning**|Xiao Wang et.al.|[2204.00613v1](http://arxiv.org/abs/2204.00613v1)|**[link](https://github.com/facebookresearch/asym-siam)**|
@@ -183,6 +189,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
+|**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
+|**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
+|**2022-04-04**|**"This is my unicorn, Fluffy": Personalizing frozen vision-language representations**|Niv Cohen et.al.|[2204.01694v1](http://arxiv.org/abs/2204.01694v1)|null|
+|**2022-04-04**|**Long Movie Clip Classification with State-Space Video Models**|Md Mohaiminul Islam et.al.|[2204.01692v1](http://arxiv.org/abs/2204.01692v1)|null|
+|**2022-04-04**|**Learning Neural Acoustic Fields**|Andrew Luo et.al.|[2204.00628v1](http://arxiv.org/abs/2204.00628v1)|null|
 |**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|null|
 |**2022-04-01**|**On the Importance of Asymmetry for Siamese Representation Learning**|Xiao Wang et.al.|[2204.00613v1](http://arxiv.org/abs/2204.00613v1)|**[link](https://github.com/facebookresearch/asym-siam)**|
 |**2022-04-01**|**Learning the conditional law: signatures and conditional GANs in filtering and prediction of diffusion processes**|Fabian Germ et.al.|[2204.00611v1](http://arxiv.org/abs/2204.00611v1)|null|
@@ -377,6 +389,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
+|**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
+|**2022-04-04**|**Long Movie Clip Classification with State-Space Video Models**|Md Mohaiminul Islam et.al.|[2204.01692v1](http://arxiv.org/abs/2204.01692v1)|null|
+|**2022-04-04**|**TALLFormer: Temporal Action Localization with Long-memory Transformer**|Feng Cheng et.al.|[2204.01680v1](http://arxiv.org/abs/2204.01680v1)|null|
+|**2022-04-04**|**Towards black hole entropy in chiral loop quantum supergravity**|Konstantin Eder et.al.|[2204.01661v1](http://arxiv.org/abs/2204.01661v1)|null|
+|**2022-04-04**|**An English translation of A. Wiman's "On the algebraic curves of genus $p=4$, $5$ and $6$, which posses unambiguous transformations into themselves"**|Linden Disney-Hogg et.al.|[2204.01656v1](http://arxiv.org/abs/2204.01656v1)|null|
 |**2022-04-01**|**Monarch: Expressive Structured Matrices for Efficient and Accurate Training**|Tri Dao et.al.|[2204.00595v1](http://arxiv.org/abs/2204.00595v1)|null|
 |**2022-04-01**|**Nowruz at SemEval-2022 Task 7: Tackling Cloze Tests with Transformers and Ordinal Regression**|Mohammadmahdi Nouriborji et.al.|[2204.00556v1](http://arxiv.org/abs/2204.00556v1)|null|
 |**2022-04-01**|**End-to-end Learnable Diversity-aware News Recommendation**|Chuhan Wu et.al.|[2204.00539v1](http://arxiv.org/abs/2204.00539v1)|null|
@@ -556,6 +574,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
+|**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
+|**2022-04-04**|**Long Movie Clip Classification with State-Space Video Models**|Md Mohaiminul Islam et.al.|[2204.01692v1](http://arxiv.org/abs/2204.01692v1)|null|
+|**2022-04-04**|**Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?**|Julien Audibert et.al.|[2204.01637v1](http://arxiv.org/abs/2204.01637v1)|null|
+|**2022-04-04**|**Generation of twisted magnons via spin-to-orbital angular momentum conversion**|Z. -X. Li et.al.|[2204.01629v1](http://arxiv.org/abs/2204.01629v1)|null|
+|**2022-04-04**|**HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE**|Xiaoyu Bie et.al.|[2204.01565v1](http://arxiv.org/abs/2204.01565v1)|null|
 |**2022-04-01**|**A Novel Multimodal Approach for Studying the Dynamics of Curiosity in Small Group Learning**|Tanmay Sinha et.al.|[2204.00545v1](http://arxiv.org/abs/2204.00545v1)|null|
 |**2022-04-01**|**Deep Learning in Spiking Phasor Neural Networks**|Connor Bybee et.al.|[2204.00507v1](http://arxiv.org/abs/2204.00507v1)|null|
 |**2022-04-01**|**FrequencyLowCut Pooling -- Plug & Play against Catastrophic Overfitting**|Julia Grabinski et.al.|[2204.00491v1](http://arxiv.org/abs/2204.00491v1)|null|
