@@ -1,9 +1,15 @@
-## Updated on 2022.04.05
+## Updated on 2022.04.06
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**fBLS -- a fast-folding BLS algorithm**|Sahar Shahaf et.al.|[2204.02398v1](http://arxiv.org/abs/2204.02398v1)|null|
+|**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
+|**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
+|**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
+|**2022-04-05**|**Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower**|Jimmy Wu et.al.|[2204.02390v1](http://arxiv.org/abs/2204.02390v1)|null|
+|**2022-04-05**|**ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer**|Ruohan Gao et.al.|[2204.02389v1](http://arxiv.org/abs/2204.02389v1)|**[link](https://github.com/rhgao/objectfolder)**|
 |**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
 |**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
 |**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
@@ -189,6 +195,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
+|**2022-04-05**|**A Piecewise Learning Framework for Control of Unknown Nonlinear Systems with Stability Guarantees**|Milad Farsi et.al.|[2204.02395v1](http://arxiv.org/abs/2204.02395v1)|null|
+|**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
+|**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
+|**2022-04-05**|**Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models**|Jose L. Vazquez et.al.|[2204.02392v1](http://arxiv.org/abs/2204.02392v1)|null|
+|**2022-04-05**|**Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower**|Jimmy Wu et.al.|[2204.02390v1](http://arxiv.org/abs/2204.02390v1)|null|
 |**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
 |**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
 |**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
@@ -389,6 +401,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
+|**2022-04-05**|**Too Big to Fail? Active Few-Shot Learning Guided Logic Synthesis**|Animesh Basak Chowdhury et.al.|[2204.02368v1](http://arxiv.org/abs/2204.02368v1)|null|
+|**2022-04-05**|**On Boussinesq's equation for water waves**|C. Charlier et.al.|[2204.02365v1](http://arxiv.org/abs/2204.02365v1)|null|
+|**2022-04-05**|**Towards Best Practices for Training Multilingual Dense Retrieval Models**|Xinyu Zhang et.al.|[2204.02363v1](http://arxiv.org/abs/2204.02363v1)|null|
+|**2022-04-05**|**Root finding techniques that work**|Aaron Melman et.al.|[2204.02326v1](http://arxiv.org/abs/2204.02326v1)|null|
+|**2022-04-05**|**Nearly minimax robust estimator of the mean vector by iterative spectral dimension reduction**|Amir-Hossein Bateni et.al.|[2204.02323v1](http://arxiv.org/abs/2204.02323v1)|null|
 |**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
 |**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
 |**2022-04-04**|**Long Movie Clip Classification with State-Space Video Models**|Md Mohaiminul Islam et.al.|[2204.01692v1](http://arxiv.org/abs/2204.01692v1)|null|
@@ -574,6 +592,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
+|**2022-04-05**|**Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth Estimation**|Zhengyang Lu et.al.|[2204.02386v1](http://arxiv.org/abs/2204.02386v1)|null|
+|**2022-04-05**|**Hear No Evil: Towards Adversarial Robustness of Automatic Speech Recognition via Multi-Task Learning**|Nilaksh Das et.al.|[2204.02381v1](http://arxiv.org/abs/2204.02381v1)|null|
+|**2022-04-05**|**SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering**|Vipul Gupta et.al.|[2204.02285v1](http://arxiv.org/abs/2204.02285v1)|**[link](https://github.com/vipulgupta1011/swapmix)**|
+|**2022-04-05**|**Recent Trends on Nonlinear Filtering for Inverse Problems**|Michael Herty et.al.|[2204.02253v1](http://arxiv.org/abs/2204.02253v1)|null|
+|**2022-04-05**|**A Set Membership Approach to Discovering Feature Relevance and Explaining Neural Classifier Decisions**|Stavros P. Adam et.al.|[2204.02241v1](http://arxiv.org/abs/2204.02241v1)|null|
 |**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
 |**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
 |**2022-04-04**|**Long Movie Clip Classification with State-Space Video Models**|Md Mohaiminul Islam et.al.|[2204.01692v1](http://arxiv.org/abs/2204.01692v1)|null|
