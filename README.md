@@ -1,9 +1,15 @@
-## Updated on 2022.04.06
+## Updated on 2022.04.07
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
+|**2022-04-06**|**Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation**|Sravya Popuri et.al.|[2204.02967v1](http://arxiv.org/abs/2204.02967v1)|null|
+|**2022-04-06**|**LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification**|Sharath Girish et.al.|[2204.02965v1](http://arxiv.org/abs/2204.02965v1)|**[link](https://github.com/sharath-girish/lilnetx)**|
+|**2022-04-06**|**Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**|Yuxin Fang et.al.|[2204.02964v1](http://arxiv.org/abs/2204.02964v1)|**[link](https://github.com/hustvl/mimdet)**|
+|**2022-04-06**|**SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities**|Reza Azad et.al.|[2204.02961v1](http://arxiv.org/abs/2204.02961v1)|**[link](https://github.com/rezazad68/smunet)**|
+|**2022-04-06**|**Simple and Effective Synthesis of Indoor 3D Scenes**|Jing Yu Koh et.al.|[2204.02960v1](http://arxiv.org/abs/2204.02960v1)|null|
 |**2022-04-05**|**fBLS -- a fast-folding BLS algorithm**|Sahar Shahaf et.al.|[2204.02398v1](http://arxiv.org/abs/2204.02398v1)|null|
 |**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
 |**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
@@ -195,6 +201,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation**|Sravya Popuri et.al.|[2204.02967v1](http://arxiv.org/abs/2204.02967v1)|null|
+|**2022-04-06**|**LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification**|Sharath Girish et.al.|[2204.02965v1](http://arxiv.org/abs/2204.02965v1)|**[link](https://github.com/sharath-girish/lilnetx)**|
+|**2022-04-06**|**SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities**|Reza Azad et.al.|[2204.02961v1](http://arxiv.org/abs/2204.02961v1)|**[link](https://github.com/rezazad68/smunet)**|
+|**2022-04-06**|**Simple and Effective Synthesis of Indoor 3D Scenes**|Jing Yu Koh et.al.|[2204.02960v1](http://arxiv.org/abs/2204.02960v1)|null|
+|**2022-04-06**|**Computation of the Time-Dependent Dirac Equation with Physics-Informed Neural Networks**|Emmanuel Lorin et.al.|[2204.02959v1](http://arxiv.org/abs/2204.02959v1)|null|
+|**2022-04-06**|**LEAD: Self-Supervised Landmark Estimation by Aligning Distributions of Feature Similarity**|Tejan Karmali et.al.|[2204.02958v1](http://arxiv.org/abs/2204.02958v1)|null|
 |**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
 |**2022-04-05**|**A Piecewise Learning Framework for Control of Unknown Nonlinear Systems with Stability Guarantees**|Milad Farsi et.al.|[2204.02395v1](http://arxiv.org/abs/2204.02395v1)|null|
 |**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
@@ -401,6 +413,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Gauge Quantum Thermodynamics of Time-local non-Markovian Evolutions**|Fernando Nicacio et.al.|[2204.02966v1](http://arxiv.org/abs/2204.02966v1)|null|
+|**2022-04-06**|**Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**|Yuxin Fang et.al.|[2204.02964v1](http://arxiv.org/abs/2204.02964v1)|**[link](https://github.com/hustvl/mimdet)**|
+|**2022-04-06**|**Operational classical mechanics: Holonomic Systems**|A. D Bermúdez Manjarres et.al.|[2204.02955v1](http://arxiv.org/abs/2204.02955v1)|null|
+|**2022-04-06**|**End-to-End Instance Edge Detection**|Xueyan Zou et.al.|[2204.02898v1](http://arxiv.org/abs/2204.02898v1)|null|
+|**2022-04-06**|**Sampling-based Fast Gradient Rescaling Method for Highly Transferable Adversarial Attacks**|Xu Han et.al.|[2204.02887v1](http://arxiv.org/abs/2204.02887v1)|null|
+|**2022-04-06**|**Speed limits of the trace distance in the interaction picture for open quantum system**|Satoshi Nakajima et.al.|[2204.02884v1](http://arxiv.org/abs/2204.02884v1)|null|
 |**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
 |**2022-04-05**|**Too Big to Fail? Active Few-Shot Learning Guided Logic Synthesis**|Animesh Basak Chowdhury et.al.|[2204.02368v1](http://arxiv.org/abs/2204.02368v1)|null|
 |**2022-04-05**|**On Boussinesq's equation for water waves**|C. Charlier et.al.|[2204.02365v1](http://arxiv.org/abs/2204.02365v1)|null|
@@ -592,6 +610,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Strongly convergent homogeneous approximations to inhomogeneous Markov jump processes and applications**|Martin Bladt et.al.|[2204.02954v1](http://arxiv.org/abs/2204.02954v1)|null|
+|**2022-04-06**|**S-R2F2U-Net: A single-stage model for teeth segmentation**|Mrinal Kanti Dhar et.al.|[2204.02939v1](http://arxiv.org/abs/2204.02939v1)|**[link](https://github.com/mrinal054/teethseg_sr2f2u-net)**|
+|**2022-04-06**|**Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding**|Shanshan Wang et.al.|[2204.02922v1](http://arxiv.org/abs/2204.02922v1)|null|
+|**2022-04-06**|**End-to-End Instance Edge Detection**|Xueyan Zou et.al.|[2204.02898v1](http://arxiv.org/abs/2204.02898v1)|null|
+|**2022-04-06**|**Sampling-based Fast Gradient Rescaling Method for Highly Transferable Adversarial Attacks**|Xu Han et.al.|[2204.02887v1](http://arxiv.org/abs/2204.02887v1)|null|
+|**2022-04-06**|**Leading superconducting instabilities in three-dimensional models for Sr2RuO4**|Astrid T. Rømer et.al.|[2204.02880v1](http://arxiv.org/abs/2204.02880v1)|null|
 |**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
 |**2022-04-05**|**Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth Estimation**|Zhengyang Lu et.al.|[2204.02386v1](http://arxiv.org/abs/2204.02386v1)|null|
 |**2022-04-05**|**Hear No Evil: Towards Adversarial Robustness of Automatic Speech Recognition via Multi-Task Learning**|Nilaksh Das et.al.|[2204.02381v1](http://arxiv.org/abs/2204.02381v1)|null|
