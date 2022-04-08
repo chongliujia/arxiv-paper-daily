@@ -1,9 +1,15 @@
-## Updated on 2022.04.07
+## Updated on 2022.04.08
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Unsupervised Prompt Learning for Vision-Language Models**|Tony Huang et.al.|[2204.03649v1](http://arxiv.org/abs/2204.03649v1)|**[link](https://github.com/tonyhuang2022/upl)**|
+|**2022-04-07**|**SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage**|Yifan Wang et.al.|[2204.03648v1](http://arxiv.org/abs/2204.03648v1)|null|
+|**2022-04-07**|**Adapting CLIP For Phrase Localization Without Further Training**|Jiahao Li et.al.|[2204.03647v1](http://arxiv.org/abs/2204.03647v1)|null|
+|**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
+|**2022-04-07**|**DaViT: Dual Attention Vision Transformers**|Mingyu Ding et.al.|[2204.03645v1](http://arxiv.org/abs/2204.03645v1)|**[link](https://github.com/dingmyu/davit)**|
+|**2022-04-07**|**Total Variation Optimization Layers for Computer Vision**|Raymond A. Yeh et.al.|[2204.03643v1](http://arxiv.org/abs/2204.03643v1)|**[link](https://github.com/raymondyeh07/tv_layers_for_cv)**|
 |**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
 |**2022-04-06**|**Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation**|Sravya Popuri et.al.|[2204.02967v1](http://arxiv.org/abs/2204.02967v1)|null|
 |**2022-04-06**|**LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification**|Sharath Girish et.al.|[2204.02965v1](http://arxiv.org/abs/2204.02965v1)|**[link](https://github.com/sharath-girish/lilnetx)**|
@@ -201,6 +207,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Unsupervised Prompt Learning for Vision-Language Models**|Tony Huang et.al.|[2204.03649v1](http://arxiv.org/abs/2204.03649v1)|**[link](https://github.com/tonyhuang2022/upl)**|
+|**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
+|**2022-04-07**|**Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction**|Kalyan Vasudev Alwala et.al.|[2204.03642v1](http://arxiv.org/abs/2204.03642v1)|null|
+|**2022-04-07**|**Unsupervised Image-to-Image Translation with Generative Prior**|Shuai Yang et.al.|[2204.03641v1](http://arxiv.org/abs/2204.03641v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
+|**2022-04-07**|**Equivariance Discovery by Learned Parameter-Sharing**|Raymond A. Yeh et.al.|[2204.03640v1](http://arxiv.org/abs/2204.03640v1)|**[link](https://github.com/raymondyeh07/equivariance_discovery)**|
+|**2022-04-07**|**Class-Incremental Learning with Strong Pre-trained Models**|Tz-Ying Wu et.al.|[2204.03634v1](http://arxiv.org/abs/2204.03634v1)|null|
 |**2022-04-06**|**Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation**|Sravya Popuri et.al.|[2204.02967v1](http://arxiv.org/abs/2204.02967v1)|null|
 |**2022-04-06**|**LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification**|Sharath Girish et.al.|[2204.02965v1](http://arxiv.org/abs/2204.02965v1)|**[link](https://github.com/sharath-girish/lilnetx)**|
 |**2022-04-06**|**SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities**|Reza Azad et.al.|[2204.02961v1](http://arxiv.org/abs/2204.02961v1)|**[link](https://github.com/rezazad68/smunet)**|
@@ -413,6 +425,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**DaViT: Dual Attention Vision Transformers**|Mingyu Ding et.al.|[2204.03645v1](http://arxiv.org/abs/2204.03645v1)|**[link](https://github.com/dingmyu/davit)**|
+|**2022-04-07**|**Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer**|Songwei Ge et.al.|[2204.03638v1](http://arxiv.org/abs/2204.03638v1)|null|
+|**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
+|**2022-04-07**|**Zero-Shot Category-Level Object Pose Estimation**|Walter Goodwin et.al.|[2204.03635v1](http://arxiv.org/abs/2204.03635v1)|null|
+|**2022-04-07**|**Unified Contrastive Learning in Image-Text-Label Space**|Jianwei Yang et.al.|[2204.03610v1](http://arxiv.org/abs/2204.03610v1)|**[link](https://github.com/microsoft/unicl)**|
+|**2022-04-07**|**A General Class of Trimodal Distributions: Properties and Inference**|Roberto Vila et.al.|[2204.03602v1](http://arxiv.org/abs/2204.03602v1)|null|
 |**2022-04-06**|**Gauge Quantum Thermodynamics of Time-local non-Markovian Evolutions**|Fernando Nicacio et.al.|[2204.02966v1](http://arxiv.org/abs/2204.02966v1)|null|
 |**2022-04-06**|**Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**|Yuxin Fang et.al.|[2204.02964v1](http://arxiv.org/abs/2204.02964v1)|**[link](https://github.com/hustvl/mimdet)**|
 |**2022-04-06**|**Operational classical mechanics: Holonomic Systems**|A. D Bermúdez Manjarres et.al.|[2204.02955v1](http://arxiv.org/abs/2204.02955v1)|null|
@@ -610,6 +628,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
+|**2022-04-07**|**DaViT: Dual Attention Vision Transformers**|Mingyu Ding et.al.|[2204.03645v1](http://arxiv.org/abs/2204.03645v1)|**[link](https://github.com/dingmyu/davit)**|
+|**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
+|**2022-04-07**|**Topologically protected vortex knots and links**|Toni Annala et.al.|[2204.03612v1](http://arxiv.org/abs/2204.03612v1)|null|
+|**2022-04-07**|**BERTuit: Understanding Spanish language in Twitter through a native transformer**|Javier Huertas-Tato et.al.|[2204.03465v1](http://arxiv.org/abs/2204.03465v1)|null|
+|**2022-04-07**|**High-T$_c$ cuprates: a story of two electron subsystems**|Neven Barišić et.al.|[2204.03464v1](http://arxiv.org/abs/2204.03464v1)|null|
 |**2022-04-06**|**Strongly convergent homogeneous approximations to inhomogeneous Markov jump processes and applications**|Martin Bladt et.al.|[2204.02954v1](http://arxiv.org/abs/2204.02954v1)|null|
 |**2022-04-06**|**S-R2F2U-Net: A single-stage model for teeth segmentation**|Mrinal Kanti Dhar et.al.|[2204.02939v1](http://arxiv.org/abs/2204.02939v1)|**[link](https://github.com/mrinal054/teethseg_sr2f2u-net)**|
 |**2022-04-06**|**Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding**|Shanshan Wang et.al.|[2204.02922v1](http://arxiv.org/abs/2204.02922v1)|null|
