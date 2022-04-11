@@ -1,9 +1,15 @@
-## Updated on 2022.04.10
+## Updated on 2022.04.11
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
+|**2022-04-08**|**A Mini-Chemical Scheme with Net Reactions for 3D GCMs I.: Thermochemical Kinetics**|Shang-Min Tsai et.al.|[2204.04201v1](http://arxiv.org/abs/2204.04201v1)|null|
+|**2022-04-08**|**Computational challenges for multi-loop collider phenomenology**|Fernando Febres Cordero et.al.|[2204.04200v1](http://arxiv.org/abs/2204.04200v1)|null|
+|**2022-04-08**|**Underwater Image Enhancement Using Pre-trained Transformer**|Abderrahmene Boudiaf et.al.|[2204.04199v1](http://arxiv.org/abs/2204.04199v1)|null|
+|**2022-04-08**|**The Dyson-Schwinger equations and the non-perturbative solution of QED: exploring the two-photon-two-fermion irreducible vertex**|Orlando Oliveira et.al.|[2204.04197v1](http://arxiv.org/abs/2204.04197v1)|null|
+|**2022-04-08**|**Efficient Partial Credit Grading of Proof Blocks Problems**|Seth Poulsen et.al.|[2204.04196v1](http://arxiv.org/abs/2204.04196v1)|null|
 |**2022-04-07**|**Unsupervised Prompt Learning for Vision-Language Models**|Tony Huang et.al.|[2204.03649v1](http://arxiv.org/abs/2204.03649v1)|**[link](https://github.com/tonyhuang2022/upl)**|
 |**2022-04-07**|**SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage**|Yifan Wang et.al.|[2204.03648v1](http://arxiv.org/abs/2204.03648v1)|null|
 |**2022-04-07**|**Adapting CLIP For Phrase Localization Without Further Training**|Jiahao Li et.al.|[2204.03647v1](http://arxiv.org/abs/2204.03647v1)|**[link](https://github.com/pals-ttic/adapting-clip)**|
@@ -207,6 +213,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**Learning Polynomial Transformations**|Sitan Chen et.al.|[2204.04209v1](http://arxiv.org/abs/2204.04209v1)|null|
+|**2022-04-08**|**Underwater Image Enhancement Using Pre-trained Transformer**|Abderrahmene Boudiaf et.al.|[2204.04199v1](http://arxiv.org/abs/2204.04199v1)|null|
+|**2022-04-08**|**Modern applications of machine learning in quantum sciences**|Anna Dawid et.al.|[2204.04198v1](http://arxiv.org/abs/2204.04198v1)|null|
+|**2022-04-08**|**A Low-Cost Robot Science Kit for Education with Symbolic Regression for Hypothesis Discovery and Validation**|Logan Saar et.al.|[2204.04187v1](http://arxiv.org/abs/2204.04187v1)|null|
+|**2022-04-08**|**Automatic Data Augmentation Selection and Parametrization in Contrastive Self-Supervised Speech Representation Learning**|Salah Zaiem et.al.|[2204.04170v1](http://arxiv.org/abs/2204.04170v1)|**[link](https://github.com/salah-zaiem/augmentations)**|
+|**2022-04-08**|**Ranking with submodular functions on a budget**|Guangyi Zhang et.al.|[2204.04168v1](http://arxiv.org/abs/2204.04168v1)|null|
 |**2022-04-07**|**Unsupervised Prompt Learning for Vision-Language Models**|Tony Huang et.al.|[2204.03649v1](http://arxiv.org/abs/2204.03649v1)|**[link](https://github.com/tonyhuang2022/upl)**|
 |**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
 |**2022-04-07**|**Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction**|Kalyan Vasudev Alwala et.al.|[2204.03642v1](http://arxiv.org/abs/2204.03642v1)|null|
@@ -425,6 +437,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**Learning Polynomial Transformations**|Sitan Chen et.al.|[2204.04209v1](http://arxiv.org/abs/2204.04209v1)|null|
+|**2022-04-08**|**Underwater Image Enhancement Using Pre-trained Transformer**|Abderrahmene Boudiaf et.al.|[2204.04199v1](http://arxiv.org/abs/2204.04199v1)|null|
+|**2022-04-08**|**Improving LSHADE by means of a pre-screening mechanism**|Mateusz Zaborski et.al.|[2204.04105v1](http://arxiv.org/abs/2204.04105v1)|null|
+|**2022-04-08**|**POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition**|Ce Zheng et.al.|[2204.04083v1](http://arxiv.org/abs/2204.04083v1)|**[link](https://github.com/zczcwh/poster)**|
+|**2022-04-08**|**Improving Tokenisation by Alternative Treatment of Spaces**|Edward Gow-Smith et.al.|[2204.04058v1](http://arxiv.org/abs/2204.04058v1)|**[link](https://github.com/edwardgowsmith/improved-tokenisation-methods)**|
+|**2022-04-08**|**Transformation-Invariant Learning of Optimal Individualized Decision Rules with Time-to-Event Outcomes**|Yu Zhou et.al.|[2204.04052v1](http://arxiv.org/abs/2204.04052v1)|null|
 |**2022-04-07**|**DaViT: Dual Attention Vision Transformers**|Mingyu Ding et.al.|[2204.03645v1](http://arxiv.org/abs/2204.03645v1)|**[link](https://github.com/dingmyu/davit)**|
 |**2022-04-07**|**Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer**|Songwei Ge et.al.|[2204.03638v1](http://arxiv.org/abs/2204.03638v1)|null|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
@@ -628,6 +646,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**Nonlinear manipulation of orbital angular momentum spectra with second- and third- harmonic generation in a quasi-periodically poled crystal**|Yu-Xiang Yang et.al.|[2204.04175v1](http://arxiv.org/abs/2204.04175v1)|null|
+|**2022-04-08**|**Identifying Experts in Question \& Answer Portals: A Case Study on Data Science Competencies in Reddit**|Sofia Strukova et.al.|[2204.04098v1](http://arxiv.org/abs/2204.04098v1)|null|
+|**2022-04-08**|**POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition**|Ce Zheng et.al.|[2204.04083v1](http://arxiv.org/abs/2204.04083v1)|**[link](https://github.com/zczcwh/poster)**|
+|**2022-04-08**|**Points to Patches: Enabling the Use of Self-Attention for 3D Shape Recognition**|Axel Berg et.al.|[2204.03957v1](http://arxiv.org/abs/2204.03957v1)|**[link](https://github.com/axeber01/point-tnt)**|
+|**2022-04-08**|**The Psychology of Mineral Wealth: Empirical Evidence from Kazakhstan**|Elissaios Pappyrakis et.al.|[2204.03948v1](http://arxiv.org/abs/2204.03948v1)|null|
+|**2022-04-08**|**A posteriori learning for quasi-geostrophic turbulence parametrization**|Hugo Frezat et.al.|[2204.03911v1](http://arxiv.org/abs/2204.03911v1)|null|
 |**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
 |**2022-04-07**|**DaViT: Dual Attention Vision Transformers**|Mingyu Ding et.al.|[2204.03645v1](http://arxiv.org/abs/2204.03645v1)|**[link](https://github.com/dingmyu/davit)**|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
