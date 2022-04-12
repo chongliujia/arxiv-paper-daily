@@ -1,9 +1,15 @@
-## Updated on 2022.04.11
+## Updated on 2022.04.12
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**On the Generalization of BasicVSR++ to Video Deblurring and Denoising**|Kelvin C. K. Chan et.al.|[2204.05308v1](http://arxiv.org/abs/2204.05308v1)|null|
+|**2022-04-11**|**Toward More Effective Human Evaluation for Machine Translation**|Belén Saldías et.al.|[2204.05307v1](http://arxiv.org/abs/2204.05307v1)|null|
+|**2022-04-11**|**Full-Spectrum Out-of-Distribution Detection**|Jingkang Yang et.al.|[2204.05306v1](http://arxiv.org/abs/2204.05306v1)|**[link](https://github.com/jingkang50/openood)**|
+|**2022-04-11**|**Hierarchical Bayesian Persuasion: Importance of Vice Presidents**|Majid Mahzoon et.al.|[2204.05304v1](http://arxiv.org/abs/2204.05304v1)|null|
+|**2022-04-11**|**Single-Photon Structured Light**|Varun Sundar et.al.|[2204.05300v1](http://arxiv.org/abs/2204.05300v1)|null|
+|**2022-04-11**|**Towards Online Domain Adaptive Object Detection**|Vibashan VS et.al.|[2204.05289v1](http://arxiv.org/abs/2204.05289v1)|**[link](https://github.com/vibashan/online-od)**|
 |**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
 |**2022-04-08**|**A Mini-Chemical Scheme with Net Reactions for 3D GCMs I.: Thermochemical Kinetics**|Shang-Min Tsai et.al.|[2204.04201v1](http://arxiv.org/abs/2204.04201v1)|null|
 |**2022-04-08**|**Computational challenges for multi-loop collider phenomenology**|Fernando Febres Cordero et.al.|[2204.04200v1](http://arxiv.org/abs/2204.04200v1)|null|
@@ -213,6 +219,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**Toward More Effective Human Evaluation for Machine Translation**|Belén Saldías et.al.|[2204.05307v1](http://arxiv.org/abs/2204.05307v1)|null|
+|**2022-04-11**|**Full-Spectrum Out-of-Distribution Detection**|Jingkang Yang et.al.|[2204.05306v1](http://arxiv.org/abs/2204.05306v1)|**[link](https://github.com/jingkang50/openood)**|
+|**2022-04-11**|**Two-step estimation in linear regressions with adaptive learning**|Alexander Mayer et.al.|[2204.05298v1](http://arxiv.org/abs/2204.05298v1)|null|
+|**2022-04-11**|**Towards Online Domain Adaptive Object Detection**|Vibashan VS et.al.|[2204.05289v1](http://arxiv.org/abs/2204.05289v1)|**[link](https://github.com/vibashan/online-od)**|
+|**2022-04-11**|**Expressivity of Variational Quantum Machine Learning on the Boolean Cube**|Dylan Herman et.al.|[2204.05286v1](http://arxiv.org/abs/2204.05286v1)|null|
+|**2022-04-11**|**Physically Disentangled Representations**|Tzofi Klinghoffer et.al.|[2204.05281v1](http://arxiv.org/abs/2204.05281v1)|null|
 |**2022-04-08**|**Learning Polynomial Transformations**|Sitan Chen et.al.|[2204.04209v1](http://arxiv.org/abs/2204.04209v1)|null|
 |**2022-04-08**|**Underwater Image Enhancement Using Pre-trained Transformer**|Abderrahmene Boudiaf et.al.|[2204.04199v1](http://arxiv.org/abs/2204.04199v1)|null|
 |**2022-04-08**|**Modern applications of machine learning in quantum sciences**|Anna Dawid et.al.|[2204.04198v1](http://arxiv.org/abs/2204.04198v1)|null|
@@ -422,6 +434,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification**|Jianhai Zhang et.al.|[2204.04952v1](http://arxiv.org/abs/2204.04952v1)|null|
 |**2022-03-28**|**A Framework of Meta Functional Learning for Regularising Knowledge Transfer**|Pan Li et.al.|[2203.14840v1](http://arxiv.org/abs/2203.14840v1)|null|
 |**2022-03-15**|**Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning**|Yuqian Fu et.al.|[2203.07656v1](http://arxiv.org/abs/2203.07656v1)|null|
 |**2022-03-03**|**MetaDT: Meta Decision Tree for Interpretable Few-Shot Learning**|Baoquan Zhang et.al.|[2203.01482v1](http://arxiv.org/abs/2203.01482v1)|null|
@@ -437,6 +450,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**On the Generalization of BasicVSR++ to Video Deblurring and Denoising**|Kelvin C. K. Chan et.al.|[2204.05308v1](http://arxiv.org/abs/2204.05308v1)|null|
+|**2022-04-11**|**Towards Online Domain Adaptive Object Detection**|Vibashan VS et.al.|[2204.05289v1](http://arxiv.org/abs/2204.05289v1)|**[link](https://github.com/vibashan/online-od)**|
+|**2022-04-11**|**Neglectable effect of brain MRI data prepreprocessing for tumor segmentation**|Ekaterina Kondrateva et.al.|[2204.05278v1](http://arxiv.org/abs/2204.05278v1)|null|
+|**2022-04-11**|**Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics**|Albert Musaelian et.al.|[2204.05249v1](http://arxiv.org/abs/2204.05249v1)|null|
+|**2022-04-11**|**"FIJO": a French Insurance Soft Skill Detection Dataset**|David Beauchemin et.al.|[2204.05208v1](http://arxiv.org/abs/2204.05208v1)|**[link](https://github.com/iid-ulaval/fijo-code)**|
+|**2022-04-11**|**Snowmass White Paper: Gravitational Waves and Scattering Amplitudes**|Alessandra Buonanno et.al.|[2204.05194v1](http://arxiv.org/abs/2204.05194v1)|null|
 |**2022-04-08**|**Learning Polynomial Transformations**|Sitan Chen et.al.|[2204.04209v1](http://arxiv.org/abs/2204.04209v1)|null|
 |**2022-04-08**|**Underwater Image Enhancement Using Pre-trained Transformer**|Abderrahmene Boudiaf et.al.|[2204.04199v1](http://arxiv.org/abs/2204.04199v1)|null|
 |**2022-04-08**|**Improving LSHADE by means of a pre-screening mechanism**|Mateusz Zaborski et.al.|[2204.04105v1](http://arxiv.org/abs/2204.04105v1)|**[link](https://bitbucket.org/mateuszzaborski/pslshade)**|
@@ -646,6 +665,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**Towards Online Domain Adaptive Object Detection**|Vibashan VS et.al.|[2204.05289v1](http://arxiv.org/abs/2204.05289v1)|**[link](https://github.com/vibashan/online-od)**|
+|**2022-04-11**|**Maximum entropy optimal density control of discrete-time linear systems and Schrödinger bridges**|Kaito Ito et.al.|[2204.05263v1](http://arxiv.org/abs/2204.05263v1)|null|
+|**2022-04-11**|**Learning Downstream Task by Selectively Capturing Complementary Knowledge from Multiple Self-supervisedly Learning Pretexts**|Quan Feng et.al.|[2204.05248v1](http://arxiv.org/abs/2204.05248v1)|null|
+|**2022-04-11**|**Anisotropic magnetotransport in the layered antiferromagnet TaFe$_{1.25}$Te$_3$**|Rajeswari Roy Chowdhury et.al.|[2204.05213v1](http://arxiv.org/abs/2204.05213v1)|null|
+|**2022-04-11**|**Tokenwise Contrastive Pretraining for Finer Speech-to-BERT Alignment in End-to-End Speech-to-Intent Systems**|Vishal Sunder et.al.|[2204.05188v1](http://arxiv.org/abs/2204.05188v1)|null|
+|**2022-04-11**|**Event Transformer**|Zhihao Li et.al.|[2204.05172v1](http://arxiv.org/abs/2204.05172v1)|null|
 |**2022-04-08**|**Nonlinear manipulation of orbital angular momentum spectra with second- and third- harmonic generation in a quasi-periodically poled crystal**|Yu-Xiang Yang et.al.|[2204.04175v1](http://arxiv.org/abs/2204.04175v1)|null|
 |**2022-04-08**|**Identifying Experts in Question \& Answer Portals: A Case Study on Data Science Competencies in Reddit**|Sofia Strukova et.al.|[2204.04098v1](http://arxiv.org/abs/2204.04098v1)|null|
 |**2022-04-08**|**POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition**|Ce Zheng et.al.|[2204.04083v1](http://arxiv.org/abs/2204.04083v1)|**[link](https://github.com/zczcwh/poster)**|
